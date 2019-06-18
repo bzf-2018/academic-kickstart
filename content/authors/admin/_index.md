@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include Civil Computing , Graph and Spatial Data and Machine Learning.
 
 interests:
-- Civil Computing 
-- Graph and Spatial Data
-- Machine Learning
+- Data Visualization & Visualized Data Exploration
+- Trajectory Data Mangement   
+- Geo-located Data Integration and Cleaning
+- Spatio-Textual query processing
 
 education:
   courses:
