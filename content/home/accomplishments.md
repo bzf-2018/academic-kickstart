@@ -21,10 +21,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Google Faculty Award 2015"
+  title = "Google Faculty Award"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2019-03-01"
   date_end = ""
   description = ""
 
