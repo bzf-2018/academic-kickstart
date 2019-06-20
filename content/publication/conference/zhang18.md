@@ -6,7 +6,7 @@ authors:
 - Yuchen Li
 - Guoliang Li
 - Zhiyong Peng
-publishDate: "2018T"
+publishDate: "2018-08-13T"
 publication_types: ["1"]
 publication: In *International Conference on Knowledge Discovery and Data Mining*
 publication_short: In *International Conference on Knowledge Discovery and Data Mining (KDD)*
