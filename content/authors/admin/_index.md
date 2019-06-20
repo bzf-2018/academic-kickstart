@@ -65,12 +65,10 @@ user_groups:
 - Visitors
 ---
 
-I am looking for PhD/master students to work with me on demanding Urban Data Analytics projects under my civil [computing](https://google.com) team. If you are a highly motivated student and interested in doing big data research, please contact me (see prospective students). 
+I obtained my PhD in computer science from National University of Singapore ([NUS](http://www.nus.edu.sg/)), and was the winner of the Best PhD Thesis Award. I hold an honorary fellow position at University of Melbourne and a senior lecturer position at RMIT.  I am the Head of the Big Data and Database Group at [the RMIT Center of Information Discovery and Data Analytics](https://www.rmit.edu.au/research/research-institutes-centres-and-groups/research-centres/centre-for-information-discovery).
 
-I obtained my PhD in computer science from National University of Singapore (NUS), and was the winner of the Best PhD Thesis Award. I hold an honorary fellow position at University of Melbourne and a senior lecturer position at RMIT.  I am the Head of the Big Data and Database Group at the RMIT Center of Information Discovery and Data Analytics.
+I am also the director of [RMIT master of data science program](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-data-science-mc267), aiming to use Data Science to serve demanding data analysis needs from different sectors of RMIT and industry partners, with the goal of making our students Ready To Work. 
 
-I am also the director of RMIT master of data science program, aiming to use Data Science to serve demanding data analysis needs from different sectors of RMIT and industry partners, with the goal of making our students Ready To Work. 
+My research is supported by Google (Two-time Google Research Award recipient), Australasian Research Council and Data61. I am generally interested in big data management, data visualization, information retrieval, and applied machine learning to each of the aforementioned topics. In particular, I propose the topic of **Civil Computing** and has made contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone** for optimal decision making.
 
-My research is supported by Google (Two-time Google Research Award recipient), Australasian Research Council and Data61. I am generally interested in big data management, data visualization, information retrieval, and applied machine learning to each of the aforementioned topics. In particular, I propose the topic of Civil Computing and has made contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to make big data empower everyone for optimal decision making.
-
- 
+**I am looking for PhD/master students to work with me on demanding Urban Data Analytics projects under my civil computing team**. If you are a highly motivated student and interested in doing big data research, please contact me (see prospective students).  
