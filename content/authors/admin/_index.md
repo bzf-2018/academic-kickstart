@@ -45,10 +45,10 @@ social:
   link: 
 - icon: google-scholar
   icon_pack: ai
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
+  link: https://scholar.google.com/citations?hl=zh-CN&user=ck-yNM0AAAAJ
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.uni-trier.de/pers/hd/b/Bao:Zhifeng
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
