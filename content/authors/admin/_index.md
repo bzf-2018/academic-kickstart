@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zhi
+name: Zhifeng
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Senior Lecture
 
 # Organizations/Affiliations
 organizations:
-- name: RMIT Universi
+- name: RMIT University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
