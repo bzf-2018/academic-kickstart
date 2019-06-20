@@ -39,62 +39,13 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = ""
-  organization_url = ""
-  title = "Best PhD Thesis Award of Class"
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Object-Oriented Programming in R: S3 and R6 Course"
   url = ""
-  certificate_url = ""
-  date_start = "2011"
-  date_end = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
   description = ""
 
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Teaching Excellence Award of RMIT College of SEH"
-  url = ""
-  certificate_url = ""
-  date_start = "2017"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "ADC Best Paper Award"
-  url = ""
-  certificate_url = ""
-  date_start = "2017"
-  date_end = ""
-  description = ""
-  
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "DASFAA Best Student Paper Runnerup Award"
-  url = ""
-  certificate_url = ""
-  date_start = "2017"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "ADC Best Student Paper Award"
-  url = ""
-  certificate_url = ""
-  date_start = "2016"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "ADC Best Demo Paper Award"
-  url = ""
-  certificate_url = ""
-  date_start = "2016"
-  date_end = ""
-  description = ""
 +++
