@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-I am looking for PhD/master students to work with me on demanding Urban Data Analytics projects under my civil [computing](google.com) team. If you are a highly motivated student and interested in doing big data research, please contact me (see prospective students). 
+I am looking for PhD/master students to work with me on demanding Urban Data Analytics projects under my civil [computing](https://google.com) team. If you are a highly motivated student and interested in doing big data research, please contact me (see prospective students). 
 
 I obtained my PhD in computer science from National University of Singapore (NUS), and was the winner of the Best PhD Thesis Award. I hold an honorary fellow position at University of Melbourne and a senior lecturer position at RMIT.  I am the Head of the Big Data and Database Group at the RMIT Center of Information Discovery and Data Analytics.
 
