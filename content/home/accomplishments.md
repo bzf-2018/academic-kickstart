@@ -28,14 +28,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Singapore Infocomm Development Authority Medal 2011"
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = ""
+
 
 +++
