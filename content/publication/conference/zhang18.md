@@ -11,7 +11,7 @@ publication_types: ["1"]
 publication: In *International Conference on Knowledge Discovery and Data Mining*
 publication_short: In *International Conference on Knowledge Discovery and Data Mining (KDD)*
 
-
+abstract: In this paper we propose and study the problem of trajectory driven influential billboard placement. 
 
 #tags:
 #- Source Themes
