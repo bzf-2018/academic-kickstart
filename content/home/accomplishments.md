@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
+  organization = "Google LLC"
   organization_url = ""
   title = "Google Faculty Award"
   url = ""
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = ""
+  organization = "Google LLC"
   organization_url = ""
   title = "Google Faculty Award"
   url = ""
@@ -39,22 +39,22 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = ""
+  organization = "Infocomm Development Authority of Singapore (IDA)"
   organization_url = ""
   title = "Singapore Infocomm Development Authority Medal"
   url = ""
   certificate_url = ""
-  date_start = "2011-03-01"
+  date_start = "2011-04-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = ""
+  organization = "National University of Singapore (NUS)"
   organization_url = ""
   title = "Best PhD Thesis Award of Class"
   url = ""
   certificate_url = ""
-  date_start = "2011"
+  date_start = "2011-04-01"
   date_end = ""
   description = ""
 +++
