@@ -18,10 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am looking for PhD/master students to work with me on demanding Urban Data Analytics projects under my civil computing team. If you are a highly motivated student and interested in doing big data research, please contact me (see prospective students).
+bio: I
 
 interests:
-- Data Visualization & Visualized Data Exploration
+- Data Visualization & 
 - Trajectory Data Mangement   
 - Geo-located Data Integration and Cleaning
 - Spatio-Textual query processing
