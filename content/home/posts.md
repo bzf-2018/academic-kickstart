@@ -28,5 +28,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Our paper "Trajectory-driven Influential Billboard Placement" is selected as one of the Best Papers of SIGKDD"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-09-01"
+  date_end = ""
+  description = ""
 
 +++
