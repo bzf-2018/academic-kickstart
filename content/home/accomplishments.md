@@ -57,4 +57,34 @@ date_format = "Jan 2006"
   date_start = "2011-04-01"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "RMIT University"
+  organization_url = ""
+  title = "School of Science PhD Supervision Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-06-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "RMIT University"
+  organization_url = ""
+  title = "Teaching Excellence Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-08-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "The 28th Australasian Database Conference (ADC)"
+  organization_url = ""
+  title = "Best Paper Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-05-01"
+  date_end = ""
+  description = ""
 +++
