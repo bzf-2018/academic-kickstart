@@ -1,5 +1,5 @@
 ---
-title: "POIsam: a System for Efficient Selection of Large-scale Geospatial Data on Maps"
+title: "An Efficient Object Selection System for Interactive and Visualized Exploration of Geospatial Data"
 authors:
 - Tao Guo
 - Mingzhao Li
