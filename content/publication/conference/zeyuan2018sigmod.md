@@ -1,5 +1,5 @@
 ---
-title: "DITA: Distributed In-Memory Trajectory Analytics"
+title: "POIsam: a System for Efficient Selection of Large-scale Geospatial Data on Maps"
 authors:
 - Zeyuan Shang
 - Guoliang Li
