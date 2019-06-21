@@ -21,12 +21,10 @@ summary: Given a set of billboards U (each with a location and a cost), a databa
 featured: true
 
 links:
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_video: '#'
+- name: Tech Report
+	url: https://arxiv.org/pdf/1802.02254.pdf
+url_pdf: https://dl.acm.org/citation.cfm?doid=3219819.3219946
+#url_slides: ''
+url_video: https://www.youtube.com/watch?v=3eS1ac4KaHU&feature=youtu.be
 
 ---
