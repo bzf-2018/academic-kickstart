@@ -1,5 +1,5 @@
 ---
-title: "Trajectory-driven Influential Billboard Placement"
+title: "Torch: A Search Engine for Trajectory Data"
 authors:
 - Sheng Wang
 - admin
@@ -21,8 +21,6 @@ abstract: This paper presents a new trajectory search engine called Torch for qu
 featured: true
 
 links:
-- name: Tech Report
-  url: https://arxiv.org/pdf/1802.02254.pdf
 - name: System
   url: https://www.google.com/url?q=https%3A%2F%2Ft4research.github.io%2F&sa=D&sntz=1&usg=AFQjCNF7ZYH7ImilgfdVhY8E0OTk5p-_eQ
 - name: Code
