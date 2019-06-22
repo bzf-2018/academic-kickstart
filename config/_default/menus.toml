@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Publications"
-  url = {{< ref "/publication/_index.md" >}}
+  url = "#publications"
   weight = 40
 
 
