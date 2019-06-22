@@ -6,7 +6,7 @@ authors:
 - admin
 - Timos Sellis
 
-publication_types: ["1"]
+publication_types: ["2"]
 publication: In *VLDB Journal 2018*
 publication_short: In *VLDBJ (2018)*
 publishDate: "2018-04-19"

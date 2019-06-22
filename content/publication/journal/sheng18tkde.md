@@ -7,7 +7,7 @@ authors:
 - Timos Sellis
 - Gao Cong
 
-publication_types: ["1"]
+publication_types: ["2"]
 publication: In *the Transactions on Knowledge and Data Engineering (TKDE)*
 publication_short: In *TKDE (2018)*
 publishDate: "2018-04-19"

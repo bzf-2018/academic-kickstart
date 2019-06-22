@@ -6,7 +6,7 @@ authors:
 - admin
 - Timos Sellis
 
-publication_types: ["1"]
+publication_types: ["2"]
 publication: In *Transactions on Spatial Algorithms and Systems (TSAS)*
 publication_short: In *TSAS (2018)*
 publishDate: "2018-05-19"

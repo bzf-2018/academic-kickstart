@@ -7,7 +7,7 @@ authors:
 - Shi Yan
 - Rui Zhang
 
-publication_types: ["1"]
+publication_types: ["2"]
 publication: In *Journal of Visual Languages & Computing*
 publication_short: In *Journal of Visual Languages & Computing (2018)*
 publishDate: "2018-04-19"

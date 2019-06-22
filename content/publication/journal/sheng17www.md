@@ -6,7 +6,7 @@ authors:
 - admin
 - Bohan Li
 
-publication_types: ["1"]
+publication_types: ["2"]
 publication: In *the World Wide Web Journal*
 publication_short: In *WWWJ (2017)*
 publishDate: "2017-09-19"
