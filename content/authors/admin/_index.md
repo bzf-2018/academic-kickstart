@@ -65,4 +65,4 @@ I am also the director of [RMIT master of data science program](https://www.rmit
 
 My research is supported by Google (Two-time Google Research Award recipient), Australasian Research Council and Data61. I am generally interested in big data management, data visualization, information retrieval, and applied machine learning to each of the aforementioned topics. In particular, I propose the topic of **Civil Computing** and has made contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone** for optimal decision making.
 
-**I am looking for PhD/master students to work with me on demanding Urban Data Analytics projects under my civil computing team**. If you are a highly motivated student and interested in doing big data research, please contact me (see prospective students).  
+**I am looking for PhD/master students to work with me on demanding Urban Data Analytics projects under my civil computing team**. If you are a highly motivated student and interested in doing big data research, please contact me.  
