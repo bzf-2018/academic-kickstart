@@ -20,9 +20,10 @@
 
 [[main]]
   name = "Publications"
-  url = "#publications"{target="_blank"}
+  url = "#publications"
   weight = 40
 
+<a href="http://example.com/" target="_blank">example</a>
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
