@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Email\: firstname dot lastname @rmit.edu.au
+role: Email firstname dot lastname @rmit.edu.au
 
 # Organizations/Affiliations
 #organizations:
