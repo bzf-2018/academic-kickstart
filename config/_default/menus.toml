@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Publications"
-  url = "https://zen-goldwasser-fa481f.netlify.com/publication/"
+  url = "#publications"
   weight = 40
 
 
