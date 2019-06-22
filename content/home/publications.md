@@ -67,5 +67,6 @@ subtitle = ""
 +++
 
 {{% alert note %}}
+Please check Google Scholar and DBLP for my full publications.
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
