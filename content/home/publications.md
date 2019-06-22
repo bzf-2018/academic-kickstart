@@ -67,6 +67,7 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Please check Google Scholar and DBLP for my full publications.
+Please check [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=ck-yNM0AAAAJ) and [DBLP](https://dblp.uni-trier.de/pers/hd/b/Bao:Zhifeng) for my full publications.
+
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
