@@ -1,5 +1,5 @@
 ---
-title: Information Visulization
+title: Visulization
 #summary: Trajectories for Traffic, Transport, and Trips.
 tags:
 - Visulization and Analytics
