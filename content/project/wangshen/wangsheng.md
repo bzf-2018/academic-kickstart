@@ -11,7 +11,6 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-  url: https://d25tv1xepz39hi.cloudfront.net/images/917.jpg
 
 
 
