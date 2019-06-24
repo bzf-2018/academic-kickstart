@@ -15,13 +15,14 @@ image:
 
 ---
 
-[**T4 - Trajectories for Traffic, Transport, and Trips**](https://t4research.github.io/) is a powerful platform for analyzing different types of trajectory data, which can be applied to various applications such as Real-time Traffic Monitoring, Intelligent Traffic Signal Control and Interactive Trip Planing.
+We propose a powerful [**platform**](http://115.146.89.158/) to analyze and visualize data, which is applied to many downstream real-worl applications. Specifically, the current platform consists of three systems, HomeSeeker, ConcaveCubes and AOI-shapes, which serve for different applications. 
 
-#### Real-time Traffic Monitoring
-T4 enables intelligent analytics over real-time and historical trajectories from vehicles. At the front end, we visualize the current traffic flow and result trajectories of different types of queries. At the back end, T4 is able to support multiple types of common queries over trajectories, with compact storage, efficient index and pruning algorithms.
 
-#### Intelligent Traffic Signal Control
-T4 applies reinforcement learning-based traffic light controller for reducing traffic jams. We train the deep models for traffic flow prediction and traffic signal control to reduce traffic congestion.
+#### HomeSeeker
+HomeSeeker assists users in understanding the local areas and local real estate market, exploring and finding candidate properties based on their individual requirements, and visually comparing properties/suburbs in multiple aspects.
+
+#### ConcaveCubes
+ConcaveCubes is a cluster-based data cube to support interactive visualization of large-scale multidimensional urban data.
 
 #### Interactive Trip Planing
-T$ enables users’ interactive exploration of POIs and trajectories in their incremental trip planning. At the back end, TISP is able to support seven types of common queries over spatial-only, spatial-textual and textual-only data, based on our proposed unified indexing and search paradigm [WSDM'18]. At the front end, we propose novel visualization designs to present the result of different types of queries.
+We propose AOI-shapes, to support efficient and effective visualization of user-defined urban areas of interest in an interactive manner.

@@ -1,5 +1,5 @@
 ---
-title: T4
+title: T4 - Trajectory Analytics
 summary: Trajectories for Traffic, Transport, and Trips.
 tags:
 - Spatial Data
@@ -24,4 +24,4 @@ T4 enables intelligent analytics over real-time and historical trajectories from
 T4 applies reinforcement learning-based traffic light controller for reducing traffic jams. We train the deep models for traffic flow prediction and traffic signal control to reduce traffic congestion.
 
 #### Interactive Trip Planing
-T$ enables users’ interactive exploration of POIs and trajectories in their incremental trip planning. At the back end, TISP is able to support seven types of common queries over spatial-only, spatial-textual and textual-only data, based on our proposed unified indexing and search paradigm [WSDM'18]. At the front end, we propose novel visualization designs to present the result of different types of queries.
+T4 enables users’ interactive exploration of POIs and trajectories in their incremental trip planning. At the back end, TISP is able to support seven types of common queries over spatial-only, spatial-textual and textual-only data, based on our proposed unified indexing and search paradigm [WSDM'18]. At the front end, we propose novel visualization designs to present the result of different types of queries.
