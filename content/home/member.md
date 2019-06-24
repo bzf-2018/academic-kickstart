@@ -20,6 +20,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+#### Current PhD Students
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
+- [Sheng Wang](https://sites.google.com/site/shengwangcs/)
