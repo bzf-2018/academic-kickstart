@@ -21,17 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
+   #[[content.filter_button]]
+   # name = "All"
+   #  tag = "*"
   
-   [[content.filter_button]]
-     name = "Spatial Data"
-     tag = "Spatial Data"
+   #[[content.filter_button]]
+   #  name = "Spatial Data"
+   #  tag = "Spatial Data"
   
-   [[content.filter_button]]
-     name = "Visulization and Analytics"
-     tag = "Visulization and Analytics"
+   #[[content.filter_button]]
+   #  name = "Visulization and Analytics"
+   #  tag = "Visulization and Analytics"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
