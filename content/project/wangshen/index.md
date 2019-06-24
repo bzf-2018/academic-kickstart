@@ -15,4 +15,4 @@ image:
 
 ---
 
-**[T4 - Trajectories for Traffic, Transport, and Trips]**(https://t4research.github.io/) is a powerful platform for analyzing different types of trajectory data, which can be applied to various applications such as Real-time Traffic Monitoring, Intelligent Traffic Signal Control and Interactive Trip Planing.
+[**T4 - Trajectories for Traffic, Transport, and Trips**](https://t4research.github.io/) is a powerful platform for analyzing different types of trajectory data, which can be applied to various applications such as Real-time Traffic Monitoring, Intelligent Traffic Signal Control and Interactive Trip Planing.
