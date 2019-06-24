@@ -10,7 +10,7 @@ external_link: ""
 
 image:
   focal_point: Smart
-  url: https://d25tv1xepz39hi.cloudfront.net/images/917.jpg
+  
 
 
 # Slides (optional).
