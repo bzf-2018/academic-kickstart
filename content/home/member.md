@@ -19,7 +19,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+#### Graduated PhD Students
+- [Mingzhao Li](http://mingzhaoli.net/)
 
 #### Current PhD Students
 
 - [Sheng Wang](https://sites.google.com/site/shengwangcs/)
+- Liangjun Song
+- [Shixun Huang](https://http://shixunh.io/)
+- [Hui Luo](https://huiluohuiluohuiluo.github.io/)
+- Munkh-Erdene Yadamjav
+- David Tedjopurnomo
+- Yipeng Zhang
