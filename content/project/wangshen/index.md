@@ -1,5 +1,5 @@
 ---
-title: T4 - Trajectory Analytics
+title: Trajectory Analytics
 summary: Trajectories for Traffic, Transport, and Trips.
 tags:
 - Spatial Data
