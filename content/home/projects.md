@@ -25,9 +25,9 @@ subtitle = ""
      name = "All"
      tag = "*"
   
-   #[[content.filter_button]]
-   #  name = "Spatial Data"
-   #  tag = "Spatial Data"
+   [[content.filter_button]]
+     name = "Spatial Data"
+     tag = "Spatial Data"
   
    #[[content.filter_button]]
    #  name = "Visulization and Analytics"
