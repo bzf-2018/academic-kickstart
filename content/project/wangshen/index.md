@@ -1,6 +1,6 @@
 ---
 title: Trajectory Analytics
-summary: Trajectories for Traffic, Transport, and Trips.
+#summary: Trajectories for Traffic, Transport, and Trips.
 tags:
 - Spatial Data
 date: "2016-04-27T00:00:00Z"
