@@ -2,7 +2,7 @@
 title: Information Visulization
 summary: Trajectories for Traffic, Transport, and Trips.
 tags:
-- Spatial Data
+- Visulization and Analytics
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
