@@ -29,9 +29,9 @@ subtitle = ""
      name = "Spatial Data"
      tag = "Spatial Data"
   
-   #[[content.filter_button]]
-   #  name = "Visulization and Analytics"
-   #  tag = "Visulization and Analytics"
+   [[content.filter_button]]
+     name = "Visulization and Analytics"
+     tag = "Visulization and Analytics"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
