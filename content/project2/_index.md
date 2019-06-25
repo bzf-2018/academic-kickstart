@@ -1,10 +1,9 @@
 ---
 
-title: ->Research - Civil Computing<-
 
 ---
 
-
+<center> <h1>Research - Civil Computing</h1> </center>
 
 Dr Bao’s research interest is mainly on database management with a recent focus on big geo-spatial data. I propose the topic of **Civil Computing** and has made significant contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone for optimal decision making**. These civil computing problems include:
 
