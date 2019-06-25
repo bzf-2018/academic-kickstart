@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Project2"
-  url = "/publication/_index.md"
+  url = "project2.html"
   weight = 60
  
 
