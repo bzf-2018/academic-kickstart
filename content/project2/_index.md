@@ -31,6 +31,4 @@ Each end has mutual impact to the others in solution design, while it is usually
 
 **Research Problem 1.1 - Trajectory-driven Influential Billboard Placement**: Given a set of billboards U (each with a location and a cost), a database of trajectories T and a budget L, find a set of billboards within the budget to influence the largest number of trajectories. One core challenge is to identify and reduce the overlap of the influence from different billboards to the same trajectories, while keeping the budget constraint into consideration. 
 
-<iframe width="420" height="315"
-src="https://youtu.be/3eS1ac4KaHU">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3eS1ac4KaHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
