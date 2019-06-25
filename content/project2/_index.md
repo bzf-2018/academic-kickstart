@@ -40,3 +40,6 @@ Each end has mutual impact to the others in solution design, while it is usually
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/aIO9Y-ebLBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+**Research Problem 2.2 - Geo-located Multi-dimensional & Multi-granularity Data Visualization**: (1) Aggregation of results at different levels of detail for efficient visualization rendering (Data Sampling techniques, Approximate clustering); (2) Visualization Design of the Geo-located Multi-dimensional Data.
+
+**Research Problem 2.3 - Spatial Keyword (Range) Search for Facility Seeking**: (1) Find house candidates which can reach all the facilities before further inspection/exploration - coles supermarkets (for food), good clinics or pathology center (for health), top-50 public schools (for education), train stations (for transportation), Bunnings (for house renovation), etc; (2) Find the smallest region that can cover all my expected facilities in this surburb
