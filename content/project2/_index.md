@@ -14,3 +14,13 @@ Dr Bao’s research interest is mainly on database management with a recent focu
 - The one-size-fits-all point of interest (poi) and trajectory search engine that benefits personalized trip planning.
 
 - The location-centred interactive visualized analytics that benefits real estate house seeking.
+
+To solve the above civil problems, Dr Bao is the first of few developing **end-to-end** solutions that cross three disciplinaries: Data Management, Information Retrieval and Data Visualization. His inter-disciplinary methodology involves:
+
+- design effective data usability modules in the front end.
+
+- propose efficient evaluation algorithm in the mid end.
+
+- provide efficient storage and indexing schemes in the back end.
+
+Each end has mutual impact to the others in solution design, while it is usually assumed to be orthogonal to each other in single-discipline research. His proposed cross-disciplinary methodology is creative and highly endorsed by international peers, as evidenced by his publication in top venues of Information Retrieval such as WSDM, SIGIR, top venues of data management such as SIGMOD, ICDE, KDD, TKDE, VLDB Journal, and top venues of Data Visualization such as EUROVIS, JVLC.
