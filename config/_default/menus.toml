@@ -27,6 +27,11 @@
   name = "Group Member"
   url = "#member"
   weight = 50
+
+[[main]]
+  name = "Project2"
+  url = {{< ref "/home/project2.md" >}}
+  weight = 60
  
 
 
