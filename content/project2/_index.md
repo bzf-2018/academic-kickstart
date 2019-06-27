@@ -72,6 +72,7 @@ Recently, We design a search engine called Torch for trajectory data and serve a
 
 <center><h3>Past Projects</h3></center> 
 **Past Project1 - Social Networks (Search, Summarization and Management)**
+
 Vision: have a general database to manage, search and analyze over the social network data.
 
 - Database Design and Implementation: data modeling; query optimization; concurrency control.
@@ -85,3 +86,15 @@ A graph is a static, syntactic model that does not capture the dynamics and sema
 We have designed a general search engine framework that is able to provide Personalized + Realtime Search in social networks [13].
 
 Our ambition is to build a sonSchema-based open-source system that replaces MySQL as the default database management system for social network data: sonSQL -- an extensible relational DBMS for social network start-ups [12].
+
+**Past Project2 - Keyword search over spatial & textual data**
+
+- a general support for various types of fuzzy type-ahead spatial keyword query
+
+- one-size-fits-all index design for various types and degrees of relaxation
+
+- maximization of query result reuse at different granularities
+
+To make more data truly usable, keyword search is one important aspect I make continuous efforts, and my ultimate goal is to have a one-size-fits-all general framework to provide usability support for all these heterogeneous data. We are now developing various types of data exploration queries based on our previous experiences in keyword search, and we believe that **“The first step in leveraging big data is search and data exploration. Machine learning or other downstream advanced analytics will be effective only if search and data exploration get us the relevant data effectively and efficiently”** , quoted from Dr. Surajit Chaudhuri's keynote speech at ICDE 2015. 
+
+Geo-textual data are generated in abundance. Recent study focused on the processing of spatial keyword queries which retrieve objects that match certain keywords within a spatial region. To ensure effective retrieval, various extensions were done including the allowance of errors in keyword matching and auto-completion using prefix matching. Our goal is to devise a unifying strategy for processing different variants of spatial keyword query. We adopt the auto-completion paradigm that generates the initial query as a prefix matching query. If there are few matching results, other variants are performed as a form of relaxation that reuses the processing done in the earlier phase. The types of relaxation include spatial region expansion and exact/approximate prefix/substring matching. Moreover, since the auto-completion paradigm allows appending characters after the initial query, we look at how query processing done for the initial query and relaxation can be reused in such instances. Compared to existing works which process variants of spatial keyword query as new queries over different indexes, we offer a more compelling way to efficient and effective spatial keyword search. Extensive experiments substantiate our claims.
