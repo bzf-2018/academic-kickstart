@@ -69,3 +69,19 @@ At Data Management end, we  propose a general Top-k query called **Monotone Aggr
 At Visualization end, we design an interactive visualized procedure to help users explore various data objects and plan their trips. On one hand, we propose a series of novel visual encoding designs to visualize the result of different types of queries. E.g., we design an enhanced transfer graph with careful retinal channel mapping of vertices and edges to visualize popular attractions and attraction pairs. On the other hand, we design user-friendly interactions upon multiple visualization views, which heuristically guide users to interact with the current visualization results, construct further **queries without inputting any text**, and gradually complete their planned trip.
 
 Recently, We design a search engine called Torch for trajectory data and serve almost all metric and non-metric trajectory similarity computations. In particular, we first map the trajectories into the road network, then a trajectory can be represented by a set of road segment ids. Moreover, a road segment is also crossed by many trajectories. Hence, we can use the inverted index to organize all the trajectories crossing a same road. Compression techniques over trajectories and inverted lists will further reduce the space of dataset and index.
+
+<center><h3>Past Projects</h3></center> 
+**Past Project1 - Social Networks (Search, Summarization and Management)**
+Vision: have a general database to manage, search and analyze over the social network data.
+
+- Database Design and Implementation: data modeling; query optimization; concurrency control.
+
+- In-database Search: Personalized + RealTime Search search in your own "circles" and gets the latest results just published 1 second ago); In-database Social Network Analysis (SNA); link prediction.
+  
+This challenge requires a model for social network data, and graphs are the obvious candidate, but: sonSchema -- a social network is not a graph [10].
+
+A graph is a static, syntactic model that does not capture the dynamics and semantics of a social network; this is evident from: sonLP -- social network link prediction by principal component regression [11].
+
+We have designed a general search engine framework that is able to provide Personalized + Realtime Search in social networks [13].
+
+Our ambition is to build a sonSchema-based open-source system that replaces MySQL as the default database management system for social network data: sonSQL -- an extensible relational DBMS for social network start-ups [12].
