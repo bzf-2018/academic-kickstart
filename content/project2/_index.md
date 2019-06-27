@@ -98,3 +98,61 @@ Our ambition is to build a sonSchema-based open-source system that replaces MySQ
 To make more data truly usable, keyword search is one important aspect I make continuous efforts, and my ultimate goal is to have a one-size-fits-all general framework to provide usability support for all these heterogeneous data. We are now developing various types of data exploration queries based on our previous experiences in keyword search, and we believe that **“The first step in leveraging big data is search and data exploration. Machine learning or other downstream advanced analytics will be effective only if search and data exploration get us the relevant data effectively and efficiently”** , quoted from Dr. Surajit Chaudhuri's keynote speech at ICDE 2015. 
 
 Geo-textual data are generated in abundance. Recent study focused on the processing of spatial keyword queries which retrieve objects that match certain keywords within a spatial region. To ensure effective retrieval, various extensions were done including the allowance of errors in keyword matching and auto-completion using prefix matching. Our goal is to devise a unifying strategy for processing different variants of spatial keyword query. We adopt the auto-completion paradigm that generates the initial query as a prefix matching query. If there are few matching results, other variants are performed as a form of relaxation that reuses the processing done in the earlier phase. The types of relaxation include spatial region expansion and exact/approximate prefix/substring matching. Moreover, since the auto-completion paradigm allows appending characters after the initial query, we look at how query processing done for the initial query and relaxation can be reused in such instances. Compared to existing works which process variants of spatial keyword query as new queries over different indexes, we offer a more compelling way to efficient and effective spatial keyword search. Extensive experiments substantiate our claims.
+
+**Past Project3 - Data Quality (Integration & Tracking)**
+
+- provenance data: storage, management and usability tracking
+
+[9] studied the data quality problem, which is very important to extract, track unexpected result during studying the heterogeneous or uncertain data. Provenance information is vital in many application areas as it helps explain data lineage and derivation. Understanding the provenance of data has become exceedingly important due to the large number of sources, diversity of formats and sheer volume of data that current business and scientific applications have to deal with. For example, in scientific computing area, as in many other areas, provenance is vital to establish trust or correctness of results; in database environments it can help update views, explain unexpected results, and assist with data integration; in databases with uncertainty, it can be used to track correlation between probabilistic variables.
+
+My research goal in this direction is to develop provenance data management frameworks that can be combined as part of the database management system. In particular, my concern is on: (1) the expressiveness of the provenance semantics designed, to interpret not only from which source data the result comes from, but also how the results come from the source data; (2) design novel data structures that minimize the storage cost of provenance data; (3) provide an efficient support on evaluating the provenance tracking query.
+
+As a start, [9] focuses on designing a framework for storing fine-grained provenance data relating to data derived via database queries. While storage space is of little concern when dealing with high-level provenance, the requirements of storing fine-grained provenance data can be significant, with the size of provenance data often exceeding the size of the actual data. One way to deal with this is to compute provenance data only when requested, rather than storing it, but a drawback is that without good inverse functions this can be expensive, and it may require intermediate query results to be stored. Therefore, we first propose a provenance tree data structure which matches the query structure and thereby presents a possibility to avoid redundant storage of information regarding the derivation process. Then I investigate two approaches for reducing storage costs. The first provides a means of optimizing the selection of query tree nodes where provenance information should be stored. The second exploits logical query-rewriting, in particular join-reordering, which can be done after the query has already been computed, and thus does not impede the efficiency of query execution. The optimization algorithms run in polynomial time in the query size and linear in the size of the provenance information, thus enabling provenance tracking and optimization without incurring large overheads. Moreover, I built a relational query engine from scratch, supporting ASPJ operations required for executing SQL-style queries as well as provenance data construction during query execution.
+
+**References**
+
+[1] Z.F. Bao, T.W. Ling, B. Chen and J.H. Lu. Effective XML Keyword Search With Relevance Oriented Ranking. ICDE 2009, full paper. (Best Papers Award)
+
+[2] Y. Zeng, Z.F. Bao, H.V. Jagadish, G.L. Li and T.W. Ling. Breaking out the Mismatch Trap. ICDE 2014, full paper.
+
+[3] Z.F. Bao, J.H. Lu , T.W. Ling, and B. Chen. Towards an Effective XML Keyword Search. TKDE 2010.
+
+[4] J.F. Zhou, Z.F. Bao, Z.Y. Chen and T.W. Ling. Fast Result Enumeration for Keyword Queries on XML Data. DASFAA 2012, full paper. (One of the Five Best Papers)
+
+[5] J.F. Zhou, Z.F. Bao,W. Wang, J.J. Zhao and X.F. Meng. Efficient Query Processing for XML Keyword Queries based on the IDList Index. VLDB Journal, accepted in 2013.
+
+[6] J.F. Zhou, Z.F. Bao, W. Wang, T.W. Ling, Z.Y. Chen, X.D. Lin and J.F. Guo. Fast SLCA and ELCA Computation for XML Keyword Queries based on Set Intersection. ICDE 2012, full paper.
+
+[7] J.H. Lu, T.W. Ling, Z.F. Bao and C. Wang. Extended Tree Pattern Matching: Theories and Algorithms. TKDE 2010, regular paper.
+
+[8] L. Xu, T.W. Ling, H.Y. Wu and Z.F. Bao. DDE: From Dewey to a Fully Dynamic XML Labeling. SIGMOD 2009, full paper.
+
+[9] Z.F. Bao, H. Koehler, X.F. Zhou and S. Sadiq. Efficient Provenance Storage For Relational Queries. CIKM 2012, full paper.
+
+[10] Z.F. Bao, Y.C. Tay and J.B. Zhou. sonSchema: A Conceptual Schema for Social Networks. ER 2013: 197-211
+
+[11] Z.F. Bao, Y. Zeng and Y.C. Tay. sonLP: social network link prediction by principal component regression. ASONAM 2013: 364-371
+
+[12] Z.F. Bao, J.B. Zhou and Y.C. Tay. sonSQL: An Extensible Relational DBMS for Social Network Start-Ups. ER 2013: 495-498
+
+[13] Y.C. Li, Z.F. Bao, G.L. Li and K.L. Tan. Real Time Personalized Search over Social Networks. ICDE 2015: 639-650.
+
+[14]  S. Wang, Z. Bao, S. Huang, R. Zhang. A Unified Processing Paradigm for Interactive Location-based Web Search. WSDM 2018.            
+
+[15] M. Li, Z. Bao, F. Choudhury, T. Sellis. Supporting Large-scale Geographical Visualization in a Multi-granularity Way. WSDM 2018. 
+
+[16] Z. Shang, G. Li, Z. Bao. DITA: Distributed In-Memory Trajectory Analytics. SIGMOD 2018.                                        
+
+[17] T. Guo, K. Feng, G. Cong, Z. Bao. Efficient Selection of Geospatial Data on Maps for Interactive and Visualized Exploration.  SIGMOD  2018.   
+
+[18] S. Wang, Z. Bao, J. Culpepper, T. Sellis, M. Sanderson, X. Qin. Answering Top-k Exemplar Trajectory Queries. ICDE 2017.
+
+[19] S. Wang, Z. Bao, J. Culpepper, Z. Xie, Q. Liu, X. Qin. Torch: A Search Engine for Trajectory Data. SIGIR 2018.
+
+**Recent System Prototypes**
+
+[HomeSeeker](https://www.youtube.com/watch?v=uhp_a7_1mpY&feature=youtu.be): Visualization of the Real Estate Data ([version 0.1](http://www.google.com/url?q=http%3A%2F%2F115.146.89.158%2F&sa=D&sntz=1&usg=AFQjCNFZbSOiPj1A_-0MGWFLxbSoZkgwrA)).
+
+[TORCH](http://www.google.com/url?q=http%3A%2F%2F43.240.96.2%2FTTorchServer%2F&sa=D&sntz=1&usg=AFQjCNF3ORU6sGeChFXRdaxM-axrkc32fA): A Search Engine for Trajectory Data on Road Networks.
+
+[TISP](http://www.google.com/url?q=http%3A%2F%2F115.146.92.76%3A8080%2FTripPlanning%2Findex.html&sa=D&sntz=1&usg=AFQjCNGyxnCByVSLKUKSO8X9EvyD06mysw): Trip Planning by an Integrated Search Paradigm.
