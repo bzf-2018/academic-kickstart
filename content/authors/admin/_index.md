@@ -70,4 +70,4 @@ My research is supported by Google (Two-time Google Research Award recipient), A
 
 **I am looking for PhD/master students to work with me on demanding Urban Data Analytics projects under my civil computing team**. If you are a highly motivated student and interested in doing big data research, please contact me.  
 
-More demonstration videos of his group's projects are in our [youtube channel](https://www.youtube.com/channel/UCGXKE9sTsI0WFV5ZHbH19QA).
+More demonstration videos of my group's projects are in our [youtube channel](https://www.youtube.com/channel/UCGXKE9sTsI0WFV5ZHbH19QA).
