@@ -24,8 +24,8 @@
   weight = 40
 
 [[main]]
-  name = "Group Member"
-  url = "#member"
+  name = "My Team"
+  url = "/group"
   weight = 50
 
 
