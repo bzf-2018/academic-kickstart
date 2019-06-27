@@ -43,6 +43,9 @@ social:
 - icon: dblp
   icon_pack: ai
   link: https://dblp.uni-trier.de/pers/hd/b/Bao:Zhifeng
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCGXKE9sTsI0WFV5ZHbH19QA
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -66,3 +69,5 @@ I am also the director of [RMIT master of data science program](https://www.rmit
 My research is supported by Google (Two-time Google Research Award recipient), Australasian Research Council and Data61. I am generally interested in big data management, data visualization, information retrieval, and applied machine learning to each of the aforementioned topics. In particular, I propose the topic of **Civil Computing** and has made contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone** for optimal decision making.
 
 **I am looking for PhD/master students to work with me on demanding Urban Data Analytics projects under my civil computing team**. If you are a highly motivated student and interested in doing big data research, please contact me.  
+
+More demonstration videos of his group's projects are in our [youtube channel](https://www.youtube.com/channel/UCGXKE9sTsI0WFV5ZHbH19QA).
