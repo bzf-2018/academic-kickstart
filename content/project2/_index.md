@@ -71,7 +71,7 @@ At Visualization end, we design an interactive visualized procedure to help user
 Recently, We design a search engine called Torch for trajectory data and serve almost all metric and non-metric trajectory similarity computations. In particular, we first map the trajectories into the road network, then a trajectory can be represented by a set of road segment ids. Moreover, a road segment is also crossed by many trajectories. Hence, we can use the inverted index to organize all the trajectories crossing a same road. Compression techniques over trajectories and inverted lists will further reduce the space of dataset and index.
 
 <center><h3>Past Projects</h3></center> 
-**Past Project1 - Social Networks (Search, Summarization and Management)**
+**Past Project 1 - Social Networks (Search, Summarization and Management)**
 
 Vision: have a general database to manage, search and analyze over the social network data.
 
@@ -87,7 +87,7 @@ We have designed a general search engine framework that is able to provide Perso
 
 Our ambition is to build a sonSchema-based open-source system that replaces MySQL as the default database management system for social network data: sonSQL -- an extensible relational DBMS for social network start-ups [12].
 
-**Past Project2 - Keyword search over spatial & textual data**
+**Past Project 2 - Keyword search over spatial & textual data**
 
 - a general support for various types of fuzzy type-ahead spatial keyword query
 
@@ -99,7 +99,7 @@ To make more data truly usable, keyword search is one important aspect I make co
 
 Geo-textual data are generated in abundance. Recent study focused on the processing of spatial keyword queries which retrieve objects that match certain keywords within a spatial region. To ensure effective retrieval, various extensions were done including the allowance of errors in keyword matching and auto-completion using prefix matching. Our goal is to devise a unifying strategy for processing different variants of spatial keyword query. We adopt the auto-completion paradigm that generates the initial query as a prefix matching query. If there are few matching results, other variants are performed as a form of relaxation that reuses the processing done in the earlier phase. The types of relaxation include spatial region expansion and exact/approximate prefix/substring matching. Moreover, since the auto-completion paradigm allows appending characters after the initial query, we look at how query processing done for the initial query and relaxation can be reused in such instances. Compared to existing works which process variants of spatial keyword query as new queries over different indexes, we offer a more compelling way to efficient and effective spatial keyword search. Extensive experiments substantiate our claims.
 
-**Past Project3 - Data Quality (Integration & Tracking)**
+**Past Project 3 - Data Quality (Integration & Tracking)**
 
 - provenance data: storage, management and usability tracking
 
