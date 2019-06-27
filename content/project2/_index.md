@@ -50,7 +50,7 @@ Each end has mutual impact to the others in solution design, while it is usually
 
 **Research Problem 2.6 - How to exploit the visualization techniques to strike a balance between structured query and ranked retrieval**: Structured query like SQL may give few or no results, while there is no one-size-fits-all ranking model to meet every individual buyer's requirement, not to mention the buyer's requirement may change w.r.t. the search result. What shall we do? Customer A wants to buy a house with a swimming pool under the budget of 1M; however, there is no such house, but there are few houses asking for 1.01M with swimming pools. We provide a visualized comparison for those "borderline" houses, for users to quickly identify which attributes of her interest do not meet her requirement. 
 
-<center><h3>Research Project 4: Trajectory Data Exploration for Trip Planning</h3></center> 
+<center><h3>Research Project 3: Trajectory Data Exploration for Trip Planning</h3></center> 
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/5vB22ZR8kvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> 
 
