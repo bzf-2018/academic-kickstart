@@ -153,6 +153,6 @@ As a start, [9] focuses on designing a framework for storing fine-grained proven
 
 [HomeSeeker](https://www.youtube.com/watch?v=uhp_a7_1mpY&feature=youtu.be): Visualization of the Real Estate Data ([version 0.1](http://www.google.com/url?q=http%3A%2F%2F115.146.89.158%2F&sa=D&sntz=1&usg=AFQjCNFZbSOiPj1A_-0MGWFLxbSoZkgwrA)).
 
-[TORCH](http://www.google.com/url?q=http%3A%2F%2F43.240.96.2%2FTTorchServer%2F&sa=D&sntz=1&usg=AFQjCNF3ORU6sGeChFXRdaxM-axrkc32fA): A Search Engine for Trajectory Data on Road Networks.
+[TORCH](http://47.75.79.142:8080/TTorchServer/): A Search Engine for Trajectory Data on Road Networks.
 
-[TISP](http://www.google.com/url?q=http%3A%2F%2F115.146.92.76%3A8080%2FTripPlanning%2Findex.html&sa=D&sntz=1&usg=AFQjCNGyxnCByVSLKUKSO8X9EvyD06mysw): Trip Planning by an Integrated Search Paradigm.
+[TISP](http://43.240.96.219:8080/TripPlanning/index.html): Trip Planning by an Integrated Search Paradigm.
