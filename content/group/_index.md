@@ -1,6 +1,6 @@
 #### Alumni
 - [Mingzhao Li](http://mingzhaoli.net/)
-- [Sheng Wang](https://sites.google.com/site/shengwangcs/) (thesis submitted)
+- [Sheng Wang](https://sites.google.com/site/shengwangcs/)
 
 #### Current PhD Students
 
