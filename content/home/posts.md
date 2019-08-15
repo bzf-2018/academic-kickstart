@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Our paper "Optimizing Impression Counts for Outdoor Advertising" got the Best Paper Award Runner Up in ACM SIGKDD 2019"
+  title = "Our paper 'Optimizing Impression Counts for Outdoor Advertising' got the Best Paper Award Runner Up in ACM SIGKDD 2019"
   url = ""
   certificate_url = ""
   date_start = "2019-08-14"
@@ -32,13 +32,13 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Our paper "Fast Large-Scale Trajectory Clustering" is accepted by PVLDB 2020"
+  title = "Our paper 'Fast Large-Scale Trajectory Clustering' is accepted by PVLDB 2020"
   url = ""
   certificate_url = ""
   date_start = "2019-08-14"
   date_end = ""
   description = ""
-  
+
 [[item]]
   organization = ""
   organization_url = ""
