@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Our paper 'Fast Large-Scale Trajectory Clustering' is accepted by PVLDB 2020"
+  title = "Our paper \"Fast Large-Scale Trajectory Clustering\" is accepted by PVLDB 2020"
   url = ""
   certificate_url = ""
   date_start = "2019-08-14"
