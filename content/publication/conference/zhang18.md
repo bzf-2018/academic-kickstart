@@ -23,6 +23,8 @@ featured: true
 links:
 - name: Tech Report
   url: https://arxiv.org/pdf/1802.02254.pdf
+- name: Code
+  url: https://github.com/rmitbggroup/adplacement
 url_pdf: https://dl.acm.org/citation.cfm?doid=3219819.3219946
 url_video: https://www.youtube.com/watch?v=3eS1ac4KaHU&feature=youtu.be
 

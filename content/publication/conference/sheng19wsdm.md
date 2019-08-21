@@ -21,6 +21,8 @@ featured: true
 links:
 - name: Demo
   url: https://sites.google.com/site/shengwangcs/torch
+- name: Video
+  url: https://youtu.be/ksYIMEnst7A
 url_pdf: https://dl.acm.org/citation.cfm?doid=3289600.3290615
 
 ---

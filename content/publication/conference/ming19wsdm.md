@@ -21,6 +21,8 @@ featured: true
 links:
 - name: Demo
   url: http://aoishapes.com/
+- name: Video
+  url: https://youtu.be/eCPFsusJDos
 url_pdf: https://dl.acm.org/citation.cfm?doid=3289600.3290612
 
 ---
