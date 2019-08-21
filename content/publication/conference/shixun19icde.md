@@ -20,5 +20,6 @@ featured: true
 
 links:
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8731473
+url_slides: 'slides/shixun17icde.pdf'
 
 ---
