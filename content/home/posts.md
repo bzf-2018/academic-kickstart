@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "We have two papers \"Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling\" and \"Temporal Network Representation Learning via Historical Neighborhoods Aggregation\" accpeted by ICDE 2020"
+  title = "We have two papers \"Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling\" and \"Temporal Network Representation Learning via Historical Neighborhoods Aggregation\" accpeted by IEEE ICDE 2020"
   url = ""
   certificate_url = ""
   date_start = "2019-10-02"
