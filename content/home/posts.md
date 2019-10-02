@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "We have two papers \"Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling\" and \"Temporal Network Representation Learning via Historical Neighborhoods Aggregation\" accpeted by ICDE 2020"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-10-02"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = ""

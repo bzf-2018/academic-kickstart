@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Impression Counts for Outdoor Advertising"
 authors:
-- Ping Zhang
+- Yipeng Zhang
 - Yuchen Li
 - admin
 - Songsong Mo
