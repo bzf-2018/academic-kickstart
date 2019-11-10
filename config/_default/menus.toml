@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Awards"
-  url = "/group"
+  url = "#group"
   weight = 20
 
 [[main]]
