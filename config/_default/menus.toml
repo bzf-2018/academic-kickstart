@@ -30,14 +30,14 @@
 
 [[main]]
   name = "Professional Service"
-  url = "#service"
+  url = "/service"
   weight = 40
 
 
 [[main]]
   name = "My Team"
   url = "/group"
-  weight = 50
+  weight = 80
 
 
 
