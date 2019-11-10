@@ -1,6 +1,6 @@
-#### Google Faculty Research Award 2018**
+#### Google Faculty Research Award 2018
 
-#### Google Faculty Research Award 2015**
+#### Google Faculty Research Award 2015
 
 #### Best Paper Awards
 	* Best Paper Award Runner-up of KDD 2019
@@ -20,7 +20,7 @@
 #### University-level Award
 * **Best PhD Thesis Award** of School of Computing, NUS for class of 2011 (NUS CS QS rank: #9)
 	- the only winner out of the 35 PhD graduates of the whole school
-* **Best HDR Supervision Award 2017**(School of Science, RMIT)
+* **Best HDR Supervision Award 2017** (School of Science, RMIT)
 	-  among 200+ faculty members in the school
 * **Teaching Excellence Recognition Award**, AY2016, College of Science, Engineering and Health, RMIT
 
