@@ -23,6 +23,5 @@
 * **Best HDR Supervision Award 2017** (School of Science, RMIT)
 	-  among 200+ faculty members in the school
 * **Teaching Excellence Recognition Award**, AY2016, College of Science, Engineering and Health, RMIT
-
 * **Top Course Award**, AY2017, College of Science, Engineering and Health, RMIT
 * **Top Course Award**, AY2018, College of Science, Engineering and Health, RMIT
