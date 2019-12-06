@@ -21,6 +21,29 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
+  title = "I am promoted to Associate Professor, effective from Jan 1, 2020. Thanks for the recognition from the peers and the university promotion panel!"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-12-06"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "We get an ARC DP20 grant to support our research on building a next-generation map service for an interactive  exploration of Massive Geo-spatial data. Thanks ARC!"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-12-06"
+  date_end = ""
+  description = ""
+
+
+
+[[item]]
+  organization = ""
+  organization_url = ""
   title = "We have two papers \"Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling\" and \"Temporal Network Representation Learning via Historical Neighborhoods Aggregation\" accpeted by IEEE ICDE 2020"
   url = ""
   certificate_url = ""
