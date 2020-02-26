@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   title = "We have one paper \"Crowdsourced Collective Entity Resolution with Relational Match Propagation\" accepted by IEEE ICDE 2020."
   url = ""
   certificate_url = ""
-  date_start = "2020-2-26"
+  date_start = "2020-02-25"
   date_end = ""
   description = ""
 
