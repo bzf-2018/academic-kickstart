@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "We have one paper "Crowdsourced Collective Entity Resolution with Relational Match Propagation" accepted by IEEE ICDE 2020."
+  title = "We have one paper \"Crowdsourced Collective Entity Resolution with Relational Match Propagation\" accepted by IEEE ICDE 2020."
   url = ""
   certificate_url = ""
   date_start = "2020-2-26"
