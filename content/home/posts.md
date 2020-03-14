@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Our Paper \"Effective Travel Time Estimation: When Historical Trajectories over Road Networks Matter\" has been accepted by SIGMOD 2020. "
+  url = ""
+  certificate_url = ""
+  date_start = "2020-03-10"
+  date_end = ""
+  description = ""
+
 
 [[item]]
   organization = ""
