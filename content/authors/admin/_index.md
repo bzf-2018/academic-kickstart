@@ -21,10 +21,10 @@ role: Email firstname dot lastname @rmit.edu.au
 #bio:
 
 interests:
-- Data Visualization & Visualized Data Exploration
-- Trajectory Data Mangement   
-- Geo-located Data Integration and Cleaning
-- Spatio-Textual query processing
+- Geo-spatial Data Management and Query Processing
+- Graph Data Management  
+- Big Data Algorithms
+- Data Integration and Cleaning
 
 education:
   courses:
