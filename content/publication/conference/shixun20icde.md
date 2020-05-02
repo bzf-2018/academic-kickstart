@@ -21,7 +21,7 @@ abstract: Network embedding is an effective method to learn low-dimensional repr
 featured: true
 
 links:
-url_pdf: https://arxiv.org/abs/2003.13212
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8731473
 - name: Code
   url: https://github.com/rmitbggroup/ICDE2020TemporalNetworkEmbedding
 
