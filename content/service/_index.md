@@ -21,6 +21,6 @@
 	* ACM International Conference on Information Retrieval (SIGIR): 2016-2019
 	* World Wide Web Conference (WWW): 2018, 2019
 	* International Conference on Very Large Databases (VLDB): 2014, 2016-2018, 2020
-	* ACM International Conference on Management of Data (SIGMOD): 2018
+	* ACM International Conference on Management of Data (SIGMOD): 2018,2021
 	* IEEE International Conference on Data Engineering (ICDE): 2016-2020
 	* International Joint Conference on Artificial Intelligence (IJCAI): 2016

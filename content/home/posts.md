@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Our paper \"Spatial Object Recommendation with Hints: When Spatial Granularity Matters\" got accepted by SIGIR'20. This is a joint work with Baidu Research using real-world Baidu Maps user log data."
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-10"
+  date_end = ""
+  description = ""
+
 [[item]]
   organization = ""
   organization_url = ""
