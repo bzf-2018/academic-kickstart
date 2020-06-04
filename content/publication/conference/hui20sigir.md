@@ -12,7 +12,7 @@ authors:
 
 publication_types: ["1"]
 publication: In *the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*
-publication_short: In *KDD*
+publication_short: In *SIGIR*
 date: "2020-09-01"
 publishDate: "2020-05-04"
 
