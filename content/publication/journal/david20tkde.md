@@ -5,7 +5,7 @@ authors:
 - admin
 - Baihua Zheng
 - Farhana Choudhury
-- A. K. Qin
+- Kai Qin
 
 publication_types: ["2"]
 publication: In *TKDE*
