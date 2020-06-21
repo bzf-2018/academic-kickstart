@@ -18,7 +18,25 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "It is an honor to serve the Registration Chair and the PC member of [SIGMOD 2021](http://sigmodconf.hosting.acm.org/2021/calls_papers_sigmod_research.shtml?fbclid=IwAR3gK-RryrZUI5Vp05cFbaVY_4fd69KKmFgZi2HI38AyiUT52Yn4TfWf658&from=timeline)."
+  url = ""
+  certificate_url = ""
+  date_start = "2020-06-21"
+  date_end = ""
+  description = ""
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "\"A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges\" is accepted by TKDE. Check an [Early Access Version](https://www.computer.org/csdl/journal/tk/5555/01/09112608/1kwilO27jfG). Final version is on its way!"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-06-20"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = ""
