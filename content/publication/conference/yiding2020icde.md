@@ -21,7 +21,7 @@ abstract: Detecting anomalous trajectory has become an im- portant and fundament
 featured: true
 
 links:
-url_pdf:'slides/ICDE20_TD.pdf'
+url_pdf: 'slides/ICDE20_TD.pdf'
 
 
 ---
