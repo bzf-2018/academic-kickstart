@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Email firstname dot lastname @rmit.edu.au
+role: Email firstname dot lastname AT rmit/unimelb.edu.au
 
 # Organizations/Affiliations
 #organizations:
@@ -21,10 +21,11 @@ role: Email firstname dot lastname @rmit.edu.au
 #bio:
 
 interests:
-- Geo-spatial Data Management and Query Processing
-- Graph Data Management  
+- Geo-spatial Data Management and Mining 
 - Big Data Algorithms
+- Graph Data Management 
 - Data Integration and Cleaning
+- Data Visualization
 
 education:
   courses:
@@ -62,13 +63,18 @@ user_groups:
 - Visitors
 ---
 
-I obtained my PhD in computer science from National University of Singapore ([NUS](http://www.nus.edu.sg/)), and was the winner of the Best PhD Thesis Award. I hold an honorary senior fellow position at University of Melbourne and an associate professor position at RMIT.  I am the Head of the Big Data and Database Group at [the RMIT Center of Information Discovery and Data Analytics](https://www.rmit.edu.au/research/research-institutes-centres-and-groups/research-centres/centre-for-information-discovery). I am the Chair for Higher Degree Research at RMIT Computer Science, chairing PhD students' thesis committee.
+I am an Associate Professor at RMIT and an Honorary Senior Fellow at University of Melbourne. I obtained my PhD in computer science from National University of Singapore ([NUS](http://www.nus.edu.sg/)) and was the winner of [the Best PhD Thesis Award](https://www.comp.nus.edu.sg/programmes/pg/awards/). I am the Head of the Big Data and Database Group at [the RMIT Center of Information Discovery and Data Analytics](https://www.rmit.edu.au/research/research-institutes-centres-and-groups/research-centres/centre-for-information-discovery) and the Chair for Higher Degree Research at RMIT Computer Science. 
 
-I was the director of [RMIT master of data science program](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-data-science-mc267) (2018-2019). Under my leadership, I have created a novel form of data science postgraduate project to support diverse sectors and disciplines within RMIT and put cross-disciplinary collaboration into practice, resulting in a double-win -- students are ready to work through those real-life data science projects; people outside of DS but have strong Data Analysis needs get their problem solved. I also co-created the [RMIT-MIT micro-credential program in data science](https://www.rmit.edu.au/news/all-news/2018/jun/new-pathways-created-between-two-leading-universities), bringing novel  pathways for students, where RMIT is the first university in Australia having this connected pathway for data science education.
+My research is supported by Google, Australasian Research Council and Data61. I am generally interested in big data management (with a focus on Geo-Spatial data and graph data), information retrieval, and applied machine learning to each of the aforementioned topics. I propose the topic of [Civil Computing](http://civilcomputing.com/) with the mission of using data-driven techniques to **improve every individual citizen's daily life** where two typical beneficial domains are House Seeking and Transportation Planning. In particular, I have made contributions to developing a range of interactive visualized data exploration systems to bring big data back to a human scale, to **make big data empower everyone** for optimal decision making.  
+
+I am passionate in solving real-world problems, from which I extract and formalize fundamental research problems, propose theoretically sound and practically useful solutions, and deploy them to address real demands. I have provided consulting services to leading industy and government offices, such as [City of Melbourne](https://www.melbourne.vic.gov.au/about-melbourne/melbourne-profile/smart-city/citylab/Pages/citylab.aspx) on its Smart City Project and [Victoria Department of Human Health and Services](https://www.dhhs.vic.gov.au/) on its data quality project. 
+The showcase videos of my group's [projects](https://baozhifeng.net/project2/) are in our [youtube channel](https://www.youtube.com/channel/UCGXKE9sTsI0WFV5ZHbH19QA). 
 
 
-My research is supported by Google (Two-time Google Research Award recipient), Australasian Research Council and Data61. I am generally interested in big data management, data visualization, information retrieval, and applied machine learning to each of the aforementioned topics. In particular, I propose the topic of **Civil Computing** and has made contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone** for optimal decision making.
+I am honored to receive several [research awards](https://baozhifeng.net/awards/), such as the [Best Paper Award Runnerup at KDD'19](https://www.kdd.org/awards/view/2019-sigkdd-best-paper-award-winners), the [Best Paper Award Nomination at KDD'18](https://dl.acm.org/toc/tkdd/2020/14/5#sec1) and Two-time [Google Faculty Research Award](https://research.google/outreach/past-programs/faculty-research-awards/). 
 
-**I am looking for PhD/master students to work with me on demanding Urban Data Analytics projects under my civil computing team**. If you are a highly motivated student and interested in doing big data research, please contact me.  
 
-More demonstration videos of my group's projects are in our [youtube channel](https://www.youtube.com/channel/UCGXKE9sTsI0WFV5ZHbH19QA).
+
+In the past, I was the director of [RMIT master of data science program](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-data-science-mc267) (2018-2019). Under my leadership, I have created a novel form of data science postgraduate project to support diverse sectors and disciplines within RMIT and put cross-disciplinary collaboration into practice, resulting in a double-win -- students are ready to work through those real-life data science projects; people outside of DS but have strong Data Analysis needs get their problem solved. I also co-created the [RMIT-MIT micro-credential program in data science](https://www.rmit.edu.au/news/all-news/2018/jun/new-pathways-created-between-two-leading-universities), bringing novel  pathways for students, where RMIT is the first university in Australia having this connected pathway for data science education.
+
+**I am looking for PhD/master students to work with me on demanding Urban Data Analytics projects under my civil computing team**. If you are a highly motivated student and interested in doing big data research, please contact me. 
