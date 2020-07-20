@@ -1,14 +1,15 @@
 #### Invited Keynote Speech
-	* 30th Australasian Database Conference 2019
-	* 3rd International Conference on Artificial Intelligence and Security (ICAIS) 2017, Nanjing, China
+	* 31st Australasian Database Conference 2020, PhD School
+	* 30th Australasian Database Conference 2019, PhD School
 	* 28th Australasian Database Conference 2017, Research Excellence Forum
-	* 33rd National Database Conference of China (NDBC), 2016, Shenzhen, China
-	* 3rd Australia-China Database Workshop, 2014
+	* 33rd National Database Conference of China (NDBC), 2016, Distinguished Young Scholar Talk
+	* 3rd Australia-China Database Workshop, 2014, in conjunct with VLDB'14
 
 #### Associate Editorships
-	* Proceedings of the VLDB Endowment (PVLDB) Volume 14 (2021)
+	* [Proceedings of the VLDB Endowment (PVLDB) Volume 14 (2021)](https://vldb.org/2021/?review-board)
 
 #### Chairmanships
+	* Registration Chair: ACM SIGMOD 2021
 	* WSDM Cup Chair: ACM WSDM 2019
 	* Awards Committee Chair: ACM CIKM 2017
 	* Program co-Chair: ER 2018 (Demo Track)
@@ -18,9 +19,10 @@
 	* Awards Committee Chair: ADMA 2016 (Tier-B)
 
 #### Selected Program Committee Memberships
-	* ACM International Conference on Information Retrieval (SIGIR): 2016-2019
-	* World Wide Web Conference (WWW): 2018, 2019
 	* International Conference on Very Large Databases (VLDB): 2014, 2016-2018, 2020
-	* ACM International Conference on Management of Data (SIGMOD): 2018,2021
+	* ACM International Conference on Management of Data (SIGMOD): 2018, 2021
 	* IEEE International Conference on Data Engineering (ICDE): 2016-2020
-	* International Joint Conference on Artificial Intelligence (IJCAI): 2016
+	* ACM International Conference on Information Retrieval (SIGIR): 2016-2020
+	* The Web Conference (WWW): 2018, 2019
+	* ACM International Conference on Web Search and Data Mining (WSDM): 2021
+	* ACM ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD): 2019, 2020

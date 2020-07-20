@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "Our Paper \"Incremental Preference Adjustment: a Graph Theoretical Approach\" is accepted by VLDB Journal. Our approaches can avoid short-term interest drift while capturing longer-term user preference change. A very interesting case study has also been conducted."
+url = ""
+certificate_url = ""
+date_start = "2020-07-17"
+date_end = ""
+description = ""
+
 [[item]]
   organization = ""
   organization_url = ""
@@ -31,7 +42,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "\"A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges\" is accepted by TKDE. Check an [Early Access Version](https://www.computer.org/csdl/journal/tk/5555/01/09112608/1kwilO27jfG). Final version is on its way!"
+  title = "\"A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges\" is accepted by TKDE. Check an [Early Access Version](https://www.computer.org/csdl/journal/tk/5555/01/09112608/1kwilO27jfG)."
   url = ""
   certificate_url = ""
   date_start = "2020-06-20"

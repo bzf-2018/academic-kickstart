@@ -3,18 +3,18 @@
 #### Google Faculty Research Award 2015
 
 #### Best Paper Awards
-	* Best Paper Award Runner-up of KDD 2019
+	* [Best Paper Award Runner-up of ACM KDD 2019 (Research Track)](https://www.kdd.org/awards/view/2019-sigkdd-best-paper-award-winners) (1 out of 170 full papers)
 	* Best Student Paper Award Runner-up of DASFAA 2017
 	* Best Paper Award of ADC 2017
 	* Best Student Paper Award of ADC 2016
 	* Best Demo Paper Award of ADC 2016
 
 #### Best Paper Award Nominations
-	* KDD 2018 – 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
-	* ICDE 2009 – 25th IEEE International Conference on Data Engineering
+	* [ACM KDD 2018 (Research Track)](https://dl.acm.org/toc/tkdd/2020/14/5#sec1) – 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (7 out of 181 full papers)
+	* [IEEE ICDE 2009 (Research Track)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5494756) – 25th IEEE International Conference on Data Engineering (8 out of 93 full papers)
 
 #### National Research Award
-* **2011 National Research Gold Medal and Prize**
+* [**2011 National Research Gold Medal and Prize**](https://www.comp.nus.edu.sg/programmes/pg/awards/)
 	- awarded by Infocomm Development Authority of Singapore
 
 #### University-level Award
