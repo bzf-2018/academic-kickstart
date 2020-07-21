@@ -5,22 +5,42 @@
 
 <center> <h1>Research - Civil Computing</h1> </center>
 
-Dr Bao’s research interest is mainly on database management with a recent focus on big geo-spatial data. I propose the topic of **Civil Computing** and has made significant contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone for optimal decision making**. These civil computing problems include:
+My research interest is mainly on database management and data mining with a recent focus on massive Geo-Spatial data. I propose the topic of **Civil Computing** and has made significant contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone for optimal decision making** and **facilitate people's everyday life**. These civil computing problems of my focus involve three domains: (1) Facility Deployment, (2) House Seeking (Point of Interest and Area of Interest), and (3) Intelligent Transport. 
 
-- The budget-constrained facility deployment that benefits the optimal deployment of gas stations, electric charging stations and advertisement.
+* **House Seeking**
+- Map-based Visual exploration on location-centred multi-dimensional data (WSDM'19, EuroVIS'18, JVLC'18)
+- Map-based Spatial Object Recommendation with Explainability (SIGIR'20)
+- Representative Spatial Object Selection (SIGMOD'18)
+- Realtime Popular House (POI) and Area (AOI) Monitoring (ICDE'17)
 
-- The trajectory data exploration that benefits public transportation network optimization and traffic flow prediction.
 
-- The one-size-fits-all point of interest (poi) and trajectory search engine that benefits personalized trip planning.
+User movement data generally behave in three forms: (i) Commuter Trajectory, (ii) Vehicle Trajectory, (iii) User Activity Trajectory. 
+We utilize them in a comprehensive manner in the following projects.
 
-- The location-centred interactive visualized analytics that benefits real estate house seeking.
+* **Facility Deployment**
+Goal: 
+- Towards an Optimal City-wide Deployment of Advertisement (for Influcence Maximization) and Deployment of Gas stations, electric charging stations and any Facilities (for Doverage Maximization). 
+- Orthogonal to different choices of Coverage Measurement and Influence Measurement. 
+	- When the Influence Overlaps Matter (KDD'18, TKDD'20)
+	- When the Impression Counts Matter (KDD'19)
+
+
+* **Intelligent Transport**
+From the perspective of transport service provider, we exploit user movement data to: 
+	- Monitor Network-wide Traffic via Vehicle Trajectory Clustering (PVLDB'20)
+	- Bring People back to Public Transport via Reoptimizing the Bus Route Network (TKDE'19)
+	- Ehance Passengers' Satisfaction via Optimizing the Network-wide Public Transport Time Schedule (DASFAA'20 and more on the way)
+	- Dynamic Ridesharing in **Peak Travel Periods** to Boost User Satisfaction (TKDE'20)
+	
+From the perspective of individual user, we exploit user movement data to: 
+	- Estimate the Origin-Destination Travel Time for a trip (SIGMOD'20)
+	- Build an All-purpose POI and Trajectory Search Engine for Personalized Trip Planning (SIGIR'18, WSDM'18)
+
 
 To solve the above civil problems, Dr Bao is the first of few developing **end-to-end** solutions that cross three disciplinaries: Data Management, Information Retrieval and Data Visualization. His inter-disciplinary methodology involves:
 
 - design effective data usability modules in the front end.
-
 - propose efficient evaluation algorithm in the mid end.
-
 - provide efficient storage and indexing schemes in the back end.
 
 Each end has mutual impact to the others in solution design, while it is usually assumed to be orthogonal to each other in single-discipline research. His proposed cross-disciplinary methodology is creative and highly endorsed by international peers, as evidenced by his publication in top venues of Information Retrieval such as WSDM, SIGIR, top venues of data management such as SIGMOD, ICDE, KDD, TKDE, VLDB Journal, and top venues of Data Visualization such as EUROVIS, JVLC.
