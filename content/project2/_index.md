@@ -8,24 +8,25 @@
 My research interest is mainly on database management and data mining with a recent focus on massive Geo-Spatial data. I propose the topic of **Civil Computing** and has made significant contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone for optimal decision making** and **facilitate people's everyday life**. These civil computing problems of my focus involve three domains: (1) Facility Deployment, (2) House Seeking (Point of Interest and Area of Interest), and (3) Intelligent Transport. 
 
 * **House Seeking**
-- Map-based Visual exploration on location-centred multi-dimensional data (WSDM'19, EuroVIS'18, JVLC'18)
-- Map-based Spatial Object Recommendation with Explainability (SIGIR'20)
-- Representative Spatial Object Selection (SIGMOD'18)
-- Realtime Popular House (POI) and Area (AOI) Monitoring (ICDE'17)
+	- Map-based Visual exploration on location-centred multi-dimensional data (WSDM'19, EuroVIS'18, JVLC'18)
+	- Map-based Spatial Object Recommendation with Explainability (SIGIR'20)
+	- Representative Spatial Object Selection (SIGMOD'18)
+	- Realtime Popular House (POI) and Area (AOI) Monitoring (ICDE'17)
 
 
 User movement data generally behave in three forms: (i) Commuter Trajectory, (ii) Vehicle Trajectory, (iii) User Activity Trajectory. 
 We utilize them in a comprehensive manner in the following projects.
 
-* **Facility Deployment**
-Goal: 
-- Towards an Optimal City-wide Deployment of Advertisement (for Influcence Maximization) and Deployment of Gas stations, electric charging stations and any Facilities (for Doverage Maximization). 
-- Orthogonal to different choices of Coverage Measurement and Influence Measurement. 
-	- When the Influence Overlaps Matter (KDD'18, TKDD'20)
-	- When the Impression Counts Matter (KDD'19)
+* **Facility Deployment** 
+
+	- Towards an Optimal City-wide Deployment of Advertisement (for Influcence Maximization) and Deployment of Gas stations, electric charging stations and any Facilities (for Doverage Maximization). 
+	- Orthogonal to different choices of Coverage Measurement and Influence Measurement. 
+		- When the Influence Overlaps Matter (KDD'18, TKDD'20)
+		- When the Impression Counts Matter (KDD'19)
 
 
 * **Intelligent Transport**
+
 From the perspective of transport service provider, we exploit user movement data to: 
 	- Monitor Network-wide Traffic via Vehicle Trajectory Clustering (PVLDB'20)
 	- Bring People back to Public Transport via Reoptimizing the Bus Route Network (TKDE'19)
