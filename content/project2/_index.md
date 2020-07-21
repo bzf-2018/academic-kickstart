@@ -93,6 +93,8 @@ Each end has mutual impact to the others in solution design, while it is usually
 
 **Research Problem 3.4 - A Search Engine for Trajectory Data on Road Networks (SIGIR 2018).**
 
+**Research Problem 3.5 - Effective Travel Time Estimation: When Historical Trajectories over Road Networks Matter (SIGMOD 2020).**
+
 TISP is a Trip planning system by an Integrated Search Paradigm. TISP helps users (even those without any prior knowledge of the target city) interactively discover a city and incrementally plan a unique trip. Planning a trip usually involves a series of search processes, where users may issue several queries of the same type (with different settings), or even different types of queries, until the desired points of interest (POIs) and trajectories are found. In particular, for POI search, it involves the keyword query, k-Nearest Neighbor (kNN) query, Top-k Spatial Keyword (TkSK) query, Aggregate Nearest Neighbour (ANN) query, and Aggregate Textual Nearest Neighbour (ATNN) query. For trajectory search, it involves the k-Best-Connected-Trajectory (kBCT) query and Top-k Spatial-Textual Trajectory (TkSTT) query. 
 
 At Data Management end, we propose a general Top-k query called **Monotone Aggregate Spatial Keyword query** - MASK, which is able to cover all the above queries. Then we proposed a unified index and query processing paradigm to answer various types of location-based search queries on both spatial point data and spatial trajectory data. 
