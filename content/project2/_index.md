@@ -5,7 +5,7 @@
 
 <center> <h1>Research - Civil Computing</h1> </center>
 
-My research interest is mainly on database management and data mining with a recent focus on massive Geo-Spatial data. I propose the topic of **Civil Computing** and has made significant contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone for optimal decision making** and **facilitate people's everyday life**. These civil computing problems of my focus involve three domains: (1) Facility Deployment, (2) House Seeking (Point of Interest and Area of Interest), and (3) Intelligent Transport. 
+My research interest is mainly on database management and data mining with a recent focus on massive Geo-Spatial data. I propose the topic of [**Civil Computing**](http://civilcomputing.co/) and has made significant contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone for optimal decision making** and **facilitate people's everyday life**. These civil computing problems of my focus involve three domains: (1) [Site Selection](http://civilcomputing.co/sub-facility.html), (2) [House Seeking](http://civilcomputing.co/sub-houseseeking.html) (Point of Interest and Area of Interest), and (3) [Intelligent Transport](http://civilcomputing.co/sub-transport.html). 
 
 * **House Seeking**
 	- Map-based Visual exploration on location-centred multi-dimensional data (WSDM'19, EuroVIS'18, JVLC'18)
@@ -17,7 +17,7 @@ My research interest is mainly on database management and data mining with a rec
 User movement data generally behave in three forms: (i) Commuter Trajectory, (ii) Vehicle Trajectory, (iii) User Activity Trajectory. 
 We utilize them in a comprehensive manner in the following projects.
 
-* **Facility Deployment** 
+* **Site Selection / Facility Deployment** 
 
 	- Towards an Optimal City-wide Deployment of Advertisement (for Influcence Maximization) and Deployment of Gas stations, electric charging stations and any Facilities (for Doverage Maximization). 
 	- Orthogonal to different choices of Coverage Measurement and Influence Measurement. 
@@ -54,11 +54,13 @@ Each end has mutual impact to the others in solution design, while it is usually
 
 **Research Problem 1.1 - Trajectory-driven Influential Billboard Placement**: Given a set of billboards U (each with a location and a cost), a set T of user-movement records and a budget L, it aims to find a set of billboards within the budget to influence the largest number of trajectories. One core challenge is to identify and reduce the overlap of the influence from different billboards to the same trajectories, while keeping the budget constraint into consideration. 
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/3eS1ac4KaHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="480" height="320" src="https://www.youtube.com/embed/3eS1ac4KaHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="480" height="320" src="https://youtu.be/tE3dEbgHDUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
 
 **Research Problem 1.2 - When Impression Counts Meet Influential Billboard Placement**: Given a set of billboards U (each with a location and a cost), a set T of user-movement records, an impression count threshold to trigger the influence of an individual user, a budget L, find a set of billboards within the budget to influence the largest number of trajectories. One core challenge is that different users can have different thresholds to be impressed by the same advertisement.
 
-<center><iframe width="560" height="315" src="https://youtu.be/tE3dEbgHDUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 
 
 <center><h3>Research Project 2: Visualizaton, Retrieval and Analytics of Location-Centered Data </h3> </center>
