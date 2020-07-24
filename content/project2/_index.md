@@ -82,19 +82,35 @@ Each end has mutual impact to the others in solution design, while it is usually
 **Research Problem 2.7 - How to exploit the visualization techniques to strike a balance between structured query and ranked retrieval**: Structured query like SQL may give few or no results, while there is no one-size-fits-all ranking model to meet every individual buyer's requirement, not to mention the buyer's requirement may change w.r.t. the search result. What shall we do? Customer A wants to buy a house with a swimming pool under the budget of 1M; however, there is no such house, but there are few houses asking for 1.01M with swimming pools. We provide a visualized comparison for those "borderline" houses, for users to quickly identify which attributes of her interest do not meet her requirement. 
 
 
-<center><h3>Research Project 3: Trajectory Data Exploration for Trip Planning</h3></center> 
+<center><h3>Research Project 3: Graph Data Analytics </h3></center> 
+
+**Research Problem 3.1 - Representation Learning for Evolving Graph Data. (ICDE 2020)** 
+
+Graph representation learning has been a very promising and popular research topic and it can outperform traditional methods under various applications. Despite significant progress, this topic is still quite open and many directions are worth exploring. In this project, we mainly focus on temporal information capture and graph similarity computation with machine learning, and explainability and interpretability of graph representation learning.
+
+**Research Problem 3.2 - Viral Marketing over Evolving Social Networks. (ICDE 2019, and more)**  
+
+This project focus on efficently and effectively finding the seed set users for spreading the advertising information in viral marketing. Due to various requirements, the seed set selection can be formulated as different problems such as Influence Maximization, Seed Set Minimization, Regret Minimization and Revenue Maximization. This project aims to propose novel solutions and business models for different versions of this problem with better practicalty, efficiency and effectiveness.
+
+**Research Problem 3.3 - Mining High-Order Graph Information Mining.**  
+
+High-order graph information has been shown to be very useful for important tasks such as community detection and graph clutering. In this project, I mainly focus on revolving two bottlenecks of this topic: how to efficiently extract the high-order information, and determine what kinds of high-order information we should extract based on the specific context.
+
+
+
+<center><h3>Research Project 4: Trajectory Data Exploration for Trip Planning</h3></center> 
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/5vB22ZR8kvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> 
 
-**Research Problem 3.1 - Answering the Exemplar Trajectory Query (ICDE 2017).**
+**Research Problem 4.1 - Answering the Exemplar Trajectory Query (ICDE 2017).**
 
-**Research Problem 3.2 - A Unified Processing Paradigm for Interactive Location-based Web Search (WSDM 2018).**
+**Research Problem 4.2 - A Unified Processing Paradigm for Interactive Location-based Web Search (WSDM 2018).**
 
-**Research Problem 3.3 - Distributed In-memory Trajectory Analytics (SIGMOD 2018).**
+**Research Problem 4.3 - Distributed In-memory Trajectory Analytics (SIGMOD 2018).**
 
-**Research Problem 3.4 - A Search Engine for Trajectory Data on Road Networks (SIGIR 2018).**
+**Research Problem 4.4 - A Search Engine for Trajectory Data on Road Networks (SIGIR 2018).**
 
-**Research Problem 3.5 - Effective Travel Time Estimation: When Historical Trajectories over Road Networks Matter (SIGMOD 2020).**
+**Research Problem 4.5 - Effective Travel Time Estimation: When Historical Trajectories over Road Networks Matter (SIGMOD 2020).**
 
 TISP is a Trip planning system by an Integrated Search Paradigm. TISP helps users (even those without any prior knowledge of the target city) interactively discover a city and incrementally plan a unique trip. Planning a trip usually involves a series of search processes, where users may issue several queries of the same type (with different settings), or even different types of queries, until the desired points of interest (POIs) and trajectories are found. In particular, for POI search, it involves the keyword query, k-Nearest Neighbor (kNN) query, Top-k Spatial Keyword (TkSK) query, Aggregate Nearest Neighbour (ANN) query, and Aggregate Textual Nearest Neighbour (ATNN) query. For trajectory search, it involves the k-Best-Connected-Trajectory (kBCT) query and Top-k Spatial-Textual Trajectory (TkSTT) query. 
 
@@ -105,7 +121,7 @@ At Visualization end, we design an interactive visualized procedure to help user
 We design a search engine, Torch, for trajectory data and serve almost all metric and non-metric trajectory similarity computations. In particular, we first map the trajectories into the road network, then a trajectory can be represented by a set of road segment ids. Moreover, a road segment is also crossed by many trajectories. Hence, we can use the inverted index to organize all the trajectories crossing a same road. Compression techniques over trajectories and inverted lists will further reduce the space of dataset and index.
 
 
-<center><h3>Research Project 4: Dynamic Ridesharing in Peak Travel Periods: One Stone, Two Birds </h3></center> 
+<center><h3>Research Project 5: Dynamic Ridesharing in Peak Travel Periods: One Stone, Two Birds </h3></center> 
 
 Ridesharing service is an innovative transportation strategy in trip planning. Riders with similar itineraries and time schedules are encouraged to share their trips in order to save money, reduce traffic congestion and increase car seat utilization. However, the performance of ridesharing service under the peak hour scenario, where the number of riders is way larger than the number of vehicles, is critical in reality. Given a set of drivers and rider requests, this project tries to match drivers to each rider request by achieving two objectives: (i) **maximizing the served rate** and (ii) **minimizing the total additional travel distance**, subject to a series of spatio-temporal constraints dynamically. Interestingly, our problem can be distinguished from existing work in three aspects: (1) Previous work did not fully explore the impact of peak travel periods where the number of rider requests is much greater than the number of available drivers. (2) Existing solutions usually rely on single objective optimization techniques, such as minimizing the total travel cost. (3) When evaluating the overall system performance, the runtime spent on updating drivers' trip schedules as per incoming rider requests should be incorporated, while it is excluded by most existing solutions.
 
