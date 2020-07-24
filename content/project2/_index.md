@@ -54,8 +54,7 @@ Each end has mutual impact to the others in solution design, while it is usually
 
 **Research Problem 1.1 - Trajectory-driven Influential Billboard Placement**: Given a set of billboards U (each with a location and a cost), a set T of user-movement records and a budget L, it aims to find a set of billboards within the budget to influence the largest number of trajectories. One core challenge is to identify and reduce the overlap of the influence from different billboards to the same trajectories, while keeping the budget constraint into consideration. 
 
-<center><iframe width="480" height="320" src="https://www.youtube.com/embed/3eS1ac4KaHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="480" height="320" src="https://youtu.be/tE3dEbgHDUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
+<center><iframe width="480" height="320" src="https://www.youtube.com/embed/3eS1ac4KaHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="480" height="320" src="https://www.youtube.com/embed/tE3dEbgHDUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
 **Research Problem 1.2 - When Impression Counts Meet Influential Billboard Placement**: Given a set of billboards U (each with a location and a cost), a set T of user-movement records, an impression count threshold to trigger the influence of an individual user, a budget L, find a set of billboards within the budget to influence the largest number of trajectories. One core challenge is that different users can have different thresholds to be impressed by the same advertisement.
