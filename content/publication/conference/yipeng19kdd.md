@@ -20,7 +20,7 @@ abstract: In this paper we propose and study the problem of optimizing the influ
 featured: true
 
 links:
-url_pdf: 'slides/yipeng19kddpaper.pdf'
-url_slides: 'slides/yipeng19kdd.pptx'
+url_pdf: 'papers/yipeng19kddpaper.pdf'
+url_slides: 'slides/kdd19-talk.pdf'
 
 ---

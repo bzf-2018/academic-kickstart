@@ -21,7 +21,7 @@ abstract: In this paper, we study the problem of origin-destination (OD) travel 
 featured: true
 
 links:
-url_pdf: 'slides/sigmod20-deepod.pdf'
+url_pdf: 'papers/sigmod20-deepod.pdf'
 
 
 ---

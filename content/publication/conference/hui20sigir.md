@@ -24,6 +24,8 @@ abstract: Existing spatial object recommendation algorithms generally treat obje
 featured: true
 
 links:
-url_pdf: 'slides/hui20sigir.pdf'
+- name: Video
+url: https://youtu.be/3Da0EqYVOqk
+url_pdf: 'papers/hui20sigir.pdf'
 
 ---
