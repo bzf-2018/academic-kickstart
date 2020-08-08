@@ -1,5 +1,5 @@
 ---
-title: "Towards an Optimal Outdoor Advertising Placement: When a Budget Constraint Meets Moving Trajectories"
+title: "Towards an Optimal Outdoor Advertising Placement - When a Budget Constraint Meets Moving Trajectories"
 authors:
 - Ping Zhang
 - admin
