@@ -24,7 +24,7 @@ featured: true
 
 links:
 - name: Video
-url: https://youtu.be/3Da0EqYVOqk
+  url: https://youtu.be/3Da0EqYVOqk
 url_pdf: 'papers/hui20sigir.pdf'
 
 ---
