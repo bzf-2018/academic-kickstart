@@ -1,5 +1,5 @@
 ---
-title: "Incremental Preference Adjustment: a Graph Theoretical Approach"
+title: "Incremental Preference Adjustment - a Graph Theoretical Approach"
 authors:
 - Liangjun Song
 - Junhao Gan
