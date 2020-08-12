@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
-title = "Our system prototype on bus (re)scheduling assistant, [FASTS](http://civilcomputing.co/sub-transport.html), is [online]{http://civilcomputing.co/busscheduling}. Check our introductory [video](https://www.youtube.com/watch?v=wLbiJA0i6NQ) and details are available at our VLDB'20 demo paper \"FASTS: A Satisfaction-Boosting Bus Scheduling Assistant\"."
+title = "Our system prototype on bus (re)scheduling assistant, [FASTS](http://civilcomputing.co/sub-transport.html), is [online](http://civilcomputing.co/busscheduling). Check our introductory [video](https://www.youtube.com/watch?v=wLbiJA0i6NQ) and details are available at our VLDB'20 demo paper \"FASTS: A Satisfaction-Boosting Bus Scheduling Assistant\"."
 url = ""
 certificate_url = ""
 date_start = "2020-08-12"
