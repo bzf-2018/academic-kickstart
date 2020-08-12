@@ -22,6 +22,17 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "Our system prototype on bus (re)scheduling assistant, [FASTS](http://civilcomputing.co/sub-transport.html), is [online]{http://civilcomputing.co/busscheduling}. Check our introductory [video](https://www.youtube.com/watch?v=wLbiJA0i6NQ) and details are available at our VLDB'20 demo paper \"FASTS: A Satisfaction-Boosting Bus Scheduling Assistant\"."
+url = ""
+certificate_url = ""
+date_start = "2020-08-12"
+date_end = ""
+description = ""
+
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our Paper \"An Effective Joint Prediction Model for Travel Demands and Traffic Flows\" is accepted by ICDE 2021. Our approach is able to capture the region-level correlations, temporal periodicity and inter-traffic correlations in a systematic manner."
 url = ""
 certificate_url = ""
