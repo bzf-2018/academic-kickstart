@@ -43,7 +43,7 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
-title = "Our Paper \"Incremental Preference Adjustment: a Graph Theoretical Approach\" is accepted by VLDB Journal. Our proposed techniques can be applied to any vector embedding based preference learning model and incrementally adjust the preference for every single user via a few interactions. A very interesting case study has also been conducted."
+title = "Our Paper \"Incremental Preference Adjustment: a Graph Theoretical Approach\" is accepted by VLDB Journal. Our proposed techniques can be applied to any vector embedding based preference learning model and incrementally adjust the preference for every single user via a few interactions. A very interesting case study has also been conducted. Check our [spotlight talk](https://youtu.be/qcAcoS_321Q)."
 url = ""
 certificate_url = ""
 date_start = "2020-07-17"

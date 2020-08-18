@@ -23,6 +23,8 @@ featured: true
 
 
 links:
+- name: short video
+  url: https://youtu.be/qcAcoS_321Q
 url_pdf: 'papers/vldbj20-p.pdf'
 
 ---
