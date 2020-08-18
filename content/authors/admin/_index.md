@@ -25,6 +25,7 @@ interests:
 - Big Data Algorithms
 - Graph Data Management 
 - Data Integration and Cleaning
+- Information Retrieval
 - Data Visualization
 
 education:
@@ -70,7 +71,7 @@ I am generally interested in big data management and mining, with a focus on Geo
 
 I am honored to receive several [research awards](https://baozhifeng.net/awards/), such as the [Best Paper Award Runner-up at KDD'19](https://www.kdd.org/awards/view/2019-sigkdd-best-paper-award-winners), the [Best Paper Award Nomination at KDD'18](https://dl.acm.org/toc/tkdd/2020/14/5#sec1) and Two-time [Google Faculty Research Award](https://research.google/outreach/past-programs/faculty-research-awards/). 
 
-I am the Associated Editor of PVLDB'21, and have been serving the PC of flagship conferences in Databases, Data Mining and Information Retrieval such as SIGMOD, SIGKDD and SIGIR. I do consulting services for industy and government offices, such as [City of Melbourne](https://www.melbourne.vic.gov.au/about-melbourne/melbourne-profile/smart-city/citylab/Pages/citylab.aspx) on its Smart City Project and [Victoria Department of Human Health and Services](https://www.dhhs.vic.gov.au/) on its data quality project. 
+I am the Associated Editor of [PVLDB'21](https://vldb.org/2021/?review-board), and have been serving the PC of flagship conferences in Databases, Data Mining and Information Retrieval such as SIGMOD, SIGKDD and SIGIR. I do consulting services for industy and government offices, such as [City of Melbourne](https://www.melbourne.vic.gov.au/about-melbourne/melbourne-profile/smart-city/citylab/Pages/citylab.aspx) on its Smart City Project and [Victoria Department of Human Health and Services](https://www.dhhs.vic.gov.au/) on its data quality project. 
 
 In the past, I was the director of [RMIT master of data science program](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-data-science-mc267) (2018-2019). Under my leadership, I have created a novel form of data science postgraduate project to support diverse sectors and disciplines within RMIT and put cross-disciplinary collaboration into practice, resulting in a double-win -- students are ready to work through those real-life data science projects; people outside of DS but have strong Data Analysis needs get their problem solved. I also co-created the [RMIT-MIT micro-credential program in data science](https://www.rmit.edu.au/news/all-news/2018/jun/new-pathways-created-between-two-leading-universities), bringing novel  pathways for students, where RMIT is the first university in Australia having this connected pathway for data science education.
 
