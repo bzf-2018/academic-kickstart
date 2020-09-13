@@ -20,5 +20,7 @@ abstract: In this paper, we study the problem of large-scale trajectory data clu
 #- Source Themes
 featured: true
 
+links:
+url_pdf: http://www.vldb.org/pvldb/vol13/p29-wang.pdf
 
 ---
