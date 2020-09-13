@@ -19,6 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "How to effectivenly recommend indexes Using Deep Reinforcement Learning? Check our [CIKM'20 work](https://baozhifeng.net/papers/cikm20-IndexRec.pdf)."
+url = ""
+certificate_url = ""
+date_start = "2020-09-12"
+date_end = ""
+description = ""
+
+
 [[item]]
 organization = ""
 organization_url = ""
