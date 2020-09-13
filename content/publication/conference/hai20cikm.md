@@ -5,9 +5,8 @@ authors:
 - admin
 - Yuwei Peng
 
-
 publication_types: ["1"]
-publication: In *29TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT (ACM)*
+publication: In *29th ACM International Conference on Information and Knowledge Management*
 publication_short: In *CIKM*
 publishDate: "2019-10-19"
 
