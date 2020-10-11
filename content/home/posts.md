@@ -19,6 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[item]]
+organization = ""
+organization_url = ""
+title = "Our work \"Towards Efficient Motif-based Graph Partitioning: An Adaptive Sampling Approach\" is accepted by ICDE 2021. This is the first attempt to solve this problem without employing exact edge weight computations."
+url = ""
+certificate_url = ""
+date_start = "2020-10-02"
+date_end = ""
+description = ""
+
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "Our work \"On the Efficiency of K-Means Clustering: Evaluation, Optimization, and Algorithm Selection\" is accepted by PVLDB 2021."
+url = ""
+certificate_url = ""
+date_start = "2020-09-16"
+date_end = ""
+description = ""
+
 
 [[item]]
 organization = ""
