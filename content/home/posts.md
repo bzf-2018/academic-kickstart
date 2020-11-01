@@ -22,6 +22,27 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "It is an honour to receive the [Chris Wallace Award for Outstanding Research](https://www.core.edu.au/the-chris-wallace-award-for-outstanding-research-contributio) [2020](https://mailchi.mp/b3bed90720c3/zz4597ittf-4168873?e=4f86ee5536), awarded by [CORE](https://www.core.edu.au/home) (The Computing Research and Education Association of Australasia)."
+url = ""
+certificate_url = ""
+date_start = "2020-10-28"
+date_end = ""
+description = ""
+
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "Our work \"Towards an Optimal Bus Frequency Scheduling: When the Waiting Time Matters\" is accepted by TKDE."
+url = ""
+certificate_url = ""
+date_start = "2020-10-22"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our work \"Towards Efficient Motif-based Graph Partitioning: An Adaptive Sampling Approach\" is accepted by ICDE 2021. This is the first attempt to solve this problem without employing exact edge weight computations."
 url = ""
 certificate_url = ""
@@ -44,7 +65,7 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
-title = "How to effectivenly recommend indexes Using Deep Reinforcement Learning? Check our [CIKM'20 work](https://baozhifeng.net/papers/cikm20-IndexRec.pdf)."
+title = "How to effectivenly recommend indexes Using Deep Reinforcement Learning? Check our [CIKM'20 work](https://baozhifeng.net/papers/cikm20-IndexRec.pdf) and the [code](https://github.com/rmitbggroup/IndexAdvisor)."
 url = ""
 certificate_url = ""
 date_start = "2020-09-12"
