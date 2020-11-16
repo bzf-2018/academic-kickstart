@@ -22,6 +22,16 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "Our work \"Towards an Efficient Weighted Random Walk Domination\" is accepted by PVLDB'21."
+url = ""
+certificate_url = ""
+date_start = "2020-11-16"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "It is an honour to receive the [Chris Wallace Award for Outstanding Research](https://www.core.edu.au/the-chris-wallace-award-for-outstanding-research-contributio) [2020](https://mailchi.mp/b3bed90720c3/zz4597ittf-4168873?e=4f86ee5536), awarded by [CORE](https://www.core.edu.au/home) (The Computing Research and Education Association of Australasia)."
 url = ""
 certificate_url = ""
