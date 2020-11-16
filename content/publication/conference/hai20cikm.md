@@ -22,6 +22,6 @@ links:
   url: https://github.com/rmitbggroup/IndexAdvisor
   
 url_pdf: 'papers/cikm20-IndexRec.pdf'
-url_slides: 'slides/CIKM20_Index_slides'
+url_slides: 'slides/CIKM20_Index_slides.pdf'
 
 ---
