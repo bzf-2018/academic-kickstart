@@ -11,7 +11,7 @@
 
 
 #### Alumni
-- Dr. [Mingzhao Li](http://mingzhaoli.net/)
+- Dr. [Mingzhao Li](http://mingzhaoli.net/) -- RMIT
 - Dr. [Sheng Wang](https://sites.google.com/site/shengwangcs/) -- Smart Cities Postdoc, NYU
 - Dr. [Farhana Choudhury](https://sites.google.com/site/farhanamc/) -- Lecturer, Unimelb (Affiliated Student)
 - Dr. Ping Zhang -- Researcher, Huawei Database Group (co-supervisor)
