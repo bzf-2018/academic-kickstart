@@ -1,4 +1,5 @@
 #### Invited Keynote Speech
+	* [Australasian Computer Science Week 2021](http://www.acsw.org.au/2021-invited-speakers)
 	* 31st Australasian Database Conference 2020, PhD School
 	* 30th Australasian Database Conference 2019, PhD School
 	* 28th Australasian Database Conference 2017, Research Excellence Forum
@@ -18,11 +19,11 @@
 	* Program co-Chair: ADMA 2017, 2018 (Demo track)
 	* Awards Committee Chair: ADMA 2016 (Tier-B)
 
-#### Selected Program Committee Memberships
+#### Selected (Senior) Program Committee Memberships
 	* International Conference on Very Large Databases (VLDB): 2014, 2016-2018, 2020
 	* ACM International Conference on Management of Data (SIGMOD): 2018, 2021
 	* IEEE International Conference on Data Engineering (ICDE): 2016-2020
-	* ACM International Conference on Information Retrieval (SIGIR): 2016-2020
+	* ACM ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD): 2019, 2020, 2021 (Senior PC)
+	* ACM International Conference on Information Retrieval (SIGIR): 2016-2021
 	* The Web Conference (WWW): 2018, 2019
 	* ACM International Conference on Web Search and Data Mining (WSDM): 2021
-	* ACM ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD): 2019, 2020
