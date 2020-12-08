@@ -1,5 +1,5 @@
 #### Invited Keynote Speech
-	* [Australasian Computer Science Week 2021](http://www.acsw.org.au/2021-invited-speakers)
+	* -[Australasian Computer Science Week 2021](http://www.acsw.org.au/2021-invited-speakers)
 	* 31st Australasian Database Conference 2020, PhD School
 	* 30th Australasian Database Conference 2019, PhD School
 	* 28th Australasian Database Conference 2017, Research Excellence Forum
@@ -7,7 +7,7 @@
 	* 3rd Australia-China Database Workshop, 2014, in conjunct with VLDB'14
 
 #### Associate Editorships
-	* [Proceedings of the VLDB Endowment (PVLDB) Volume 14 (2021)](https://vldb.org/2021/?review-board)
+	* Proceedings of the VLDB Endowment (PVLDB) Volume 14 (2021)
 
 #### Chairmanships
 	* Registration Chair: ACM SIGMOD 2021
