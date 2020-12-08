@@ -32,7 +32,7 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
-title = "It is an honor to be invited as a Senior PC of [KDD 2021](https://www.kdd.org/kdd2021/)."
+title = "It is an honor to be invited as a Senior PC member of [KDD 2021](https://www.kdd.org/kdd2021/)."
 url = ""
 certificate_url = ""
 date_start = "2020-12-02"
