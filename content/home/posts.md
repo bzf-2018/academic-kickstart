@@ -22,6 +22,26 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "Our survey on \"Trajectory data management, analytics, and learning\" is accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur)."
+url = ""
+certificate_url = ""
+date_start = "2020-12-02"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "It is an honor to be invited as a Senior PC of [KDD 2021](https://www.kdd.org/kdd2021/)."
+url = ""
+certificate_url = ""
+date_start = "2020-12-02"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our work \"Towards an Efficient Weighted Random Walk Domination\" is accepted by PVLDB'21."
 url = ""
 certificate_url = ""
