@@ -42,6 +42,17 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
+title = "I am invited to give a keynote speech at [the Australasian Computer Science Week 2021] (http://www.acsw.org.au/2021-invited-speakers)."
+url = ""
+certificate_url = ""
+date_start = "2020-11-28"
+date_end = ""
+description = ""
+
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our work \"Towards an Efficient Weighted Random Walk Domination\" is accepted by PVLDB'21."
 url = ""
 certificate_url = ""

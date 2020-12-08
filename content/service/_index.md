@@ -1,5 +1,5 @@
 #### Invited Keynote Speech
-	* -[Australasian Computer Science Week 2021](http://www.acsw.org.au/2021-invited-speakers)
+	* Australasian Computer Science Week 2021
 	* 31st Australasian Database Conference 2020, PhD School
 	* 30th Australasian Database Conference 2019, PhD School
 	* 28th Australasian Database Conference 2017, Research Excellence Forum
