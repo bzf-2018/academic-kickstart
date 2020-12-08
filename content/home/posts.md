@@ -25,7 +25,7 @@ organization_url = ""
 title = "Our survey on \"Trajectory data management, analytics, and learning\" is accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur)."
 url = ""
 certificate_url = ""
-date_start = "2020-12-02"
+date_start = "2020-12-08"
 date_end = ""
 description = ""
 
