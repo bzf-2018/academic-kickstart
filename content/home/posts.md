@@ -35,7 +35,7 @@ organization_url = ""
 title = "It is an honor to be invited as a Senior PC member of [KDD 2021](https://www.kdd.org/kdd2021/)."
 url = ""
 certificate_url = ""
-date_start = "2020-12-02"
+date_start = "2020-12-06"
 date_end = ""
 description = ""
 
@@ -49,6 +49,7 @@ date_start = "2020-11-16"
 date_end = ""
 description = ""
 
+
 [[item]]
 organization = ""
 organization_url = ""
@@ -56,6 +57,17 @@ title = "It is an honour to receive the [Chris Wallace Award for Outstanding Res
 url = ""
 certificate_url = ""
 date_start = "2020-10-28"
+date_end = ""
+description = ""
+
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "Our work \"AOI-shapes: an efficient footprint algorithm to support visualization of user-defined urban areas of interest\" is accepted by ACM TiiS. This work is a typical effort drawing inspirations between visualization and big data algorithm."
+url = ""
+certificate_url = ""
+date_start = "2020-10-26"
 date_end = ""
 description = ""
 
