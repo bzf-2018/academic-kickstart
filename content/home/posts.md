@@ -22,6 +22,17 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "Our paper \"Public Transport Planning: When Transit Network Connectivity Meets Commuting Demand\" is directly accepted by SIGMOD 2021 (with no revision)."
+url = ""
+certificate_url = ""
+date_start = "2020-12-10"
+date_end = ""
+description = ""
+
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our survey on \"Trajectory data management, analytics, and learning\" is accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur)."
 url = ""
 certificate_url = ""
