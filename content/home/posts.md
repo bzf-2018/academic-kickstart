@@ -19,10 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+
 [[item]]
 organization = ""
 organization_url = ""
-title = "Our paper \"Public Transport Planning: When Transit Network Connectivity Meets Commuting Demand\" is directly accepted by SIGMOD 2021 (with no revision)."
+title = "Our work about triangle counting over graph data is accepted by TKDE."
+url = ""
+certificate_url = ""
+date_start = "2021-01-04"
+date_end = ""
+description = ""
+
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "Our paper on transit planning is directly accepted by SIGMOD 2021."
 url = ""
 certificate_url = ""
 date_start = "2020-12-10"
@@ -151,7 +163,7 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
-title = "Our Paper \"An Effective Joint Prediction Model for Travel Demands and Traffic Flows\" is accepted by ICDE 2021. Our approach is able to capture the region-level correlations, temporal periodicity and inter-traffic correlations in a systematic manner."
+title = "Our Paper on traffic prediction is accepted by ICDE 2021."
 url = ""
 certificate_url = ""
 date_start = "2020-08-12"
