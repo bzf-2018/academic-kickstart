@@ -1,5 +1,5 @@
 ---
-title: "A Survey on Advancing the DBMS Query Optimizer: Cardinality
+title: "A Survey on Advancing the DBMS Query Optimizer - Cardinality
 Estimation, Cost Model, and Plan Enumeration"
 authors:
 - Hai Lan
