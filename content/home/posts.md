@@ -23,8 +23,7 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
-title = "Our survey on Advancing the DBMS Query Optimizer is [available](https://baozhifeng.net/papers/survey_optimizer20.pdf). This survey focuses on Cardinality
-Estimation, Cost Model, and Plan Enumeration"
+title = "Our survey on Advancing the DBMS Query Optimizer is [available](https://baozhifeng.net/papers/survey_optimizer20.pdf). This survey focuses on Cardinality Estimation, Cost Model, and Plan Enumeration."
 url = ""
 certificate_url = ""
 date_start = "2021-01-04"
