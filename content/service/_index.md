@@ -10,13 +10,14 @@
 	* Proceedings of the VLDB Endowment (PVLDB) Volume 14 (2021)
 
 #### Chairmanships
+	* Program Committee Co-Chair: ACM CIKM 2021 (Demo Track)
 	* Registration Chair: ACM SIGMOD 2021
 	* WSDM Cup Chair: ACM WSDM 2019
 	* Awards Committee Chair: ACM CIKM 2017
-	* Program co-Chair: ER 2018 (Demo Track)
-	* Program co-Chair: APWeb 2016, 2018 (Demo Track)
-	* Program co-Chair: DASFAA 2017 (Workshop Track)
-	* Program co-Chair: ADMA 2017, 2018 (Demo track)
+	* Program Committee Co-Chair: ER 2018 (Demo Track)
+	* Program Committee Co-Chair: APWeb 2016, 2018 (Demo Track)
+	* Program Committee Co-Chair: DASFAA 2017 (Workshop Track)
+	* Program Committee Co-Chair: ADMA 2017, 2018 (Demo track)
 	* Awards Committee Chair: ADMA 2016 (Tier-B)
 
 #### Selected (Senior) Program Committee Memberships

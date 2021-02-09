@@ -23,6 +23,16 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "I am invited to be the Program Committee Co-chair of ACM CIKM 2021 (Demo Track)."
+url = ""
+certificate_url = ""
+date_start = "2021-02-09"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our survey on Advancing the DBMS Query Optimizer is [available](https://baozhifeng.net/papers/survey_optimizer20.pdf). This survey focuses on Cardinality Estimation, Cost Model, and Plan Enumeration."
 url = ""
 certificate_url = ""
