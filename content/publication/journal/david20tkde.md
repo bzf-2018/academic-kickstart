@@ -22,5 +22,5 @@ featured: true
 links:
 - name: Early Access
   url: https://www.computer.org/csdl/journal/tk/5555/01/09112608/1kwilO27jfG
-
+url_pdf: 'papers/tkde20-traffic.pdf'
 ---
