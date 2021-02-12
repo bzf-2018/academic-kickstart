@@ -19,7 +19,7 @@ featured: true
 
 links:
 - name: Code
-url: https://github.com/tgbnhy/fast-kmeans
+  url: https://github.com/tgbnhy/fast-kmeans
 url_pdf: http://vldb.org/pvldb/vol14/p163-wang.pdf
 
 ---
