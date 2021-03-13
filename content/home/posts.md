@@ -23,6 +23,16 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "Our work on minimizing regrets for outdoor advertising is accepted by SIGMOD 2021. Congratulations to my PhD student [Yipeng Zhang](https://sites.google.com/view/yipengzhang-rmit/home)".
+url = ""
+certificate_url = ""
+date_start = "2021-03-12"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "I am invited to be the Program Committee Co-chair of ACM CIKM 2021 (Demo Track)."
 url = ""
 certificate_url = ""
