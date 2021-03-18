@@ -76,7 +76,7 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
-title = "Our survey on \"Trajectory data management, analytics, and learning\" is accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur)."
+title = "Our [survey](https://dl.acm.org/doi/10.1145/3440207) on \"Trajectory data management, analytics, and learning\" is accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur)."
 url = ""
 certificate_url = ""
 date_start = "2020-12-08"
