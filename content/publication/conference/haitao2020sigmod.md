@@ -7,7 +7,7 @@ authors:
 - Ling Feng
 
 publication_types: ["1"]
-publication: In In *the 2020 International Conference on Management of Data (SIGMOD)*
+publication: In *the 2020 International Conference on Management of Data (SIGMOD)*
 publication_short: In *SIGMOD*
 publishDate: "2020-06-20"
 
