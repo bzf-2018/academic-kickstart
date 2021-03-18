@@ -10,7 +10,7 @@ authors:
 publication_types: ["1"]
 publication: In *ACM International Conference on Management of Data (SIGMOD)*
 publication_short: In *SIGMOD 2021*
-publishDate: "2021-03-31"
+publishDate: "2021-03-18"
 
 abstract: 
 
