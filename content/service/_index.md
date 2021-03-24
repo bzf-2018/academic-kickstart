@@ -28,3 +28,4 @@
 	* ACM International Conference on Information Retrieval (SIGIR): 2016-2021
 	* The Web Conference (WWW): 2018, 2019
 	* ACM International Conference on Web Search and Data Mining (WSDM): 2021
+	* ACM CIKM: 2015-2020, 2021 (Senior PC)
