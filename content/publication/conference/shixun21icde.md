@@ -1,5 +1,5 @@
 ---
-title: "Towards Efﬁcient Motif-based Graph Partitioning:
+title: "Towards Efficient Motif-based Graph Partitioning:
 An Adaptive Sampling Approach"
 authors:
 - Shixun Huang
@@ -20,7 +20,7 @@ date: "2020-10-10"
 featured: true
 
 links:
-url_pdf: ICDE21-gp-TR.pdf
+url_pdf: 'papers/ICDE21-gp-TR.pdf'
 
 
 ---
