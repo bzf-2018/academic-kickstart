@@ -1,5 +1,6 @@
 ---
-title: "Temporal Network Representation Learning via Historical Neighborhoods Aggregation"
+title: "Towards Efﬁcient Motif-based Graph Partitioning:
+An Adaptive Sampling Approach"
 authors:
 - Shixun Huang
 - Yuchen Li
