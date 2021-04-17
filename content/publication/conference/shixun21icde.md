@@ -21,6 +21,7 @@ featured: true
 
 links:
 url_pdf: 'papers/ICDE21-gp-TR.pdf'
-
+- name: Code
+url: https://github.com/rmitbggroup/SMGP
 
 ---
