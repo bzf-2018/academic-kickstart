@@ -20,6 +20,6 @@ featured: true
 
 links:
 - name: Code
-url: https://github.com/rmitbggroup/MinimizingRegretOOH
+  url: https://github.com/rmitbggroup/MinimizingRegretOOH
 url_pdf: 'papers/SIGMOD21-RM.pdf'
 ---

@@ -19,7 +19,7 @@ featured: true
 
 links:
 - name: Code
-url: https://github.com/rp4ps/ct-bus
+  url: https://github.com/rp4ps/ct-bus
 url_pdf: 'papers/SIGMOD21-bus.pdf'
 
 ---
