@@ -20,6 +20,8 @@ abstract: In this paper we propose and study the problem of optimizing the influ
 featured: true
 
 links:
+- name: Code
+  url: https://github.com/rmitbggroup/ICOA
 url_pdf: 'papers/yipeng19kddpaper.pdf'
 url_slides: 'slides/kdd19-talk.pdf'
 
