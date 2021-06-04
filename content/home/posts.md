@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[item]]
+organization = ""
+organization_url = ""
+title = "Our work on how Context or Knowledge can benefit healthcare Question Answering is accepted by IEEE TKDE."
+url = ""
+certificate_url = ""
+date_start = "2021-06-04"
+date_end = ""
+description = ""
+
 
 [[item]]
 organization = ""
