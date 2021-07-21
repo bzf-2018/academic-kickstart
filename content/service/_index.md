@@ -13,6 +13,7 @@
 	* RoundTable Chair: VLDB 2021
 	* Technical Program Committee Co-Chair: ACM CIKM 2021 (Demo Track)
 	* Registration Chair: ACM SIGMOD 2021
+	* Curated Session Chair: ACM SIGMOD 2021 (Theme: Graph Data Management)
 	* WSDM Cup Chair: ACM WSDM 2019
 	* Awards Committee Chair: ACM CIKM 2017
 	* Technical Program Committee Co-Chair: ER 2018 (Demo Track)
