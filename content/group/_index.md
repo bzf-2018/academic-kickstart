@@ -8,7 +8,7 @@
 
 
 #### Alumni
-- Dr. [Mingzhao Li](http://mingzhaoli.net/) -- RMIT
+- Dr. [Mingzhao Li](http://mingzhaoli.net/) -- Lead, Academic Delivery (Data Science) at Pearson
 - Dr. [Sheng Wang](https://sites.google.com/site/shengwangcs/) -- Smart Cities Postdoc, NYU
 - Dr. [Shixun Huang](https://shixunh.io/)
 - Dr. [Farhana Choudhury](https://sites.google.com/site/farhanamc/) -- Lecturer, Unimelb (Affiliated Student)
