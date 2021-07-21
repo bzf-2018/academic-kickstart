@@ -22,6 +22,27 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "Our work on building a Framework to support continuous range queries over Multi-Attribute Trajectories is accepted by IEEE TKDE."
+url = ""
+certificate_url = ""
+date_start = "2021-07-16"
+date_end = ""
+description = ""
+
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "Invited to be the RoundTable Chair of [VLDB 2021](https://vldb.org/2021/)!"
+url = ""
+certificate_url = ""
+date_start = "2021-06-30"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our work on how Context or Knowledge can benefit healthcare Question Answering is accepted by IEEE TKDE."
 url = ""
 certificate_url = ""
