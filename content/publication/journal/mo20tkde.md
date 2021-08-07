@@ -19,7 +19,5 @@ abstract: Reorganizing bus frequencies to cater for actual travel demands can si
 featured: true
 
 links:
-- name: Early Access
-  url: https://ieeexplore.ieee.org/document/9250547
 url_pdf: 'papers/tkde20-fast.pdf'
 ---
