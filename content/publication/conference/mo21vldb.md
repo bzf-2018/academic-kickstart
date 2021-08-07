@@ -21,6 +21,9 @@ featured: true
 links:
 - name: Code
   url: https://github.com/rmitbggroup/RandomWalkDomination
+- name: Video
+  url: https://www.youtube.com/watch?v=z-3vvM8wKg0
 url_pdf: http://vldb.org/pvldb/vol14/p560-mo.pdf
+url_slides: 'slides/vldb21-talk.pdf'
 
 ---
