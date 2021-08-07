@@ -21,5 +21,9 @@ featured: true
 links:
 - name: Code
   url: https://github.com/rmitbggroup/MinimizingRegretOOH
+- name: Video
+  url: https://youtu.be/h0staIH94Y0
 url_pdf: 'papers/SIGMOD21-RM.pdf'
+url_slides: 'slides/sigmod21-rm-talk.pdf'
+
 ---
