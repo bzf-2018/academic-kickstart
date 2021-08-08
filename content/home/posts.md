@@ -19,6 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "Our work titled \"Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics\" is accepted by ACM CIKM 2021."
+url = ""
+certificate_url = ""
+date_start = "2021-08-08"
+date_end = ""
+description = ""
+
+
 [[item]]
 organization = ""
 organization_url = ""
