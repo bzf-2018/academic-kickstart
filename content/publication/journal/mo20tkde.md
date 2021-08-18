@@ -20,6 +20,6 @@ featured: true
 
 links:
 - name: Code
-url: https://github.com/rmitbggroup/FASTS
+  url: https://github.com/rmitbggroup/FASTS
 url_pdf: 'papers/tkde20-fast.pdf'
 ---
