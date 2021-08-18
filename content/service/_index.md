@@ -7,10 +7,10 @@
 	* 3rd Australia-China Database Workshop, 2014, in conjunct with VLDB'14
 
 #### Associate Editorships
-	* Proceedings of the VLDB Endowment (PVLDB) Volume 14 (2021)
+	* Proceedings of the VLDB Endowment (PVLDB) Volume 14 (2020-2021)
 
 #### Chairmanships
-	* RoundTable Chair: VLDB 2021
+	* Round Table Chair: VLDB 2021 ([17 round tables  organized on trending Database topics](http://vldb.org/2021/?program-schedule-roundtable))
 	* Technical Program Committee Co-Chair: ACM CIKM 2021 (Demo Track)
 	* Registration Chair: ACM SIGMOD 2021
 	* Curated Session Chair: ACM SIGMOD 2021 (Theme: Graph Data Management)

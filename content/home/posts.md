@@ -19,6 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[item]]
+organization = ""
+organization_url = ""
+title = "A great honor to receive the [Distinguished Associate Editor Award](http://vldb.org/2021/?conference-awards) of PVLDB!"
+url = ""
+certificate_url = ""
+date_start = "2021-08-18"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "VLDB 2021 is happening! We organize 17 [round tables] (http://vldb.org/2021/?program-schedule-roundtable), covering a wide range of trending topics such as Systems for ML, Network Embedding and Data Preparation for ML. Kudos to everyone that helps make it happen!]"
+url = ""
+certificate_url = ""
+date_start = "2021-08-16"
+date_end = ""
+description = ""
 
 [[item]]
 organization = ""
