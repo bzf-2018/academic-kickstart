@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
-title = "Hearty Congratulations to my student [Sheng Wang](http://shengwang.site/index.html) in joining Wuhan University as an Associate Professor, after his postdoc at NYU! Sheng earlier received the only nomination from RMIT to compete the [CORE John Makepeace Bennett Award](https://www.core.edu.au/john-makepeace-bennett-award-australasian-distinguished-do) in 2019. This is my first PhD student going to Academia and my best wishes to him in starting a new chapter!"
+title = "Hearty Congratulations to my student [Sheng Wang](http://shengwang.site/index.html) in joining Wuhan University as an Associate Professor, after his postdoc at NYU! Sheng earlier received the only nomination from RMIT to compete the [CORE John Makepeace Bennett Award](https://www.core.edu.au/john-makepeace-bennett-award-australasian-distinguished-do) 2020. This is my first PhD student going to Academia and my best wishes to him in starting a new chapter!"
 url = ""
 certificate_url = ""
 date_start = "2021-09-10"
