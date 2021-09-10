@@ -10,7 +10,7 @@
 
 #### Alumni
 - Dr. [Mingzhao Li](http://mingzhaoli.net/) -- Lead, Academic Delivery (Data Science) at Pearson
-- Dr. [Sheng Wang](https://sites.google.com/site/shengwangcs/) -- Smart Cities Postdoc, NYU
+- Dr. [Sheng Wang](http://shengwang.site/index.html) -- Current: Associate Professor, Wuhan University; First Employment: Smart Cities Postdoc, NYU
 - Dr. [Shixun Huang](https://shixunh.io/)
 - Dr. [Farhana Choudhury](https://sites.google.com/site/farhanamc/) -- Lecturer, Unimelb (Affiliated Student)
 - Dr. Ping Zhang -- Researcher, Huawei Database Group (co-supervisor)
