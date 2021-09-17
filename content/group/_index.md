@@ -3,6 +3,7 @@
 - [Yipeng Zhang](https://sites.google.com/view/yipengzhang-rmit/home)
 - [Hai Lan](https://lanhaigogogo.com/)
 - [Tingting Wang](https://ttingtingwang.github.io/)
+- Xiaoyu Zhang
 - [David Tedjopurnomo](https://david-tedjopurnomo.github.io/)
 - Munkh-Erdene Yadamjav
 
