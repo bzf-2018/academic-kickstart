@@ -19,6 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "Our scalable data science work \"Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks\" is accepted by PVLDB 2021."
+url = ""
+certificate_url = ""
+date_start = "2021-10-16"
+date_end = ""
+description = ""
+
+
 [[item]]
 organization = ""
 organization_url = ""
