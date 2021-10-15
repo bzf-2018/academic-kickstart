@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
-title = "Our scalable data science work \"Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks\" is accepted by PVLDB 2021."
+title = "Our scalable data science work \"Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks\" is accepted by PVLDB 2022."
 url = ""
 certificate_url = ""
 date_start = "2021-10-16"
