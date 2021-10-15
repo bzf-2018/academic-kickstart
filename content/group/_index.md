@@ -4,6 +4,7 @@
 - [Hai Lan](https://lanhaigogogo.com/)
 - [Tingting Wang](https://ttingtingwang.github.io/)
 - Xiaoyu Zhang
+- Alvin Zhao (co-supervised with Junhao Gan and Jianzhong Qi)
 - [David Tedjopurnomo](https://david-tedjopurnomo.github.io/)
 - Munkh-Erdene Yadamjav
 
