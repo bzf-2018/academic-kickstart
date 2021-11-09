@@ -21,6 +21,8 @@ abstract: In this paper, we study the problem of large-scale trajectory data clu
 featured: true
 
 links:
+- name: Code
+  url: https://github.com/tgbnhy/k-paths-clustering
 url_pdf: http://www.vldb.org/pvldb/vol13/p29-wang.pdf
 
 ---
