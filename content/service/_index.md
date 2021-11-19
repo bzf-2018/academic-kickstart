@@ -28,8 +28,8 @@
 	* ACM International Conference on Management of Data (SIGMOD): 2018, 2021, 2022
 	* IEEE International Conference on Data Engineering (ICDE): 2016-2020, 2022
 	Data Mining Field:
-	* ACM ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD): 2019, 2020, 2021 (Senior PC)
-	* ACM International Conference on Web Search and Data Mining (WSDM): 2021, 2022	
+	* ACM ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD): 2019, 2020, 2021 (Senior PC), 2022 (Senior PC)
+	* ACM International Conference on Web Search and Data Mining (WSDM): 2021, 2022	(Senior PC)
 	Information Retrieval Field:
 	* ACM International Conference on Information Retrieval (SIGIR): 2016-2021
 	* The Web Conference (WWW): 2018, 2019
