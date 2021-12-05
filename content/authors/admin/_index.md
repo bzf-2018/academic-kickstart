@@ -22,17 +22,17 @@ role: Email firstname dot lastname AT rmit/unimelb.edu.au
 
 interests:
 - Big Data Algorithms
-- Graph Data Mining 
 - Data Quality for Machine Learning
-- Query Optimization
-- 
+- Database Query Optimization
+- Pricing for Query and Data
+- Computational Marketing
+- Spatial Data Exploration
 
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD in Computer Science, BSc (Hons.) in Computer Science
     institution: National University of Singapore
-    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
