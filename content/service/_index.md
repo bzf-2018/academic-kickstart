@@ -7,8 +7,9 @@
 	* 3rd Australia-China Database Workshop, 2014, in conjunct with VLDB'14
 
 #### Associate Editor
-	* Proceedings of the VLDB Endowment (PVLDB) Volume 14 (2020.4-2021.8)
 	* ACM SIGMOD 2023
+	* Proceedings of the VLDB Endowment (PVLDB) Volume 14 (2020.4-2021.8)
+
 
 #### Chair
 	* Technical Program Committee Co-Chair: [VLDB 2022 PhD Workshop](https://vldb.org/2022/?call-for-phd-workshop)
