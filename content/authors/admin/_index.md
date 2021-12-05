@@ -22,8 +22,8 @@ role: Email firstname dot lastname AT rmit/unimelb.edu.au
 
 interests:
 - Big Data Algorithms
-- Data Quality for Machine Learning
 - Database Query Optimization
+- Data Quality for Machine Learning
 - Pricing for Query and Data
 - Computational Marketing
 - Spatial Data Exploration
