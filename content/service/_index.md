@@ -8,6 +8,7 @@
 
 #### Associate Editor
 	* ACM SIGMOD 2023
+	* Proceedings of the VLDB Endowment (PVLDB) Volume 16 (2022.4-2023.8)
 	* Proceedings of the VLDB Endowment (PVLDB) Volume 14 (2020.4-2021.8)
 
 
