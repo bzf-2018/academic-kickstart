@@ -40,6 +40,6 @@
 	* ACM ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD): 2019, 2020
 	* ACM International Conference on Web Search and Data Mining (WSDM): 2021
 	Information Retrieval Field:
-	* ACM International Conference on Information Retrieval (SIGIR): 2016-2021
+	* ACM International Conference on Information Retrieval (SIGIR): 2016-2022
 	* The Web Conference (WWW): 2018, 2019
 	* ACM CIKM: 2015-2020
