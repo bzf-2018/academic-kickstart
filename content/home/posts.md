@@ -19,16 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-[[item]]
-organization = ""
-organization_url = ""
-title = "A Discovery project led by me is funded by ARC. Up to four PhD scholarships are open until filled. Two more scholarships are available for another project on large-scale transaction processing."
-url = ""
-certificate_url = ""
-date_start = "2021-12-24"
-date_end = ""
-description = ""
-
 
 [[item]]
 organization = ""
@@ -43,7 +33,7 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
-title = "Hearty Congratulations to my student Sheng in joining Wuhan University as an Assoc Professor, after his postdoc at NYU."
+title = "Congratulations to my student Sheng in joining Wuhan University as an Assoc Professor."
 url = ""
 certificate_url = ""
 date_start = "2021-09-10"
