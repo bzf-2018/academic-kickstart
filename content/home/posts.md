@@ -39,8 +39,6 @@ date_start = "2021-12-24"
 date_end = ""
 description = ""
 
-
-
 [[item]]
 organization = ""
 organization_url = ""
@@ -51,7 +49,6 @@ date_start = "2021-10-16"
 date_end = ""
 description = ""
 
-
 [[item]]
 organization = ""
 organization_url = ""
@@ -61,7 +58,6 @@ certificate_url = ""
 date_start = "2021-09-10"
 date_end = ""
 description = ""
-
 
 [[item]]
 organization = ""
@@ -93,11 +89,10 @@ date_start = "2021-08-08"
 date_end = ""
 description = ""
 
-
 [[item]]
 organization = ""
 organization_url = ""
-title = "My student [Shixun](https://shixunh.io/) received the only nomination from RMIT to compete the [CORE John Makepeace Bennett Award](https://www.core.edu.au/john-makepeace-bennett-award-australasian-distinguished-do) 2021."
+title = "My student [Shixun](https://shixunh.io/) received the only nomination from RMIT to compete the CORE John Makepeace Bennett Award 2021."
 url = ""
 certificate_url = ""
 date_start = "2021-07-28"
