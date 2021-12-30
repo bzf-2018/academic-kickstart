@@ -24,7 +24,6 @@ interests:
 - Big Data Algorithms
 - Database Query Optimization
 - Data Quality for Machine Learning
-- Pricing for Query and Data
 - Computational Marketing
 - Spatial Data Exploration
 

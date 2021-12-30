@@ -19,6 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[item]]
+organization = ""
+organization_url = ""
+title = "A Discovery project led by me has been funded by Australian Research Council. Up to four PhD scholarships are open until filled."
+url = ""
+certificate_url = ""
+date_start = "2021-12-24"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "Our work \"Dynamic Ridesharing with Minimal Regret: Towards an Enhanced Engagement Among Three Stakeholders\" will appear in TKDE."
+url = ""
+certificate_url = ""
+date_start = "2021-12-24"
+date_end = ""
+description = ""
+
+
 
 [[item]]
 organization = ""
@@ -34,7 +55,7 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
-title = "Hearty Congratulations to my student [Sheng Wang](http://shengwang.site/index.html) in joining Wuhan University as an Associate Professor, after his postdoc at NYU! Sheng earlier received the only nomination from RMIT to compete the [CORE John Makepeace Bennett Award](https://www.core.edu.au/john-makepeace-bennett-award-australasian-distinguished-do) 2020. This is my first PhD student going to Academia and my best wishes to him in starting a new chapter!"
+title = "Hearty Congratulations to my student [Sheng Wang](http://shengwang.site/index.html) in joining Wuhan University as an Assoc Professor, after his postdoc at NYU! Best wishes to him in starting a new chapter!"
 url = ""
 certificate_url = ""
 date_start = "2021-09-10"
@@ -72,6 +93,16 @@ date_start = "2021-08-08"
 date_end = ""
 description = ""
 
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "My student [Shixun Huang](https://shixunh.io/) received the only nomination from RMIT to compete the [CORE John Makepeace Bennett Award](https://www.core.edu.au/john-makepeace-bennett-award-australasian-distinguished-do) 2021."
+url = ""
+certificate_url = ""
+date_start = "2021-07-28"
+date_end = ""
+description = "
 
 [[item]]
 organization = ""
