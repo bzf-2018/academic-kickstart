@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
-title = "A Discovery project led by me is funded by ARC. Up to four PhD scholarships are open until filled. Two more scholarships are available for another project on large-scale transaction processing."
+title = "An ARC Discovery project led by me is funded and four PhD scholarships are open until filled. Two more scholarships are also available for another project on large-scale transaction processing."
 url = ""
 certificate_url = ""
 date_start = "2021-12-24"
@@ -36,6 +36,16 @@ title = "Our work \"Dynamic Ridesharing with Minimal Regret: Towards an Enhanced
 url = ""
 certificate_url = ""
 date_start = "2021-12-24"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "Invited to serve the Associate Editor of PVLDB Vol 16 and that of SIGMOD 2023, as well as the Senior PC of KDD 2022."
+url = ""
+certificate_url = ""
+date_start = "2021-11-16"
 date_end = ""
 description = ""
 
