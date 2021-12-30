@@ -32,7 +32,7 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
-title = "Our work \"Dynamic Ridesharing with Minimal Regret Towards an Enhanced Engagement Among Three Stakeholders\" will appear in TKDE."
+title = "Our work \"Dynamic Ridesharing with Minimal Regret: Towards an Enhanced Engagement Among Three Stakeholders\" will appear in TKDE."
 url = ""
 certificate_url = ""
 date_start = "2021-12-24"
