@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
-title = "A Discovery project led by me has been funded by Australian Research Council. Up to four PhD scholarships are open until filled."
+title = "A Discovery project led by me has been funded by ARC. Up to four PhD scholarships are open until filled. Another two scholarships are available for the project on large-scale transaction processing."
 url = ""
 certificate_url = ""
 date_start = "2021-12-24"
@@ -97,12 +97,12 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
-title = "My student [Shixun Huang](https://shixunh.io/) received the only nomination from RMIT to compete the [CORE John Makepeace Bennett Award](https://www.core.edu.au/john-makepeace-bennett-award-australasian-distinguished-do) 2021."
+title = "My student [Shixun](https://shixunh.io/) received the only nomination from RMIT to compete the [CORE John Makepeace Bennett Award](https://www.core.edu.au/john-makepeace-bennett-award-australasian-distinguished-do) 2021."
 url = ""
 certificate_url = ""
 date_start = "2021-07-28"
 date_end = ""
-description = "
+description = ""
 
 [[item]]
 organization = ""
