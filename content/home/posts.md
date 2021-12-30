@@ -27,15 +27,6 @@ url = ""
 certificate_url = ""
 date_start = "2021-10-16"
 
-[[item]]
-organization = ""
-organization_url = ""
-title = "Congratulations to my student Sheng in joining Wuhan University as an Assoc Professor."
-url = ""
-certificate_url = ""
-date_start = "2021-09-10"
-date_end = ""
-description = ""
 
 [[item]]
 organization = ""
@@ -67,15 +58,6 @@ date_start = "2021-08-08"
 date_end = ""
 description = ""
 
-[[item]]
-organization = ""
-organization_url = ""
-title = "My student Shixun received the only nomination from RMIT to compete the CORE John Makepeace Bennett Award 2021."
-url = ""
-certificate_url = ""
-date_start = "2021-07-28"
-date_end = ""
-description = ""
 
 [[item]]
 organization = ""
