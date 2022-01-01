@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zhifeng Bao
+name: Prof. Zhifeng Bao
 
 # Username (this should match the folder name)
 authors:
@@ -63,7 +63,7 @@ user_groups:
 - Visitors
 ---
 
-I am an Associate Professor at RMIT (School of Computing Technologies) and an Honorary Senior Fellow at The University of Melbourne. I obtained my PhD in computer science from National University of Singapore and was the winner of [the Best PhD Thesis Award](https://www.comp.nus.edu.sg/programmes/pg/awards/). I am the Head of the Big Data and Database Group at [the RMIT Center of Information Discovery and Data Analytics](https://www.rmit.edu.au/research/research-institutes-centres-and-groups/research-centres/centre-for-information-discovery). 
+I am an academic at RMIT and an Honorary Senior Fellow at The University of Melbourne. I obtained my PhD in computer science from National University of Singapore and was the winner of [the Best PhD Thesis Award](https://www.comp.nus.edu.sg/programmes/pg/awards/). I am the Head of the Big Data and Database Group at [the RMIT Center of Information Discovery and Data Analytics](https://www.rmit.edu.au/research/research-institutes-centres-and-groups/research-centres/centre-for-information-discovery). 
 
 I am generally interested in big data management and mining, with a focus on relational data, geo-spatial data and graph data. Currently, my group is working on query optimization in database systems, data quality for ML, data/query pricing, and ML-enhanced algorithms. In the past, I proposed the topic of [Civil Computing](http://civilcomputing.co/) with the mission of using data-driven techniques to **improve every individual citizen's daily life** where three typical beneficial domains are House Seeking, Site Selection and Transportation Planning. 
 
