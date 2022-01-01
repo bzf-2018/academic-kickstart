@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Email firstname dot lastname AT rmit/unimelb.edu.au
+role: Professor
 
 # Organizations/Affiliations
 #organizations:
@@ -63,7 +63,7 @@ user_groups:
 - Visitors
 ---
 
-I am an academic at RMIT and an Honorary Senior Fellow at The University of Melbourne. I obtained my PhD in computer science from National University of Singapore and was the winner of [the Best PhD Thesis Award](https://www.comp.nus.edu.sg/programmes/pg/awards/). I am the Head of the Big Data and Database Group at [the RMIT Center of Information Discovery and Data Analytics](https://www.rmit.edu.au/research/research-institutes-centres-and-groups/research-centres/centre-for-information-discovery). 
+I lead the Big Data and Database Group at [the RMIT Center of Information Discovery and Data Analytics](https://www.rmit.edu.au/research/research-institutes-centres-and-groups/research-centres/centre-for-information-discovery) and am an Honorary Senior Fellow at The University of Melbourne. I obtained my PhD in computer science from National University of Singapore and was the winner of [the Best PhD Thesis Award](https://www.comp.nus.edu.sg/programmes/pg/awards/). 
 
 I am generally interested in big data management and mining, with a focus on relational data, geo-spatial data and graph data. Currently, my group is working on query optimization in database systems, data quality for ML, data/query pricing, and ML-enhanced algorithms. In the past, I proposed the topic of [Civil Computing](http://civilcomputing.co/) with the mission of using data-driven techniques to **improve every individual citizen's daily life** where three typical beneficial domains are House Seeking, Site Selection and Transportation Planning. 
 
@@ -76,4 +76,4 @@ I am the Associate Editor of SIGMOD'23 and PVLDB'23. I have been the Associate E
 
 In the past, I was the director of [RMIT master of data science program](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-data-science-mc267) (2018-2019). Under my leadership, we have created a novel form of data science postgraduate project to support diverse sectors and disciplines within RMIT and put cross-disciplinary collaboration into practice, resulting in a double-win -- students are ready to work through those real-life data science projects; people outside DS but have strong Data Analysis needs get their problem solved. I also co-created the [RMIT-MIT micro-credential program in data science](https://www.rmit.edu.au/news/all-news/2018/jun/new-pathways-created-between-two-leading-universities), bringing novel pathways for students, where RMIT is the first university in Australia having this connected pathway for data science education. I was the HDR Committee Chair (2020-2021) during which I have fostered an excellence-driven, diversified and inclusive research culture.
 
-**I am looking for students who are of high integrity, highly motivated, self-disciplined and consistent, to work with me**. If you are the one, please contact me. **Four PhD scholarships are available** at the moment.
+**I am looking for students who are of high integrity, highly motivated, self-disciplined and consistent, to work with me**. If you are the one, please contact me (firstname.lastname@rmit/unimelb.edu.au). **Four PhD scholarships are available** until filled.
