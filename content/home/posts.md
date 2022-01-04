@@ -42,10 +42,10 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
-title = "Invited to serve the Associate Editor of PVLDB Vol 16 and that of SIGMOD 2023, as well as the Senior PC of KDD 2022."
+title = "I will serve the Associate Editor of PVLDB Vol 16 and that of SIGMOD 2023, as well as the Senior PC of KDD 2022."
 url = ""
 certificate_url = ""
-date_start = "2021-11-16"
+date_start = "2021-11-01"
 date_end = ""
 description = ""
 
