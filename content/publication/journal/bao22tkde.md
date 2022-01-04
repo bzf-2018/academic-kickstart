@@ -20,6 +20,7 @@ featured: true
 
 
 links:
+- name: Code
+  url: https://github.com/rmitbggroup/RidesharingwithMinimalRegret
 url_pdf: 'papers/tkde22-ride.pdf'
-
 ---
