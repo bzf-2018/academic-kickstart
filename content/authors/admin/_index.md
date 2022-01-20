@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor
+role: zhifeng.bao AT rmit OR unimelb dot edu.au
 
 # Organizations/Affiliations
 #organizations:
