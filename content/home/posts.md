@@ -19,20 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-	
-
-
-
-[[item]]
-organization = ""
-organization_url = ""
-title = "An ARC Discovery project is funded and four PhD scholarships are open until filled. Two more scholarships are available for another project on large-scale transaction processing."
-url = ""
-certificate_url = ""
-date_start = "2021-12-24"
-date_end = ""
-description = ""
-
 [[item]]
 organization = ""
 organization_url = ""
