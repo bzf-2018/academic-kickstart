@@ -27,10 +27,10 @@
 	- awarded by Infocomm Development Authority of Singapore
 
 #### University-level Award
-* **Best PhD Thesis Award** of School of Computing, NUS for class of 2011 (NUS CS QS rank: #9)
-	- the only winner out of the 35 PhD graduates of the whole school
+* **Best PhD Thesis Award** of School of Computing, National University of Singapore
+	- the only winner out of the 35 PhD graduates of the whole school in the Class of 2011
 * **Best HDR Supervision Award 2017** (School of Science, RMIT)
-	-  among 200+ faculty members in the school
-* **Teaching Excellence Recognition Award**, AY2016, College of Science, Engineering and Health, RMIT
+	-  among 200+ faculty members in the School
+* **Teaching Excellence Recognition Award**, AY2016, College of Science, Engineering and Health, RMIT (course title: Big Data Infrastructures)
 * **Top Course Award**, AY2017, College of Science, Engineering and Health, RMIT (course title: Programming 1)
 * **Top Course Award**, AY2018, College of Science, Engineering and Health, RMIT (course title: Big Data Management)
