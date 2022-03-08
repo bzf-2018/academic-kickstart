@@ -26,7 +26,7 @@ organization_url = ""
 title = "Our work \"Approximate Range Thresholding\" is accepted by SIGMOD 2022."
 url = ""
 certificate_url = ""
-date_start = "2022-3-8"
+date_start = "March 2022"
 date_end = ""
 description = ""
 
