@@ -20,26 +20,7 @@ date_format = "Jan 2006"
 
 
 	
-[[item]]
-organization = ""
-organization_url = ""
-title = "Our work \"Approximate Range Thresholding\" is accepted by SIGMOD 2022."
-url = ""
-certificate_url = ""
-date_start = "2022-3-8"
-date_end = ""
-description = ""
 
-
-[[item]]
-organization = ""
-organization_url = ""
-title = "Outstanding Senior PC Award, by ACM WSDM 2022."
-url = ""
-certificate_url = ""
-date_start = "2022-2-22"
-date_end = ""
-description = ""
 
 
 [[item]]
