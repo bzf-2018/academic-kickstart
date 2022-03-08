@@ -43,6 +43,16 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
+title = "An ARC Discovery project is funded and four PhD scholarships are open until filled. Another two scholarships are available for a project on large-scale transaction processing."
+url = ""
+certificate_url = ""
+date_start = "2021-12-24"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our work \"Dynamic Ridesharing with Minimal Regret: Towards an Enhanced Engagement Among Three Stakeholders\" will appear in TKDE."
 url = ""
 certificate_url = ""
