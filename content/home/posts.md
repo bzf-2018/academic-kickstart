@@ -45,7 +45,7 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
-title = "An ARC Discovery project led by me is funded and four PhD scholarships are open until filled. Two more scholarships are also available for another project on large-scale transaction processing."
+title = "An ARC Discovery project is funded and four PhD scholarships are open until filled. Two more scholarships are available for another project on large-scale transaction processing."
 url = ""
 certificate_url = ""
 date_start = "2021-12-24"
