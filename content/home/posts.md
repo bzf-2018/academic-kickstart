@@ -33,6 +33,16 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
+title = "Outstanding Senior PC Award, by ACM WSDM 2022."
+url = ""
+certificate_url = ""
+date_start = "2022-02-22"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our work \"Dynamic Ridesharing with Minimal Regret: Towards an Enhanced Engagement Among Three Stakeholders\" will appear in TKDE."
 url = ""
 certificate_url = ""
