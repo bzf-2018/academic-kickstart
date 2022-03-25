@@ -22,5 +22,5 @@ featured: true
 links:
 - name: Code
   url: https://github.com/rmitbggroup/RidesharingwithMinimalRegret
-url_pdf: 'papers/tkde22-ride.pdf'
+url_pdf: https://ieeexplore.ieee.org/document/9674848
 ---
