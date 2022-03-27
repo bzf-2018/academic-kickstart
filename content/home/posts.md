@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[item]]
+organization = ""
+organization_url = ""
+title = "Our work \"Deep Entity Matching with Adversarial Active Learning\" is accepted by the VLDB Journal."
+url = ""
+certificate_url = ""
+date_start = "2022-03-28"
+date_end = ""
+description = ""
+
 
 [[item]]
 organization = ""
