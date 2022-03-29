@@ -33,6 +33,17 @@ description = ""
 [[item]]
 organization = ""
 organization_url = ""
+title = "Our work \"Local Clustering over Labeled Graphs: An Index-Free Approach\" is accepted by IEEE ICDE 2022."
+url = ""
+certificate_url = ""
+date_start = "2022-03-28"
+date_end = ""
+description = ""
+
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our work \"Approximate Range Thresholding\" is accepted by SIGMOD 2022."
 url = ""
 certificate_url = ""
