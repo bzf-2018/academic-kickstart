@@ -22,6 +22,7 @@ featured: true
 links:
 - name: Code
   url: https://github.com/zhuozhang-cn/FastRTS
-url_pdf: 'papers/sigmod22-rts-tr'
+- name: Technical Report 
+  url_pdf: 'papers/sigmod22-rts-tr.pdf'
 
 ---
