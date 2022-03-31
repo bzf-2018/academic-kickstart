@@ -23,6 +23,6 @@ links:
 - name: Code
   url: https://github.com/zhuozhang-cn/FastRTS
 - name: Technical Report 
-  url: https://baozhifeng.net/papers/sigmod22-rts-tr.pdf
+  url: https://baozhifeng.net/papers/sigmod22-tr.pdf
 
 ---
