@@ -22,7 +22,7 @@ links:
 - name: Code
   url: https://github.com/YudongNiu/LCS/tree/main/source
 - name: Technical Report
-url_pdf: 'papers/ICDE22-TR.pdf'
+  url: https://baozhifeng.net/papers/ICDE22-TR.pdf
 
 
 ---
