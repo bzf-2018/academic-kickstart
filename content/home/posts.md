@@ -19,13 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+
+
 [[item]]
 organization = ""
 organization_url = ""
-title = "Our work \"Deep Entity Matching with Adversarial Active Learning\" is accepted by the VLDB Journal."
+title = "Our work \"Equitable Public Bus Network Optimization for Social Good: A Case Study of Singapore\" is accepted by ACM FAccT, a flagship venue for fairness and accountability of socio-technical systems. This work explores equitable public bus network optimization. We introduce a comprehensive dataset based on Singapore consisting of the road network data, public transport data, and social demographics data. We propose a range of efficiency metrics and equity metrics and perform an in-depth look of the dataset to show the intricacies of the Singapore bus network, one of the best-in-class public transport systems worldwide. More benchmark datasets on other cities and better optimization techniques are coming soon!"
 url = ""
 certificate_url = ""
-date_start = "2022-03-28"
+date_start = "2022-04-06"
 date_end = ""
 description = ""
 
