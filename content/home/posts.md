@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[item]]
+organization = ""
+organization_url = ""
+title = "Invited to serve the Associate Editor of ACM Transactions on Spatial Algorithms and Systems 2022-2025."
+url = ""
+certificate_url = ""
+date_start = "2022-04-12"
+date_end = ""
+description = ""
+
 
 
 [[item]]
