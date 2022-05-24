@@ -22,6 +22,16 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "Our work titled \"Representative Routes Discovery From Massive Trajectories\" is accepted by KDD, Applied Data Science Track."
+url = ""
+certificate_url = ""
+date_start = "2022-05-19"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our system work \"VRE: A Versatile, Robust, and Economical Trajectory Data System\" is accepted by VLDB. This is a joint work with Alibaba and the system core part has been deployed into GANOS, Alibaba's spatial-temporal database engine. To our best knowledge, this is the first system that supports all the five complex queries and five widely-used distance metrics on large-scale trajectory data of various profiles (spatial span, point density, trajectory density), generated from the domains of aircraft, seafaring, and vehicles. Kudos to my student Hai!"
 url = ""
 certificate_url = ""

@@ -24,5 +24,6 @@ links:
   url: https://github.com/zhuozhang-cn/FastRTS
 - name: Technical Report 
   url: https://baozhifeng.net/papers/sigmod22-tr.pdf
-
+- name: Slides
+  url: https://baozhifeng.net/slides/sigmod22-talk.pdf
 ---
