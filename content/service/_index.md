@@ -14,6 +14,7 @@
 
 
 #### Chair
+	* PC Co-Chair: ACM WSDM 2023 (Demo Track)
 	* Technical Program Committee Co-Chair: [VLDB 2022 PhD Workshop](https://vldb.org/2022/?call-for-phd-workshop)
 	* Round Table Chair: VLDB 2021 ([17 round tables  organized on trending Database topics](http://vldb.org/2021/?program-schedule-roundtable))
 	* Technical Program Committee Co-Chair: ACM CIKM 2021 (Demo Track)
