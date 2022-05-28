@@ -22,6 +22,17 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "The tool we built for PingCAP's TiDB Optimizer in automatically detecting the reasons behind query regression is accepted by VLDB22 demo track. The tool has been adopted within TiDB and signficantly saves optimizer developers' time in analyzing the plan regression."
+url = ""
+certificate_url = ""
+date_start = "2022-05-28"
+date_end = ""
+description = ""
+
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our work titled \"Representative Routes Discovery From Massive Trajectories\" is accepted by KDD, Applied Data Science Track."
 url = ""
 certificate_url = ""
