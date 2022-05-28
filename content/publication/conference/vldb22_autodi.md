@@ -11,7 +11,7 @@ authors:
 
 publication_types: ["1"]
 publication: In *VLDB 2022 (Demo)*
-publication_short: In *VLDB 2022*
+publication_short: In *VLDB 2022 (Demo)*
 publishDate: "2022-05-28"
 
 abstract: 
