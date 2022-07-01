@@ -34,10 +34,10 @@
   weight = 40
 
 
-[[main]]
-  name = "My Team"
-  url = "/group"
-  weight = 80
+#[[main]]
+#  name = "My Team"
+#  url = "/group"
+#  weight = 80
 
 
 
