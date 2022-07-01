@@ -7,7 +7,7 @@
 #### Google Faculty Research Award 2015 (awarded in 2016)
 
 #### Best Paper Awards
-* [Best Paper Award Runner-up of ACM KDD 2019 (Research Track)](https://www.kdd.org/awards/view/2019-sigkdd-best-paper-award-winners) (1 out of 170 full papers)
+* Best Paper Award Runner-up of ACM KDD 2019 (Research Track)
 * Best Student Paper Award Runner-up of DASFAA 2017
 * Best Paper Award of ADC 2017
 * Best Student Paper Award of ADC 2016
@@ -23,8 +23,9 @@
 * Distinguished Reviewer Award, ACM SIGMOD 2021
 
 #### National Research Award
-* [**2011 National Research Gold Medal and Prize**](https://www.comp.nus.edu.sg/programmes/pg/awards/)
+* **2011 National Research Gold Medal and Prize**
 	- awarded by Infocomm Development Authority of Singapore
+#(https://www.comp.nus.edu.sg/programmes/pg/awards/)
 
 #### University-level Award
 * **Best PhD Thesis Award** of School of Computing, National University of Singapore
