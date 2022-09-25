@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
-title = "Two papers are accepted by PVLDB 2023. Notably, one work studies the problem of influence maximization in real-world closed social networks; our algorithm has been deployed into one application at Tencent with effectiveness and scalability demonstrated in practice!"
+title = "Two papers are accepted by PVLDB 2023. In one of them, we make the first attempt to study and formalize the problem of influence maximization in real-world closed social networks; our algorithm has been deployed into one application at Tencent with effectiveness and scalability demonstrated in practice!"
 url = ""
 certificate_url = ""
 date_start = "2022-09-18"
