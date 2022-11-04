@@ -7,10 +7,10 @@
 	* 3rd Australia-China Database Workshop, 2014, in conjunct with VLDB'14
 
 #### Associate Editor
-    * ACM Transactions on Spatial Algorithms and Systems (2022.4-2025.4)
+    * ACM Transactions on Spatial Algorithms and Systems (2022-present)
 	* ACM SIGMOD 2023
-	* Proceedings of the VLDB Endowment (PVLDB) Volume 16 (2022.4-2023.8)
-	* Proceedings of the VLDB Endowment (PVLDB) Volume 14 (2020.4-2021.8)
+	* Proceedings of the VLDB Endowment (PVLDB) (2022-2023)
+	* Proceedings of the VLDB Endowment (PVLDB) (2020-2021)
 
 
 #### Chair
@@ -24,12 +24,13 @@
 	* Awards Committee Chair: ACM CIKM 2017
 	* Technical Program Committee Co-Chair: ER 2018 (Demo Track)
 	* Technical Program Committee Co-Chair: APWeb 2016, 2018 (Demo Track)
-	* Technical Program Committee Co-Chair: DASFAA 2017 (Workshop Track)
+	* Technical Program Committee Co-Chair: DASFAA 2017 (Workshop Track), DASFAA 2023 (Demo Track)
 	* Technical Program Committee Co-Chair: ADMA 2017, 2018 (Demo track)
 	* Awards Committee Chair: ADMA 2016 (Tier-B)
 
 #### Meta-reviewer/Senior Program Committee Member
 	* ACM ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD): 2021 (Research Track), 2022 (Research Track), 2022 (Applied Data Science Track)
+	* International Conference on Extending Database Technology (EDBT): 2024
 	* ACM International Conference on Web Search and Data Mining (WSDM): 2022
 	* ACM CIKM: 2021, 2022 (Research Track)
 
@@ -37,7 +38,7 @@
 	Data Management Field:
 	* International Conference on Very Large Databases (VLDB): 2016-2018, 2020, 2022
 	* ACM International Conference on Management of Data (SIGMOD): 2018, 2021, 2022
-	* IEEE International Conference on Data Engineering (ICDE): 2016-2020, 2022
+	* IEEE International Conference on Data Engineering (ICDE): 2016-2020, 2022, 2023
 	Data Mining Field:
 	* ACM ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD): 2019, 2020
 	* ACM International Conference on Web Search and Data Mining (WSDM): 2021
