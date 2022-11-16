@@ -23,6 +23,16 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "Our work on \"Managing Conflicting Interests of Stakeholders in Influencer Marketing\" is accepted by SIGMOD 2023. Standing in the agency's shoes, this problem aims to  minimize the divergence of the actual hiring prices from the asking prices of the influencers and meanwhile maintain the attractiveness of the pricing scheme for the influencers to the brand."
+url = ""
+certificate_url = ""
+date_start = "2022-11-16"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Two papers are accepted by PVLDB 2023. In one of them, we make the first attempt to study and formalize the problem of influence maximization in real-world closed social networks; our algorithm has been deployed into one application at Tencent with effectiveness and scalability demonstrated in practice!"
 url = ""
 certificate_url = ""
