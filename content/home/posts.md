@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
-title = "Our work on \"Managing Conflicting Interests of Stakeholders in Influencer Marketing\" is accepted by SIGMOD 2023. Standing in the agency's shoes, this problem aims to  minimize the divergence of the actual hiring prices from the asking prices of the influencers and meanwhile maintain the attractiveness of the pricing scheme for the influencers to the brand."
+title = "Our work on \"Managing Conflicting Interests of Stakeholders in Influencer Marketing\" is accepted by SIGMOD 2023. Standing in the agency's shoes, this problem aims to minimize the divergence of the actual hiring prices from the asking prices of the influencers and meanwhile maintain the attractiveness of the pricing scheme for the influencers to the brand."
 url = ""
 certificate_url = ""
 date_start = "2022-11-16"
