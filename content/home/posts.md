@@ -23,6 +23,26 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "Our work on \"Facility Relocation Search For Good\" is accepted by The Web Conference 2023 (Web4Good special track)."
+url = ""
+certificate_url = ""
+date_start = "2023-02-08"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
+title = "Our work on \"Shortest Paths Discovery in Uncertain Networks via Transfer Learning\" is accepted by SIGMOD 2023."
+url = ""
+certificate_url = ""
+date_start = "2023-01-16"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our work on \"Managing Conflicting Interests of Stakeholders in Influencer Marketing\" is accepted by SIGMOD 2023. Standing in the agency's shoes, this problem aims to minimize the divergence of the actual hiring prices from the asking prices of the influencers and meanwhile maintain the attractiveness of the pricing scheme for the influencers to the brand."
 url = ""
 certificate_url = ""
