@@ -1,5 +1,5 @@
 #### Invited Keynote Speech
-	* Australasian Computer Science Week 2021
+	* Australasian Computer Science Week (ACSW) 2021
 	* 31st Australasian Database Conference 2020, PhD School
 	* 30th Australasian Database Conference 2019, PhD School
 	* 28th Australasian Database Conference 2017, Research Excellence Forum
@@ -7,14 +7,16 @@
 	* 3rd Australia-China Database Workshop, 2014, in conjunct with VLDB'14
 
 #### Associate Editor
-    * ACM Transactions on Spatial Algorithms and Systems (2022-present)
 	* ACM SIGMOD 2023
 	* Proceedings of the VLDB Endowment (PVLDB) (2022-2023)
+    * ACM Transactions on Spatial Algorithms and Systems (2022-2025)
+    * Data Science and Engineering Journal (2023-)
 	* Proceedings of the VLDB Endowment (PVLDB) (2020-2021)
 
 
 #### Chair
 	* PC Co-Chair: ACM WSDM 2023 (Demo Track)
+	* PC Co-Chair: 34th Australasian Database Conference 2023
 	* Technical Program Committee Co-Chair: [VLDB 2022 PhD Workshop](https://vldb.org/2022/?call-for-phd-workshop)
 	* Round Table Chair: VLDB 2021 ([17 round tables  organized on trending Database topics](http://vldb.org/2021/?program-schedule-roundtable))
 	* Technical Program Committee Co-Chair: ACM CIKM 2021 (Demo Track)
@@ -34,7 +36,7 @@
 	* ACM International Conference on Web Search and Data Mining (WSDM): 2022
 	* ACM CIKM: 2021, 2022 (Research Track)
 
-#### Technical Program Committee Member
+#### Technical Program Committee Member (recent)
 	Data Management Field:
 	* International Conference on Very Large Databases (VLDB): 2016-2018, 2020, 2022
 	* ACM International Conference on Management of Data (SIGMOD): 2018, 2021, 2022
