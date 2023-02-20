@@ -38,7 +38,7 @@
 
 #### Technical Program Committee Member (recent)
 	Data Management Field:
-	* International Conference on Very Large Databases (VLDB): 2016-2018, 2020, 2022
+	* International Conference on Very Large Databases (VLDB): 2016-2018, 2020, 2022, 2024
 	* ACM International Conference on Management of Data (SIGMOD): 2018, 2021, 2022
 	* IEEE International Conference on Data Engineering (ICDE): 2016-2020, 2022, 2023
 	Data Mining Field:
