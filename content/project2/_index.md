@@ -3,9 +3,9 @@
 
 ---
 
-<center> <h1>Research - Civil Computing</h1> </center>
+<center> <h1>Completed Projects</h1> </center>
 
-My research interest is mainly on database management and data mining with a recent focus on massive Geo-Spatial data. I propose the topic of [**Civil Computing**](http://civilcomputing.co/) and has made significant contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone for optimal decision making** and **facilitate people's everyday life**. These civil computing problems of my focus involve three domains: (1) [Site Selection](http://civilcomputing.co/sub-facility.html), (2) [House Seeking](http://civilcomputing.co/sub-houseseeking.html) (Point of Interest and Area of Interest), and (3) [Intelligent Transport](http://civilcomputing.co/sub-transport.html). 
+I proposed the topic of [**Civil Computing**](http://civilcomputing.co/) and has made significant contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone for optimal decision making** and **facilitate people's everyday life**. These civil computing problems of my focus involve three domains: (1) [Site Selection](http://civilcomputing.co/sub-facility.html), (2) [House Seeking](http://civilcomputing.co/sub-houseseeking.html) (Point of Interest and Area of Interest), and (3) [Intelligent Transport](http://civilcomputing.co/sub-transport.html). 
 
 * **House Seeking**
 	- Map-based Visual exploration on location-centred multi-dimensional data (WSDM'19, EuroVIS'18, JVLC'18)
@@ -31,7 +31,7 @@ We utilize them in a comprehensive manner in the following projects.
 
 	- Monitor Network-wide Traffic via Vehicle Trajectory Clustering (PVLDB'20)
 	- Bring People back to Public Transport via Reoptimizing the Bus Route Network (TKDE'19)
-	- Ehance Passengers' Satisfaction via Optimizing the Network-wide Public Transport Time Schedule (DASFAA'20 and more on the way)
+	- Ehance Passengers' Satisfaction via Optimizing the Network-wide Public Transport Time Schedule (TKDE'21)
 	- Dynamic Ridesharing in **Peak Travel Periods** to Boost User Satisfaction (TKDE'20)
 	
 - From the perspective of individual user, we exploit user movement data to: 
@@ -40,15 +40,15 @@ We utilize them in a comprehensive manner in the following projects.
 	- Clean and Integrate Massive Trajectory Data (SIGMOD'18)
 
 
-To solve the above civil problems, I am the first of few developing **end-to-end** solutions that cross three disciplinaries: Data Management, Information Retrieval and Data Visualization. My inter-disciplinary methodology involves:
+To solve the above civil problems, my team is the first of few developing **end-to-end** solutions that cross three disciplinaries: Data Management, Information Retrieval and Data Visualization. My inter-disciplinary methodology involves:
 
 - design effective data usability modules in the front end.
 - propose efficient evaluation algorithm in the mid end.
 - provide efficient storage and indexing schemes in the back end.
 
-Each end has mutual impact to the others in solution design, while it is usually assumed to be orthogonal to each other in single-discipline research. His proposed cross-disciplinary methodology is creative and highly endorsed by international peers, as evidenced by his publication in top venues of Information Retrieval such as WSDM, SIGIR, top venues of data management such as SIGMOD, ICDE, KDD, TKDE, VLDB Journal, and top venues of Data Visualization such as EUROVIS, JVLC.
+Each end has mutual impact to the others in solution design, while it is usually assumed to be orthogonal to each other in single-discipline research. my team tried to propose cross-disciplinary methodology across the fields of data management, information retrieval, and visualization.
 
-<center> <h2>Ongoing Projects</h2> </center>
+<center> <h2>A Breakdown of Completed Projects</h2> </center>
 
 <center><h3>Research Project 1: Influential Facility Site Selection</h3> </center>
 
@@ -88,11 +88,11 @@ Each end has mutual impact to the others in solution design, while it is usually
 
 Graph representation learning has been a very promising and popular research topic and it can outperform traditional methods under various applications. Despite significant progress, this topic is still quite open and many directions are worth exploring. In this project, we mainly focus on temporal information capture and graph similarity computation with machine learning, and explainability and interpretability of graph representation learning.
 
-**Research Problem 3.2 - Viral Marketing over Evolving Social Networks. (ICDE 2019, and more)**  
+**Research Problem 3.2 - Viral Marketing over Evolving Social Networks. (ICDE 2019, VLDB 2023)**  
 
-This project focus on efficently and effectively finding the seed set users for spreading the advertising information in viral marketing. Due to various requirements, the seed set selection can be formulated as different problems such as Influence Maximization, Seed Set Minimization, Regret Minimization and Revenue Maximization. This project aims to propose novel solutions and business models for different versions of this problem with better practicalty, efficiency and effectiveness.
+This project focuses on efficently and effectively finding the seed set users for spreading the advertising information in viral marketing. Due to various requirements, the seed set selection can be formulated as different problems such as Influence Maximization, Seed Set Minimization, Regret Minimization and Revenue Maximization. This project aims to propose novel solutions and business models for different versions of this problem with better practicalty, efficiency and effectiveness.
 
-**Research Problem 3.3 - Mining High-Order Graph Information Mining.**  
+**Research Problem 3.3 - Mining High-Order Graph Information Mining. (ICDE 2021)**  
 
 High-order graph information has been shown to be very useful for important tasks such as community detection and graph clutering. In this project, I mainly focus on revolving two bottlenecks of this topic: how to efficiently extract the high-order information, and determine what kinds of high-order information we should extract based on the specific context.
 
@@ -124,91 +124,3 @@ We design a search engine, Torch, for trajectory data and serve almost all metri
 <center><h3>Research Project 5: Dynamic Ridesharing in Peak Travel Periods: One Stone, Two Birds </h3></center> 
 
 Ridesharing service is an innovative transportation strategy in trip planning. Riders with similar itineraries and time schedules are encouraged to share their trips in order to save money, reduce traffic congestion and increase car seat utilization. However, the performance of ridesharing service under the peak hour scenario, where the number of riders is way larger than the number of vehicles, is critical in reality. Given a set of drivers and rider requests, this project tries to match drivers to each rider request by achieving two objectives: (i) **maximizing the served rate** and (ii) **minimizing the total additional travel distance**, subject to a series of spatio-temporal constraints dynamically. Interestingly, our problem can be distinguished from existing work in three aspects: (1) Previous work did not fully explore the impact of peak travel periods where the number of rider requests is much greater than the number of available drivers. (2) Existing solutions usually rely on single objective optimization techniques, such as minimizing the total travel cost. (3) When evaluating the overall system performance, the runtime spent on updating drivers' trip schedules as per incoming rider requests should be incorporated, while it is excluded by most existing solutions.
-
-
-<center><h3>Past Projects</h3></center> 
-**Past Project 1 - Social Networks (Search, Summarization and Management)**
-
-Vision: have a general database to manage, search and analyze over the social network data.
-
-- Database Design and Implementation: data modeling; query optimization; concurrency control.
-
-- In-database Search: Personalized + RealTime Search search in your own "circles" and gets the latest results just published 1 second ago); In-database Social Network Analysis (SNA); link prediction.
-  
-This challenge requires a model for social network data, and graphs are the obvious candidate, but: sonSchema -- a social network is not a graph [10].
-
-A graph is a static, syntactic model that does not capture the dynamics and semantics of a social network; this is evident from: sonLP -- social network link prediction by principal component regression [11].
-
-We have designed a general search engine framework that is able to provide Personalized + Realtime Search in social networks [13].
-
-Our ambition is to build a sonSchema-based open-source system that replaces MySQL as the default database management system for social network data: sonSQL -- an extensible relational DBMS for social network start-ups [12].
-
-**Past Project 2 - Keyword search over spatial & textual data**
-
-- a general support for various types of fuzzy type-ahead spatial keyword query
-
-- one-size-fits-all index design for various types and degrees of relaxation
-
-- maximization of query result reuse at different granularities
-
-To make more data truly usable, keyword search is one important aspect I make continuous efforts, and my ultimate goal is to have a one-size-fits-all general framework to provide usability support for all these heterogeneous data. We are now developing various types of data exploration queries based on our previous experiences in keyword search, and we believe that **“The first step in leveraging big data is search and data exploration. Machine learning or other downstream advanced analytics will be effective only if search and data exploration get us the relevant data effectively and efficiently”** , quoted from Dr. Surajit Chaudhuri's keynote speech at ICDE 2015. 
-
-Geo-textual data are generated in abundance. Recent study focused on the processing of spatial keyword queries which retrieve objects that match certain keywords within a spatial region. To ensure effective retrieval, various extensions were done including the allowance of errors in keyword matching and auto-completion using prefix matching. Our goal is to devise a unifying strategy for processing different variants of spatial keyword query. We adopt the auto-completion paradigm that generates the initial query as a prefix matching query. If there are few matching results, other variants are performed as a form of relaxation that reuses the processing done in the earlier phase. The types of relaxation include spatial region expansion and exact/approximate prefix/substring matching. Moreover, since the auto-completion paradigm allows appending characters after the initial query, we look at how query processing done for the initial query and relaxation can be reused in such instances. Compared to existing works which process variants of spatial keyword query as new queries over different indexes, we offer a more compelling way to efficient and effective spatial keyword search. Extensive experiments substantiate our claims.
-
-**Past Project 3 - Data Quality (Integration & Tracking)**
-
-- provenance data: storage, management and usability tracking
-
-[9] studied the data quality problem, which is very important to extract, track unexpected result during studying the heterogeneous or uncertain data. Provenance information is vital in many application areas as it helps explain data lineage and derivation. Understanding the provenance of data has become exceedingly important due to the large number of sources, diversity of formats and sheer volume of data that current business and scientific applications have to deal with. For example, in scientific computing area, as in many other areas, provenance is vital to establish trust or correctness of results; in database environments it can help update views, explain unexpected results, and assist with data integration; in databases with uncertainty, it can be used to track correlation between probabilistic variables.
-
-My research goal in this direction is to develop provenance data management frameworks that can be combined as part of the database management system. In particular, my concern is on: (1) the expressiveness of the provenance semantics designed, to interpret not only from which source data the result comes from, but also how the results come from the source data; (2) design novel data structures that minimize the storage cost of provenance data; (3) provide an efficient support on evaluating the provenance tracking query.
-
-As a start, [9] focuses on designing a framework for storing fine-grained provenance data relating to data derived via database queries. While storage space is of little concern when dealing with high-level provenance, the requirements of storing fine-grained provenance data can be significant, with the size of provenance data often exceeding the size of the actual data. One way to deal with this is to compute provenance data only when requested, rather than storing it, but a drawback is that without good inverse functions this can be expensive, and it may require intermediate query results to be stored. Therefore, we first propose a provenance tree data structure which matches the query structure and thereby presents a possibility to avoid redundant storage of information regarding the derivation process. Then I investigate two approaches for reducing storage costs. The first provides a means of optimizing the selection of query tree nodes where provenance information should be stored. The second exploits logical query-rewriting, in particular join-reordering, which can be done after the query has already been computed, and thus does not impede the efficiency of query execution. The optimization algorithms run in polynomial time in the query size and linear in the size of the provenance information, thus enabling provenance tracking and optimization without incurring large overheads. Moreover, I built a relational query engine from scratch, supporting ASPJ operations required for executing SQL-style queries as well as provenance data construction during query execution.
-
-**References**
-
-[1] Z.F. Bao, T.W. Ling, B. Chen and J.H. Lu. Effective XML Keyword Search With Relevance Oriented Ranking. ICDE 2009, full paper. (Best Papers Award)
-
-[2] Y. Zeng, Z.F. Bao, H.V. Jagadish, G.L. Li and T.W. Ling. Breaking out the Mismatch Trap. ICDE 2014, full paper.
-
-[3] Z.F. Bao, J.H. Lu , T.W. Ling, and B. Chen. Towards an Effective XML Keyword Search. TKDE 2010.
-
-[4] J.F. Zhou, Z.F. Bao, Z.Y. Chen and T.W. Ling. Fast Result Enumeration for Keyword Queries on XML Data. DASFAA 2012, full paper. (One of the Five Best Papers)
-
-[5] J.F. Zhou, Z.F. Bao,W. Wang, J.J. Zhao and X.F. Meng. Efficient Query Processing for XML Keyword Queries based on the IDList Index. VLDB Journal, accepted in 2013.
-
-[6] J.F. Zhou, Z.F. Bao, W. Wang, T.W. Ling, Z.Y. Chen, X.D. Lin and J.F. Guo. Fast SLCA and ELCA Computation for XML Keyword Queries based on Set Intersection. ICDE 2012, full paper.
-
-[7] J.H. Lu, T.W. Ling, Z.F. Bao and C. Wang. Extended Tree Pattern Matching: Theories and Algorithms. TKDE 2010, regular paper.
-
-[8] L. Xu, T.W. Ling, H.Y. Wu and Z.F. Bao. DDE: From Dewey to a Fully Dynamic XML Labeling. SIGMOD 2009, full paper.
-
-[9] Z.F. Bao, H. Koehler, X.F. Zhou and S. Sadiq. Efficient Provenance Storage For Relational Queries. CIKM 2012, full paper.
-
-[10] Z.F. Bao, Y.C. Tay and J.B. Zhou. sonSchema: A Conceptual Schema for Social Networks. ER 2013: 197-211
-
-[11] Z.F. Bao, Y. Zeng and Y.C. Tay. sonLP: social network link prediction by principal component regression. ASONAM 2013: 364-371
-
-[12] Z.F. Bao, J.B. Zhou and Y.C. Tay. sonSQL: An Extensible Relational DBMS for Social Network Start-Ups. ER 2013: 495-498
-
-[13] Y.C. Li, Z.F. Bao, G.L. Li and K.L. Tan. Real Time Personalized Search over Social Networks. ICDE 2015: 639-650.
-
-[14]  S. Wang, Z. Bao, S. Huang, R. Zhang. A Unified Processing Paradigm for Interactive Location-based Web Search. WSDM 2018.            
-
-[15] M. Li, Z. Bao, F. Choudhury, T. Sellis. Supporting Large-scale Geographical Visualization in a Multi-granularity Way. WSDM 2018. 
-
-[16] Z. Shang, G. Li, Z. Bao. DITA: Distributed In-Memory Trajectory Analytics. SIGMOD 2018.                                        
-
-[17] T. Guo, K. Feng, G. Cong, Z. Bao. Efficient Selection of Geospatial Data on Maps for Interactive and Visualized Exploration.  SIGMOD  2018.   
-
-[18] S. Wang, Z. Bao, J. Culpepper, T. Sellis, M. Sanderson, X. Qin. Answering Top-k Exemplar Trajectory Queries. ICDE 2017.
-
-[19] S. Wang, Z. Bao, J. Culpepper, Z. Xie, Q. Liu, X. Qin. Torch: A Search Engine for Trajectory Data. SIGIR 2018.
-
-**Recent System Prototypes**
-
-[HomeSeeker](https://www.youtube.com/watch?v=uhp_a7_1mpY&feature=youtu.be): Visualization of the Real Estate Data ([version 0.1](http://www.google.com/url?q=http%3A%2F%2F115.146.89.158%2F&sa=D&sntz=1&usg=AFQjCNFZbSOiPj1A_-0MGWFLxbSoZkgwrA)).
-
-[TORCH](http://47.75.79.142:8080/TTorchServer/): A Search Engine for Trajectory Data on Road Networks.
-
-[TISP](http://43.240.96.219:8080/TripPlanning/index.html): Trip Planning by an Integrated Search Paradigm.
