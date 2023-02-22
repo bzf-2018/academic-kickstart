@@ -23,6 +23,16 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
+title = "Our work on \"Updatable Learned Indexes Meet Disk-Resident DBMS - From Evaluations to Design Choices\" is accepted by SIGMOD 2023."
+url = ""
+certificate_url = ""
+date_start = "2023-02-20"
+date_end = ""
+description = ""
+
+[[item]]
+organization = ""
+organization_url = ""
 title = "Our work on \"Facility Relocation Search For Good\" is accepted by The Web Conference 2023 (Web4Good special track)."
 url = ""
 certificate_url = ""
