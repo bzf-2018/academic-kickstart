@@ -14,7 +14,7 @@ role: Professor
 
 # Organizations/Affiliations
 #organizations:
-#- name: RMIT University
+#- name: RMIT
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,7 +22,7 @@ role: Professor
 
 interests:
 - Big Data Algorithms
-- Database Query Optimization
+- Machine Learning for Database Systems
 - Data Quality for Machine Learning
 - Computational Marketing
 - Spatial Data Exploration
@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science, BSc (Hons.) in Computer Science
+  - course: PhD in Computer Science
     institution: National University of Singapore
 
 # Social/Academic Networking
@@ -63,7 +63,7 @@ user_groups:
 - Visitors
 ---
 
-I co-direct [the RMIT Center of Information Discovery and Data Analytics](https://www.rmit.edu.au/research/research-institutes-centres-and-groups/research-centres/centre-for-information-discovery) and the lead the Big Data and Database Group in the Centre. I am also an Honorary Senior Fellow at The University of Melbourne. I obtained my PhD in computer science from National University of Singapore and was the winner of [the Best PhD Thesis Award](https://www.comp.nus.edu.sg/programmes/pg/awards/). 
+I co-direct [the RMIT Center of Information Discovery and Data Analytics](https://www.rmit.edu.au/research/research-institutes-centres-and-groups/research-centres/centre-for-information-discovery) and lead the Big Data and Database Group in the Center. I am also an Honorary Senior Fellow at The University of Melbourne. I obtained my PhD in computer science from National University of Singapore and was the winner of [the Best PhD Thesis Award](https://www.comp.nus.edu.sg/programmes/pg/awards/). 
 
 I am generally interested in big data management and mining, with a focus on relational data, geo-spatial data and graph data. Currently, my group is working on learned indexes, query optimization in database systems, data quality for data-efficient or effective ML, data/query pricing, and ML-enhanced algorithms. In the past, I proposed the topic of [Civil Computing](http://civilcomputing.co/) with the mission of using data-driven techniques to **improve every individual citizen's daily life** where three typical beneficial domains are House Seeking, Site Selection and Transportation Planning. 
 
