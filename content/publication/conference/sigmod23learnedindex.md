@@ -19,6 +19,8 @@ abstract:
 featured: true
 
 links:
+- name: Code
+url: https://github.com/rmitbggroup/LearnedIndexDiskExp
 - name: Technical Report 
-url: https://baozhifeng.net/papers/sigmod23-index-tr.pdf
+url_pdf: 'papers/sigmod23-ITR.pdf'
 ---
