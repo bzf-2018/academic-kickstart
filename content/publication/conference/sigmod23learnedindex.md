@@ -20,7 +20,7 @@ featured: true
 
 links:
 - name: Code
-url: https://github.com/rmitbggroup/LearnedIndexDiskExp
+  url: https://github.com/rmitbggroup/LearnedIndexDiskExp
 - name: Technical Report 
-url_pdf: 'papers/sigmod23-ITR.pdf'
+  url_pdf: 'papers/sigmod23-ITR.pdf'
 ---
