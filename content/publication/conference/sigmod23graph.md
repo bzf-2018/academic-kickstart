@@ -20,4 +20,8 @@ abstract:
 featured: true
 
 links:
+- name: Code
+  url: https://github.com/Xyc-arch/Efficient-and-Effecive-algorithms-for-generalized-densest-subgraph-discovery
+- name: Paper
+  url: 'papers/sigmod23-graph.pdf'
 ---
