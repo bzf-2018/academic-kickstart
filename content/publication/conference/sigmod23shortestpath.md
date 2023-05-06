@@ -17,4 +17,8 @@ abstract:
 featured: true
 
 links:
+- name: Code
+  url: https://github.com/rmitbggroup/MPSP
+- name: Paper
+  url: 'papers/sigmod23-sp.pdf'
 ---
