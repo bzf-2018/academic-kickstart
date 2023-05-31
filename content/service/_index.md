@@ -7,6 +7,7 @@
 	* 3rd Australia-China Database Workshop, 2014, in conjunct with VLDB'14
 
 #### Associate Editor
+    * EDBT 2024
 	* ACM SIGMOD 2023
 	* Proceedings of the VLDB Endowment (PVLDB) (2022-2023)
     * ACM Transactions on Spatial Algorithms and Systems (2022-2025)
@@ -34,7 +35,7 @@
 	* ACM ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD): 2021 (Research Track), 2022 (Research Track), 2022 (Applied Data Science Track)
 	* International Conference on Extending Database Technology (EDBT): 2024
 	* ACM International Conference on Web Search and Data Mining (WSDM): 2022
-	* ACM CIKM: 2021, 2022 (Research Track)
+	* ACM CIKM: 2021, 2022 (Research Track), 2023 (Research Track)
 
 #### Technical Program Committee Member (recent)
 	Data Management Field:
