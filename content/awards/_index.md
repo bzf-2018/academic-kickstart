@@ -18,7 +18,7 @@
 * [IEEE ICDE 2009 (Research Track)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5494756) – 25th IEEE International Conference on Data Engineering (8 out of 93 full papers)
 
 #### Professional Service Award
-* Best Associate Editor Award, ACM SIGMOD 2023
+* Distinguished Associate Editor Award, ACM SIGMOD 2023
 * [Research Track Best Reviewers, IEEE ICDE 2023](https://icde2023.ics.uci.edu/awards/)
 * Outstanding Senior PC Award, ACM WSDM 2022
 * [Distinguished Associate Editor Award, VLDB 2021](http://vldb.org/2021/?conference-awards)
