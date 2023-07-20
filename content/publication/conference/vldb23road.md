@@ -19,5 +19,5 @@ featured: true
 
 links:
 - name: Code
-url: https://github.com/BubbleSai/DICN
+  url: https://github.com/BubbleSai/DICN
 ---
