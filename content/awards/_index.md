@@ -19,9 +19,10 @@
 
 #### Professional Service Award
 * Distinguished Associate Editor Award, ACM SIGMOD 2023
+* Distinguished Associate Editor Award, PVLDB 2023
 * [Research Track Best Reviewers, IEEE ICDE 2023](https://icde2023.ics.uci.edu/awards/)
 * Outstanding Senior PC Award, ACM WSDM 2022
-* [Distinguished Associate Editor Award, VLDB 2021](http://vldb.org/2021/?conference-awards)
+* [Distinguished Associate Editor Award, PVLDB 2021](http://vldb.org/2021/?conference-awards)
 * Distinguished Reviewer Award, ACM SIGMOD 2021
 
 #### National Research Award
