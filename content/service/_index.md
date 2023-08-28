@@ -49,3 +49,6 @@
 	* ACM International Conference on Information Retrieval (SIGIR): 2016-2022
 	* The Web Conference (WWW): 2018, 2019
 	* ACM CIKM: 2015-2020
+	
+#### Committee Member of Conference Ranking
+	* [CORE 2023 Conference Ranking Committee](http://portal.core.edu.au/conf-ranks/) (under FoR code 4605)
