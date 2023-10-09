@@ -16,6 +16,7 @@
 
 
 #### Chair
+	* PC Co-Chair: ACM CIKM 2024 (Full Research Paper Track)
 	* PC Co-Chair: ACM WSDM 2023 (Demo Track)
 	* PC Co-Chair: 34th Australasian Database Conference 2023
 	* Technical Program Committee Co-Chair: [VLDB 2022 PhD Workshop](https://vldb.org/2022/?call-for-phd-workshop)
