@@ -9,7 +9,7 @@ authors:
 
 publication_types: ["1"]
 publication: In *The Web Conference 2024*
-publication_short: In *WWW 2023*
+publication_short: In *WWW 2024*
 publishDate: "2024-01-28"
 
 abstract: 
