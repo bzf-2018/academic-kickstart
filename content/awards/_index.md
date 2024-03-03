@@ -18,6 +18,7 @@
 * [IEEE ICDE 2009 (Research Track)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5494756) – 25th IEEE International Conference on Data Engineering (8 out of 93 full papers)
 
 #### Professional Service Award
+* [Distinguished Senior PC Award, EDBT 2024](https://dastlab.github.io/edbticdt2024/?contents=awards_SPC_PC_edbt.html)
 * Distinguished Associate Editor Award, ACM SIGMOD 2023
 * Distinguished Associate Editor Award, PVLDB 2023
 * [Research Track Best Reviewers, IEEE ICDE 2023](https://icde2023.ics.uci.edu/awards/)
