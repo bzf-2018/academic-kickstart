@@ -10,7 +10,7 @@ authors:
 
 publication_types: ["1"]
 publication: In *IEEE ICDE 2024 (Industrial and Applications Track)*
-publication_short: In *ICDE 2024*
+publication_short: In *ICDE 2024 (Industrial and Applications Track)*
 publishDate: "2024-03-06"
 
 abstract: 
