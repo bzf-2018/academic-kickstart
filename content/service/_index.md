@@ -7,6 +7,8 @@
 	* 3rd Australia-China Database Workshop, 2014, in conjunct with VLDB'14
 
 #### Associate Editor
+    * IEEE ICDE 2025
+    * EDBT 2026
     * EDBT 2024
 	* ACM SIGMOD 2023
 	* Proceedings of the VLDB Endowment (PVLDB) (2022-2023)
