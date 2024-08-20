@@ -7,7 +7,6 @@
 	* 3rd Australia-China Database Workshop, 2014, in conjunct with VLDB'14
 
 #### Associate Editor
-    * IEEE ICDE 2025
     * EDBT 2026
     * EDBT 2024
 	* ACM SIGMOD 2023
@@ -19,6 +18,7 @@
 
 #### Chair
 	* PC Co-Chair: ACM CIKM 2024 (Full Research Paper Track)
+	* PC Co-Chair: APWEB/WAIM 2024 (Industry Track)
 	* PC Co-Chair: ACM WSDM 2023 (Demo Track)
 	* PC Co-Chair: 34th Australasian Database Conference 2023
 	* Technical Program Committee Co-Chair: [VLDB 2022 PhD Workshop](https://vldb.org/2022/?call-for-phd-workshop)
@@ -27,12 +27,18 @@
 	* Registration Chair: ACM SIGMOD 2021
 	* Curated Session Chair: ACM SIGMOD 2021 (Theme: Graph Data Management)
 	* WSDM Cup Chair: ACM WSDM 2019
-	* Awards Committee Chair: ACM CIKM 2017
 	* Technical Program Committee Co-Chair: ER 2018 (Demo Track)
 	* Technical Program Committee Co-Chair: APWeb 2016, 2018 (Demo Track)
 	* Technical Program Committee Co-Chair: DASFAA 2017 (Workshop Track), DASFAA 2023 (Demo Track)
 	* Technical Program Committee Co-Chair: ADMA 2017, 2018 (Demo track)
-	* Awards Committee Chair: ADMA 2016 (Tier-B)
+	* Awards Committee Chair: ACM CIKM 2017
+	* Awards Committee Chair: ADMA 2016
+
+
+#### Area Chair
+    * ACM KDD 2025
+    * IEEE ICDE 2025
+    
 
 #### Meta-reviewer/Senior Program Committee Member
 	* ACM ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD): 2021 (Research Track), 2022 (Research Track), 2022 (Applied Data Science Track)
