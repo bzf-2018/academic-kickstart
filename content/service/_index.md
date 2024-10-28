@@ -1,4 +1,5 @@
 #### Invited Keynote Speech
+	* The 20th International Conference Advanced Data Mining and Applications (ADMA) 2024
 	* Australasian Computer Science Week (ACSW) 2021
 	* 31st Australasian Database Conference 2020, PhD School
 	* 30th Australasian Database Conference 2019, PhD School
