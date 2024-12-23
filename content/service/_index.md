@@ -8,10 +8,10 @@
 	* 3rd Australia-China Database Workshop, 2014, in conjunct with VLDB'14
 
 #### Associate Editor
-    * EDBT 2026
-    * EDBT 2024
-	* ACM SIGMOD 2023
-	* Proceedings of the VLDB Endowment (PVLDB) (2022-2023)
+   * Proceedings of the VLDB Endowment (PVLDB) (2025-2026, 2022-2023, 2020-2021) 
+   * EDBT (2026,2024)
+   * ACM SIGMOD 2023
+	
     * ACM Transactions on Spatial Algorithms and Systems (2022-2025)
     * Data Science and Engineering Journal (2023-)
 	* Proceedings of the VLDB Endowment (PVLDB) (2020-2021)
@@ -39,6 +39,7 @@
 #### Area Chair
     * ACM KDD 2025
     * IEEE ICDE 2025
+    * ACM WWW 2025
     
 
 #### Meta-reviewer/Senior Program Committee Member
