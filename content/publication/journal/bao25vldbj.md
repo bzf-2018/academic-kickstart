@@ -1,5 +1,5 @@
 ---
-title: "Table Integration in Data Lakes Unleashed: Pairwise Integrability Judgment, Integrable Set Discovery, and Multi-Tuple Conflict Resolution"
+title: "Table Integration in Data Lakes Unleashed - Pairwise Integrability Judgment, Integrable Set Discovery, and Multi-Tuple Conflict Resolution"
 authors:
 - Daomin Ji
 - Hui Luo
