@@ -37,8 +37,8 @@
 
 
 #### Area Chair
-    * ACM KDD 2025
-    * IEEE ICDE 2025
+    * ACM KDD 2025, 2024
+    * IEEE ICDE 2026, 2025
     * ACM WWW 2025
     
 
