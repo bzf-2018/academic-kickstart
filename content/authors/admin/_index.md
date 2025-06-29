@@ -14,7 +14,7 @@ role: Professor
 
 # Organizations/Affiliations
 #organizations:
-#- name: RMIT
+#- name: The University of Queensland
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,9 +23,8 @@ role: Professor
 interests:
 - Big Data Algorithms
 - Machine Learning for Database Systems
-- Data Quality for Machine Learning
-- Computational Marketing
-- Data Exploration
+- Data-centric AI (Discovery, Assemblage, Quality Control, Orchestration)
+- Data (Lake) Management and Governance
 
 
 education:
@@ -54,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zhifeng.bao@rmit.edu.au"
+email: "zhifeng.bao@uq.edu.au"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -63,7 +62,7 @@ user_groups:
 - Visitors
 ---
 
-I lead the Big Data and Database Group. I am also an Honorary Senior Fellow at The University of Melbourne. I obtained my PhD in computer science from National University of Singapore and was the winner of [the Best PhD Thesis Award](https://www.comp.nus.edu.sg/programmes/pg/awards/). 
+I am a Professor in The University of Queensland and an ARC Future Fellow. I am also an Honorary Senior Fellow at The University of Melbourne. I obtained my PhD in computer science from National University of Singapore and was the winner of [the Best PhD Thesis Award](https://www.comp.nus.edu.sg/programmes/pg/awards/). 
 
 I am generally interested in data (lake) management and governance, particularly in the areas of DB4AI and AI4DB. On the DB4AI side, I focus on identifying suitable datasets, discovering hidden relationships among datasets, addressing various data quality challenges (like missing value imputation and mismatch resolution), and assembling them to fulfill diverse user requirements within specified constraints. My goal is to contribute to the development of next-generation data marketplaces and enhance the cost-effectiveness of downstream machine learning tasks.  On the AI4DB side, I explore how machine learning techniques can optimize core database operations on both low-dimensional and high-dimensional data, including index selection, learned indexes, query optimization, and cardinality estimation. Talking about the data types in the above problems, I focus on multi-source and multi-modal data in the context of data lakes. 
 
@@ -78,6 +77,6 @@ I am the PC Co-chair of full research paper track at CIKM'24 and ADC'23. I have 
 
 In the past, I was the co-director of the RMIT Center of Information Discovery and Data Analytics (2021-2023) during which I have fostered an inter-disciplinary collaboration culture, the director of [RMIT Master of Data Science Program](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-data-science-mc267) (2018-2019). Under my leadership, we have created a novel form of data science postgraduate project to support diverse sectors and disciplines within RMIT and put cross-disciplinary collaboration into practice, resulting in a double-win -- students are ready to work through those real-life data science projects; people outside DS but have strong Data Analysis needs get their problem solved. I also co-created the [RMIT-MIT micro-credential program in data science](https://www.rmit.edu.au/news/all-news/2018/jun/new-pathways-created-between-two-leading-universities), bringing novel pathways for students, where RMIT is the first university in Australia having this connected pathway for data science education. I was the HDR Committee Chair (2020-2021) during which I have fostered an excellence-driven, diversified and inclusive research culture.
 
-**I am always looking for students who are of high integrity, highly motivated, self-disciplined and consistent, to work with me**. If you are the one, please contact me (firstname.lastname AT rmit/unimelb dot edu dot au). 
+**I am always looking for students who are of high integrity, highly motivated, self-disciplined and consistent, to work with me**. If you are the one, please contact me (firstname.lastname AT uq/unimelb dot edu dot au). 
 
 I am energized by playing team sports with dynamic physical competition to cultivate my mental resilience and teamwork skills, and basketball has consistently remained my number one option till 2024. 
