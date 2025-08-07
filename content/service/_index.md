@@ -9,13 +9,10 @@
 
 #### Associate Editor
    * Proceedings of the VLDB Endowment (PVLDB) (2025-2026, 2022-2023, 2020-2021) 
-   * EDBT (2026, 2024)
+   * EDBT (2027, 2026, 2024)
    * ACM SIGMOD 2023
-	
-    * ACM Transactions on Spatial Algorithms and Systems (2022-2025)
-    * Data Science and Engineering Journal (2023-)
-	* Proceedings of the VLDB Endowment (PVLDB) (2020-2021)
-
+   * ACM Transactions on Spatial Algorithms and Systems (2022-)
+   * Data Science and Engineering Journal (2023-)
 
 #### Chair
 	* PC Co-Chair: ACM CIKM 2024 (Full Research Paper Track)
@@ -37,7 +34,7 @@
 
 
 #### Area Chair
-    * ACM KDD 2025, 2024
+    * ACM KDD 2026, 2025, 2024
     * IEEE ICDE 2026, 2025
     * ACM WWW 2025
     
