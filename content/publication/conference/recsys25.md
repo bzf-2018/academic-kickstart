@@ -2,7 +2,7 @@
 title: "Enhancing Transferability and Consistency in Cross-Domain Recommendations via Supervised Disentanglement"
 authors:
 - Yuhan Wang
-- Qin Xie
+- Qing Xie
 - admin
 - Mengzi Tang
 - Lin Li
