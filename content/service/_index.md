@@ -15,6 +15,7 @@
    * Data Science and Engineering Journal (2023-)
 
 #### Chair
+	* PC Co-Chair: EDBT 2027 (Demo Track)
 	* PC Co-Chair: ACM CIKM 2024 (Full Research Paper Track)
 	* PC Co-Chair: APWEB/WAIM 2024 (Industry Track)
 	* PC Co-Chair: ACM WSDM 2023 (Demo Track)
