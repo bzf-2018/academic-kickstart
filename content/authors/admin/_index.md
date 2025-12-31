@@ -21,10 +21,10 @@ role: Professor
 #bio:
 
 interests:
-- Big Data Algorithms
 - Machine Learning for Database Systems
-- Data-centric AI (Discovery, Assemblage, Quality Control, Orchestration)
+- Data Agent (Discovery, Assemblage, Quality Control, Orchestration)
 - Data (Lake) Management and Governance
+- Big Data Algorithms
 
 
 education:
