@@ -1,5 +1,5 @@
 ---
-title: "Augmenting Real-World Query Optimizers Without Modifying Internals: Efficient Plan Reuse and List-wise Plan Ranking"
+title: "Practical Parameterized Query Optimization via Efficient Plan Reuse and List-wise Ranking"
 authors:
 - Hai Lan
 - Yang Yu
