@@ -59,5 +59,7 @@
 	* The Web Conference (WWW): 2018, 2019
 	* ACM CIKM: 2015-2020
 	
-#### Committee Member of Conference Ranking
-	* [CORE 2023 Conference Ranking Committee](http://portal.core.edu.au/conf-ranks/) (under FoR code 4605)
+#### ICORE Conference Ranking
+	* [ICORE Rankings](https://www.core.edu.au/icore-portal) Management Committee Member (2026-present)
+	* [ICORE 2026 Conference Ranking Committee](http://portal.core.edu.au/conf-ranks/), Chair (FoR code 4605)
+	* [ICORE 2023 Conference Ranking Committee](http://portal.core.edu.au/conf-ranks/), Member (FoR code 4605)
