@@ -11,7 +11,7 @@ authors:
 publication_types: ["1"]
 publication: In *ACM SIGMOD 2026*
 publication_short: In *SIGMOD 2026*
-publishDate: "2025-12-01"
+publishDate: "2026-02-24"
 
 abstract: 
 
