@@ -1,6 +1,5 @@
 ---
-title: "Benchmarking RL-Enhanced Spatial Indices Against Traditional, Advanced, and Learned Counterparts
-Show abstract"
+title: "Benchmarking RL-Enhanced Spatial Indices Against Traditional, Advanced, and Learned Counterparts"
 authors:
 - Guanli Liu
 - Renata Borovica-Gajic
