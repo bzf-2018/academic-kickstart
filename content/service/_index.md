@@ -1,20 +1,5 @@
-#### Invited Keynote Speech
-	* The 20th International Conference Advanced Data Mining and Applications (ADMA) 2024
-	* Australasian Computer Science Week (ACSW) 2021
-	* 31st Australasian Database Conference 2020, PhD School
-	* 30th Australasian Database Conference 2019, PhD School
-	* 28th Australasian Database Conference 2017, Research Excellence Forum
-	* 33rd National Database Conference of China (NDBC), 2016, Distinguished Young Scholar Talk
-	* 3rd Australia-China Database Workshop, 2014, in conjunct with VLDB'14
-
-#### Associate Editor
-   * Proceedings of the VLDB Endowment (PVLDB) (2025-2026, 2022-2023, 2020-2021) 
-   * EDBT (2027, 2026, 2024)
-   * ACM SIGMOD 2023
-   * ACM Transactions on Spatial Algorithms and Systems (2022-)
-   * Data Science and Engineering Journal (2023-)
-
 #### Chair
+	* PhD Symposium Chair: ICDE 2027
 	* PC Co-Chair: EDBT 2027 (Demo Track)
 	* PC Co-Chair: ACM CIKM 2024 (Full Research Paper Track)
 	* PC Co-Chair: APWEB/WAIM 2024 (Industry Track)
@@ -33,6 +18,13 @@
 	* Awards Committee Chair: ACM CIKM 2017
 	* Awards Committee Chair: ADMA 2016
 
+#### Associate Editor
+   * Proceedings of the VLDB Endowment (PVLDB) (2025-2026, 2022-2023, 2020-2021) 
+   * EDBT (2027, 2026, 2024)
+   * ACM SIGMOD 2023
+   * ACM Transactions on Spatial Algorithms and Systems (2022-)
+   * Data Science and Engineering Journal (2023-)
+
 
 #### Area Chair
     * ACM KDD 2026, 2025, 2024
@@ -45,6 +37,11 @@
 	* International Conference on Extending Database Technology (EDBT): 2024
 	* ACM International Conference on Web Search and Data Mining (WSDM): 2022
 	* ACM CIKM: 2021, 2022 (Research Track), 2023 (Research Track)
+
+#### ICORE Conference Ranking
+	* [ICORE Rankings Management Committee Member](https://www.core.edu.au/icore-portal) (2026-2029)
+	* [ICORE 2026 Conference Ranking Committee](http://portal.core.edu.au/conf-ranks/), Chair (FoR code 4605)
+	* [ICORE 2023 Conference Ranking Committee](http://portal.core.edu.au/conf-ranks/), Member (FoR code 4605)
 
 #### Technical Program Committee Member (recent)
 	Data Management Field:
@@ -59,7 +56,11 @@
 	* The Web Conference (WWW): 2018, 2019
 	* ACM CIKM: 2015-2020
 	
-#### ICORE Conference Ranking
-	* [ICORE Rankings](https://www.core.edu.au/icore-portal) Management Committee Member (2026-present)
-	* [ICORE 2026 Conference Ranking Committee](http://portal.core.edu.au/conf-ranks/), Chair (FoR code 4605)
-	* [ICORE 2023 Conference Ranking Committee](http://portal.core.edu.au/conf-ranks/), Member (FoR code 4605)
+#### Invited Keynote Speech
+	* The 20th International Conference Advanced Data Mining and Applications (ADMA) 2024
+	* Australasian Computer Science Week (ACSW) 2021
+	* 31st Australasian Database Conference 2020, PhD School
+	* 30th Australasian Database Conference 2019, PhD School
+	* 28th Australasian Database Conference 2017, Research Excellence Forum
+	* 33rd National Database Conference of China (NDBC), 2016, Distinguished Young Scholar Talk
+	* 3rd Australia-China Database Workshop, 2014, in conjunct with VLDB'14
