@@ -8,6 +8,7 @@ authors:
 - Daomin Ji
 - Ge Lee
 - Feng Luo
+- Zi Huang
 - Hailang Qiu
 - Gang Hua
 
