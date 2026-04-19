@@ -45,7 +45,7 @@ social:
   link: https://dblp.uni-trier.de/pers/hd/b/Bao:Zhifeng
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/channel/UCGXKE9sTsI0WFV5ZHbH19QA
+  link: https://www.youtube.com/@DataAutonomyLab
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
