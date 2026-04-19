@@ -5,6 +5,9 @@
       mkdir -p bin
       curl -L https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_extended_0.55.6_Linux-64bit.tar.gz | tar -xz -C bin
     fi
+    # NEW: Create the missing directory and file to satisfy the compiler
+    mkdir -p themes/academic/assets/css/
+    touch themes/academic/assets/css/customs.css
     ./bin/hugo
   """
   publish = "public" 
