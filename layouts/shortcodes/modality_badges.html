@@ -1,0 +1,190 @@
+<div class="modality-badges">
+  {{ range .Params }}
+    {{ $raw := . }}
+    {{ $key := lower $raw }}
+    <button type="button" class="modality-tag" data-modality="{{ $key }}" aria-pressed="false" title="Filter by {{ $raw }}">
+      <i class="fas {{ if eq $key "text" }}fa-font{{ else if eq $key "table" }}fa-table{{ else if or (eq $key "time series") (eq $key "timeseries") }}fa-chart-line{{ else if eq $key "image" }}fa-image{{ else if eq $key "chart" }}fa-chart-area{{ else }}fa-database{{ end }}" aria-hidden="true"></i>
+      <span>{{ $raw }}</span>
+    </button>
+  {{ end }}
+</div>
+
+{{ if not (.Page.Scratch.Get "modality_badges_assets_loaded") }}
+  {{ .Page.Scratch.Set "modality_badges_assets_loaded" true }}
+  <style>
+    :root {
+      --modality-tag-bg: #f7faff;
+      --modality-tag-border: #2962ff;
+      --modality-tag-text: #1f4ed8;
+      --modality-tag-hover-bg: #edf3ff;
+      --modality-tag-active-bg: #2962ff;
+      --modality-tag-active-border: #2962ff;
+      --modality-tag-active-text: #ffffff;
+      --work-dim-opacity: 0.35;
+    }
+
+    .dark {
+      --modality-tag-bg: #1e2737;
+      --modality-tag-border: #74a6ff;
+      --modality-tag-text: #a8c7ff;
+      --modality-tag-hover-bg: #253149;
+      --modality-tag-active-bg: #74a6ff;
+      --modality-tag-active-border: #74a6ff;
+      --modality-tag-active-text: #0f1828;
+      --work-dim-opacity: 0.3;
+    }
+
+    .modality-badges {
+      margin: 0.4rem 0 0.8rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+    }
+
+    .modality-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      border: 1px solid var(--modality-tag-border);
+      background: var(--modality-tag-bg);
+      color: var(--modality-tag-text);
+      border-radius: 0.45rem;
+      padding: 0.34rem 0.7rem;
+      font-size: 0.86rem;
+      font-weight: 700;
+      line-height: 1.1;
+      cursor: pointer;
+      box-shadow: 0 1px 0 rgba(15, 23, 42, 0.08);
+      transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.15s ease;
+    }
+
+    .modality-tag:hover {
+      background: var(--modality-tag-hover-bg);
+      border-color: var(--modality-tag-border);
+      box-shadow: 0 2px 8px rgba(15, 23, 42, 0.12);
+      transform: translateY(-1px);
+    }
+
+    .modality-tag:focus-visible {
+      outline: none;
+      box-shadow: 0 0 0 2px rgba(41, 98, 255, 0.35);
+    }
+
+    .modality-tag.is-active {
+      background: var(--modality-tag-active-bg);
+      border-color: var(--modality-tag-active-border);
+      color: var(--modality-tag-active-text);
+      box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.14);
+      transform: none;
+    }
+
+    .work-entry {
+      transition: opacity 0.2s ease;
+    }
+
+    .work-entry.is-dimmed {
+      opacity: var(--work-dim-opacity);
+    }
+  </style>
+  <script>
+    (function () {
+      if (window.__modalityBadgesInit) return;
+      window.__modalityBadgesInit = true;
+
+      function normalizeValue(v) {
+        var key = String(v || "").trim().toLowerCase().replace(/\s+/g, " ");
+        if (key === "timeseries") return "time series";
+        return key;
+      }
+
+      function getEntryModalitySet(entry) {
+        var tags = entry.querySelectorAll(".modality-tag[data-modality]");
+        var values = [];
+        tags.forEach(function (el) {
+          values.push(normalizeValue(el.getAttribute("data-modality")));
+        });
+        return new Set(values.filter(Boolean));
+      }
+
+      function isBoundaryElement(node) {
+        if (!node || node.nodeType !== 1) return false;
+        return node.tagName === "HR" || node.tagName === "H2";
+      }
+
+      function buildWorkEntries() {
+        var containers = Array.from(document.querySelectorAll(".modality-badges"));
+        containers.forEach(function (container) {
+          if (container.closest(".work-entry")) return;
+
+          var titleEl = container.previousElementSibling;
+          if (!titleEl) return;
+
+          var wrapper = document.createElement("div");
+          wrapper.className = "work-entry";
+          titleEl.parentNode.insertBefore(wrapper, titleEl);
+
+          var cursor = titleEl;
+          while (cursor) {
+            var next = cursor.nextSibling;
+            if (isBoundaryElement(cursor)) break;
+            wrapper.appendChild(cursor);
+            cursor = next;
+          }
+        });
+      }
+
+      function initFiltering() {
+        buildWorkEntries();
+
+        var selected = new Set();
+
+        function syncBadgeStates() {
+          document.querySelectorAll(".modality-tag[data-modality]").forEach(function (badge) {
+            var modality = normalizeValue(badge.getAttribute("data-modality"));
+            var active = selected.has(modality);
+            badge.classList.toggle("is-active", active);
+            badge.setAttribute("aria-pressed", active ? "true" : "false");
+          });
+        }
+
+        function applyFilter() {
+          var entries = Array.from(document.querySelectorAll(".work-entry"));
+          entries.forEach(function (entry) {
+            var modalities = getEntryModalitySet(entry);
+            var matched = selected.size === 0;
+            if (!matched) {
+              selected.forEach(function (modality) {
+                if (modalities.has(modality)) matched = true;
+              });
+            }
+            entry.classList.toggle("is-dimmed", !matched && selected.size > 0);
+          });
+          syncBadgeStates();
+        }
+
+        document.addEventListener("click", function (event) {
+          var badge = event.target.closest(".modality-tag[data-modality]");
+          if (!badge) return;
+
+          var modality = normalizeValue(badge.getAttribute("data-modality"));
+          if (!modality) return;
+
+          if (selected.has(modality)) {
+            selected.delete(modality);
+          } else {
+            selected.add(modality);
+          }
+          applyFilter();
+        });
+
+        applyFilter();
+      }
+
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", initFiltering);
+      } else {
+        initFiltering();
+      }
+    })();
+  </script>
+{{ end }}

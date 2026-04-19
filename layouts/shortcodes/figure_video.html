@@ -1,0 +1,33 @@
+{{/* Project-specific figure shortcode with optional side-by-side YouTube embed. */}}
+{{ $imageSrc := .Get "src" }}
+{{ if .Get "library" }}
+  {{ $imageSrc = printf "img/%s" $imageSrc | relURL }}
+{{ end }}
+{{ $hasVideo := or (.Get "youtube_id") (.Get "youtube_url") }}
+{{ $youtubeURL := .Get "youtube_url" }}
+{{ if and (not $youtubeURL) (.Get "youtube_id") }}
+  {{ $youtubeURL = printf "https://www.youtube.com/embed/%s" (.Get "youtube_id") }}
+{{ end }}
+{{ $wrapperClass := "project-figure" }}
+{{ if $hasVideo }}
+  {{ $wrapperClass = printf "%s %s" $wrapperClass "project-figure--with-video" }}
+{{ end }}
+{{ with .Get "class" }}
+  {{ $wrapperClass = printf "%s %s" $wrapperClass . }}
+{{ end }}
+<figure class="{{ $wrapperClass }}">
+  <div class="project-figure__grid">
+    <div class="project-figure__media"{{ with .Get "width" }} style="--project-figure-image-max-width: {{ . }}px;"{{ end }}>
+      <a class="project-figure__image-link" data-fancybox="{{ .Page.File.TranslationBaseName }}" href="{{ $imageSrc }}"{{ with .Get "caption" }} data-caption="{{ . }}"{{ end }}>
+        <img class="project-figure__image" src="{{ $imageSrc }}" alt="{{ if .Get "alt" }}{{ .Get "alt" }}{{ else }}{{ if .Get "caption" }}{{ .Get "caption" }}{{ else }}{{ .Page.Title }} figure{{ end }}{{ end }}">
+      </a>
+    </div>
+    {{ if $hasVideo }}
+    <div class="project-figure__media">
+      <div class="project-figure__video-frame">
+        <iframe src="{{ $youtubeURL }}" title="{{ with .Get "video_title" }}{{ . }}{{ else }}YouTube video player{{ end }}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</figure>

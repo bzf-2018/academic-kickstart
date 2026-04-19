@@ -1,0 +1,70 @@
+.docs:has(.docs-sidebar .docs-toc-item.active > .docs-toc-link[href*="/projects/"]) .docs-article-container {
+  max-width: none;
+  width: 100%;
+}
+
+.docs:has(.docs-sidebar .docs-toc-item.active > .docs-toc-link[href*="/projects/"]) .article-style {
+  width: 100%;
+}
+
+.docs:has(.docs-sidebar .docs-toc-item.active > .docs-toc-link[href*="/projects/"]) .project-figure {
+  margin: 1.5rem 0 2rem;
+}
+
+.docs:has(.docs-sidebar .docs-toc-item.active > .docs-toc-link[href*="/projects/"]) .project-figure__grid {
+  display: grid;
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.docs:has(.docs-sidebar .docs-toc-item.active > .docs-toc-link[href*="/projects/"]) .project-figure--with-video .project-figure__grid {
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 0.95fr);
+}
+
+.docs:has(.docs-sidebar .docs-toc-item.active > .docs-toc-link[href*="/projects/"]) .project-figure__media {
+  min-width: 0;
+}
+
+.docs:has(.docs-sidebar .docs-toc-item.active > .docs-toc-link[href*="/projects/"]) .project-figure__image-link {
+  display: block;
+}
+
+.docs:has(.docs-sidebar .docs-toc-item.active > .docs-toc-link[href*="/projects/"]) .project-figure__image {
+  display: block;
+  width: 100%;
+  max-width: min(100%, var(--project-figure-image-max-width, 100%));
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+  border-radius: 0.35rem;
+}
+
+.docs:has(.docs-sidebar .docs-toc-item.active > .docs-toc-link[href*="/projects/"]) .project-figure__video-frame {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: 0.35rem;
+  background: #000;
+}
+
+.docs:has(.docs-sidebar .docs-toc-item.active > .docs-toc-link[href*="/projects/"]) .project-figure__video-frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+@media (max-width: 991.98px) {
+  .docs:has(.docs-sidebar .docs-toc-item.active > .docs-toc-link[href*="/projects/"]) .project-figure--with-video .project-figure__grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .docs:has(.docs-sidebar .docs-toc-item.active > .docs-toc-link[href*="/projects/"]) .docs-content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}

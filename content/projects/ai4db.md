@@ -4,7 +4,7 @@ linktitle: AI4DB
 toc: true
 type: docs
 draft: false
-lastmod: "2026-02-27T00:00:00Z"
+lastmod: "2026-04-14T00:00:00Z"
 weight: 30
 
 menu:
@@ -19,7 +19,7 @@ Across these topics, we study both new algorithms and system-oriented designs th
 
 Together, these projects form a coherent research agenda on learning-enhanced database optimization, aiming to improve database performance end-to-end by strengthening the components that most directly affect plan quality and execution efficiency.
 
-{{< figure src="projects/ai4db/ai4db.png" library="1" >}}
+{{< figure_video src="projects/ai4db/ai4db.png" library="1" >}}
 
 ---
 
@@ -33,7 +33,7 @@ We study learned index structures as a new way to accelerate data access in data
 
 This paper presents the first unified benchmarking framework for evaluating reinforcement learning–enhanced spatial indices (RLESIs) against traditional, advanced, and learned spatial indices in disk-based environments. It evaluates 12 representative indices across diverse datasets and workloads, including point, range, kNN, and spatial join queries. The results show that while RLESIs can achieve moderate improvements over traditional indices with careful tuning, they consistently underperform advanced and learned spatial indices and incur high training and tuning costs. These findings highlight important limitations of RLESIs and provide guidance for future research on practical learned spatial indexing.
 
-{{< figure src="projects/ai4db/spatial_exp.png" library="1" >}}
+{{< figure_video src="projects/ai4db/spatial_exp.png" library="1" >}}
 
 ---
 
@@ -41,7 +41,7 @@ This paper presents the first unified benchmarking framework for evaluating rein
 
 AULID proposes a fully on-disk updatable learned index designed specifically for disk-based database systems, where disk I/O dominates performance. It introduces a disk-efficient structure that reduces I/O cost by minimizing model traversal and optimizing node layouts for disk access. AULID supports efficient lookups, inserts, and updates while maintaining high accuracy and low storage overhead. Experiments show that AULID significantly improves lookup and update performance compared to traditional B+-trees and prior learned indexes in disk-resident settings.
 
-{{< figure src="projects/ai4db/aulid.png" width="600" library="1" >}}
+{{< figure_video src="projects/ai4db/aulid.png" youtube_id="2oGjArTKOm0" library="1" >}}
 
 ---
 
@@ -49,7 +49,7 @@ AULID proposes a fully on-disk updatable learned index designed specifically for
 
 This paper studies whether updatable learned indexes are effective in disk-resident DBMS environments, where most real-world databases operate. It implements and evaluates several state-of-the-art learned indexes (e.g., PGM, LIPP, ALEX) and compares them against traditional B+-trees under various workloads. The results show that while learned indexes can outperform B+-trees in specific workloads, B+-trees remain highly competitive overall. Based on extensive analysis, the paper identifies key limitations of learned indexes on disk and proposes design principles to guide the development of efficient on-disk learned indexes.
 
-{{< figure src="projects/ai4db/on_disk_exp.png" width="600" library="1" >}}
+{{< figure_video src="projects/ai4db/on_disk_exp.png" width="600" library="1" >}}
 
 ---
 
@@ -63,7 +63,7 @@ We work on cardinality estimation for modern query types that are difficult for 
 
 This paper studies cardinality estimation for similarity search on high-dimensional data (CE4HD), which is essential for query optimization in vector databases and embedding-based applications. It proposes a novel reference-object–based approach, where selected data objects with similar cardinality patterns are used to estimate the query cardinality efficiently and accurately. The paper introduces two methods—SRCE (single-reference) and MRCE (multi-reference)—that leverage reference objects and lightweight models to improve robustness and efficiency. Experiments show that the proposed methods achieve up to 10× faster estimation and up to 136× lower Q-error compared to prior approaches such as SimCard and SelNet.
 
-{{< figure src="projects/ai4db/mrce.png" width="600" library="1" >}}
+{{< figure_video src="projects/ai4db/mrce.png" youtube_id="9dv6Z3GKw08" library="1" >}}
 
 ---
 
@@ -71,7 +71,7 @@ This paper studies cardinality estimation for similarity search on high-dimensio
 
 This paper proposes LEARNT, a practical and theoretically grounded estimator for cardinality estimation of LIKE queries on string data, including prefix, suffix, and substring patterns. It reformulates estimation as a bucket classification problem, enabling formal Q-error bounds when queries are correctly classified. LEARNT introduces a memory-efficient bucketed layered filter architecture using Bloom filters and lookup tables, along with dedicated strategies for handling empty-answer queries and long patterns. Experiments on real datasets show that LEARNT achieves 1.3–1.7× lower estimation error and up to 70× faster construction compared to state-of-the-art methods, while maintaining low storage overhead.
 
-{{< figure src="projects/ai4db/learnt.png" width="600" library="1" >}}
+{{< figure_video src="projects/ai4db/learnt.png" width="600" library="1" >}}
 
 ---
 
@@ -85,7 +85,7 @@ We develop learning-based index advisors that recommend effective index configur
 
 This paper proposes BALANCE, a learning-based index advisor designed for dynamic and heterogeneous workloads where query patterns evolve over time. BALANCE builds lightweight index advisors on sequential workload chunks, transfers learned policies from historical workloads to reduce retraining cost, and uses contrastive learning to generate effective workload representations. This enables accurate and efficient index recommendations while adapting to workload shifts. Experiments show that BALANCE improves index performance by about 10% over prior methods (e.g., SWIRL) while reducing training overhead by 35% on average.
 
-{{< figure src="projects/ai4db/balance.png" width="600" library="1" >}}
+{{< figure_video src="projects/ai4db/balance.png" width="600" library="1" >}}
 
 ---
 
@@ -93,7 +93,7 @@ This paper proposes BALANCE, a learning-based index advisor designed for dynamic
 
 This paper studies the index selection problem, which aims to choose the best set of indexes to minimize workload execution cost under storage or number constraints, a known NP-hard problem. It proposes a deep reinforcement learning–based index advisor that integrates heuristic candidate generation with a Deep Q Network (DQN) to recommend both single-attribute and multi-attribute indexes while modeling their interactions. The approach enables more effective exploration of index combinations and supports multiple-index access to tables. Experiments show that the proposed method achieves better workload performance than traditional greedy and optimization-based index advisors.
 
-{{< figure src="projects/ai4db/index_advisor_static.png" width="600" library="1" >}}
+{{< figure_video src="projects/ai4db/index_advisor_static.png" width="600" library="1" >}}
 
 ---
 
@@ -107,7 +107,7 @@ We study learning-enhanced query optimization to improve plan selection in real 
 
 PLARQ is a practical learned optimizer designed for parameterized query optimization (PQO), where the same query template is repeatedly executed with different parameter values. It introduces a plan reuse strategy that retrieves high-quality candidate plans from a precomputed pool based on query similarity, and a list-wise attention-based ranking model to select the best plan efficiently. PLARQ integrates seamlessly with PostgreSQL without modifying optimizer internals and achieves significant performance improvements, with up to 420× speedup over PostgreSQL and up to 2× over existing learned methods.
 
-{{< figure src="projects/ai4db/plarq.png" width="500" library="1" >}}
+{{< figure_video src="projects/ai4db/plarq.png" width="500" youtube_id="Zm35YTP-7Dc" library="1" >}}
 
 ---
 
@@ -115,7 +115,7 @@ PLARQ is a practical learned optimizer designed for parameterized query optimiza
 
 RankPQO is a learning-to-rank framework for parametric query optimization that generates diverse candidate plans and selects the best one based on parameter values. Instead of predicting absolute cost, it ranks plans using relative performance, improving robustness and accuracy. It achieves up to 2.57× speedup over PostgreSQL and outperforms prior PQO methods.
 
-{{< figure src="projects/ai4db/rankpqo.png" width="600" library="1" >}}
+{{< figure_video src="projects/ai4db/rankpqo.png" width="600" library="1" >}}
 
 ---
 
@@ -123,7 +123,7 @@ RankPQO is a learning-to-rank framework for parametric query optimization that g
 
 Lemo is a learned query optimizer designed for concurrent query execution, where multiple queries run simultaneously and may share common subqueries. It uses a Transformer-based value network to predict query latency and guide plan generation, and a shared buffer manager to cache and reuse intermediate results, reducing redundant computation. By jointly optimizing plan selection and subquery reuse under concurrency, Lemo significantly improves query performance compared to traditional optimizers.
 
-{{< figure src="projects/ai4db/lemo.png" width="600" library="1" >}}
+{{< figure_video src="projects/ai4db/lemo.png" width="600" library="1" >}}
 
 ---
 
@@ -131,4 +131,4 @@ Lemo is a learned query optimizer designed for concurrent query execution, where
 
 This paper surveys techniques for improving cost-based database query optimizers, focusing on three core components: cardinality estimation, cost models, and plan enumeration. It explains that inaccuracies in cardinality estimation are the main cause of suboptimal query plans, and reviews traditional methods (e.g., histograms and sampling) as well as modern learning-based approaches. The paper also highlights key limitations of existing optimizers and outlines future directions, especially integrating machine learning to build more accurate and robust optimization frameworks.
 
-{{< figure src="projects/ai4db/qo_survey.png" width="700" library="1" >}}
+{{< figure_video src="projects/ai4db/qo_survey.png" width="700" library="1" >}}
