@@ -79,7 +79,7 @@ Line charts are everywhere—from news articles to dashboards—because they mak
 
 ---
 
-## Topic 4: Evidence-Grounded Knowledge Building
+<!-- ## Topic 4: Evidence-Grounded Knowledge Building
 
 **4.1) Taxonomy Maintenance In The Wild Over Evolving Scholarly Data: Reliability, Efficiency, and Cost-Effectiveness (*under review*)**
 
@@ -89,11 +89,11 @@ Taxonomy is a structured “topic map” that organizes concepts into a hierarch
 
 {{< figure_video src="projects/data-orchestration-for-ai/gist.png" width="600" library="1" >}}
 
----
+--- -->
 
-## Topic 5: Dataset and Data Point Assemblage
+## Topic 4: Dataset and Data Point Assemblage
 
-**5.1) Distinctiveness Maximization in Datasets Assemblage ([WWW'25](https://dl.acm.org/doi/10.1145/3696410.3714830)) ([System Prototype](https://github.com/rmitbggroup/DM))**
+**4.1) Distinctiveness Maximization in Datasets Assemblage ([WWW'25](https://dl.acm.org/doi/10.1145/3696410.3714830)) ([System Prototype](https://github.com/rmitbggroup/DM))**
 
 {{< modality_badges "table" >}}
 
@@ -103,7 +103,7 @@ Modern data lakes offer abundant datasets, yet existing discovery methods typica
 
 ---
 
-**5.2) Optimizing Data Acquisition to Enhance Machine Learning Performance ([VLDB'24](https://www.vldb.org/pvldb/vol17/p1310-bao.pdf)) ([System Prototype](https://github.com/rmitbggroup/da-ml))**
+**4.2) Optimizing Data Acquisition to Enhance Machine Learning Performance ([VLDB'24](https://www.vldb.org/pvldb/vol17/p1310-bao.pdf)) ([System Prototype](https://github.com/rmitbggroup/da-ml))**
 
 {{< modality_badges "table" >}}
 
@@ -113,7 +113,7 @@ Modern machine learning models depend heavily on training data quality, yet simp
 
 ---
 
-**5.3) Representative Time Series Discovery for Data Exploration ([VLDB'25](https://www.vldb.org/pvldb/vol18/p915-bao.pdf)) ([System Prototype](https://github.com/rmitbggroup/RTSD))**
+**4.3) Representative Time Series Discovery for Data Exploration ([VLDB'25](https://www.vldb.org/pvldb/vol18/p915-bao.pdf)) ([System Prototype](https://github.com/rmitbggroup/RTSD))**
 
 {{< modality_badges "time series" >}}
 
@@ -123,9 +123,9 @@ This work tackles the challenge of making massive time series collections easier
 
 ---
 
-## Topic 6: Duplicate Detection
+## Topic 5: Duplicate Detection
 
-**6.1) Shape-Agnostic Table Overlap Discovery: A Maximum Common Subhypergraph Approach ([SIGMOD'26](https://arxiv.org/pdf/2603.14419)) ([System Prototype](https://drive.google.com/drive/u/0/folders/1wDhNfXTYBmN3WGC-r3KW-p4Gr4MR-KPu))**
+**5.1) Shape-Agnostic Table Overlap Discovery: A Maximum Common Subhypergraph Approach ([SIGMOD'26](https://arxiv.org/pdf/2603.14419)) ([System Prototype](https://drive.google.com/drive/u/0/folders/1wDhNfXTYBmN3WGC-r3KW-p4Gr4MR-KPu))**
 
 {{< modality_badges "table" >}}
 
@@ -135,7 +135,7 @@ Shape-Agnostic Table Overlap Discovery addresses a common gap in real table repo
 
 ---
 
-**6.2) Alignment-Guided Largest Table Overlap Size Estimation (*under review*)**
+**5.2) Alignment-Guided Largest Table Overlap Size Estimation (*under review*)**
 
 {{< modality_badges "table" >}}
 
@@ -145,9 +145,9 @@ Alignment-Guided Largest Table Overlap Size Estimation targets fast estimation o
 
 ---
 
-## Topic 7: Missing Value Imputation
+## Topic 6: Missing Value Imputation
 
-**7.1) Missing Value Imputation in Tabular Data Lakes Unleashed: A Hybrid Approach ([VLDBJ'26](https://link.springer.com/article/10.1007/s00778-025-00957-1)) ([System Prototype](https://github.com/JrJessyLuo/mv_imputation_datalake))**
+**6.1) Missing Value Imputation in Tabular Data Lakes Unleashed: A Hybrid Approach ([VLDBJ'26](https://link.springer.com/article/10.1007/s00778-025-00957-1)) ([System Prototype](https://github.com/JrJessyLuo/mv_imputation_datalake))**
 
 {{< modality_badges "table" >}}
 
@@ -157,9 +157,9 @@ Missing values in tabular data lakes can severely impact data analysis and dimin
 
 ---
 
-## Topic 8: Cost-Effective QA
+## Topic 7: Cost-Effective QA
 
-**8.1) A Cost-Effective Framework for Complex Numerical QA over Semi-Structured Table (*under review*)**
+**7.1) A Cost-Effective Framework for Complex Numerical QA over Semi-Structured Table (*under review*)**
 
 {{< modality_badges "text" "table" >}}
 
@@ -169,7 +169,7 @@ Semi-structured tables encode rich semantics through diverse schema elements, su
 
 ---
 
-**8.2) Decomposition-Driven Multi-Table Retrieval and Reasoning for Numerical Question Answering (ICDE'26) ([System Prototype](https://github.com/JrJessyLuo/multitab_qa_dmral))**
+**7.2) Decomposition-Driven Multi-Table Retrieval and Reasoning for Numerical Question Answering (ICDE'26) ([System Prototype](https://github.com/JrJessyLuo/multitab_qa_dmral))**
 
 {{< modality_badges "text" "table" >}}
 
@@ -179,9 +179,9 @@ Answering numerical questions by identifying and integrating information from mu
 
 ---
 
-## Topic 9: Visualization Exploration and Recommendation
+## Topic 8: Visualization Exploration and Recommendation
 
-**9.1) Visualization Recommendation Through Visual Relation Learning and Visual Preference Learning ([ICDE'23](https://ieeexplore.ieee.org/document/10184826)) ([System Prototype](https://github.com/rmitbggroup/VisFormer))**
+**8.1) Visualization Recommendation Through Visual Relation Learning and Visual Preference Learning ([ICDE'23](https://ieeexplore.ieee.org/document/10184826)) ([System Prototype](https://github.com/rmitbggroup/VisFormer))**
 
 {{< modality_badges "table" "image" >}}
 
