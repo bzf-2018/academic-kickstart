@@ -96,7 +96,7 @@ This paper proposes BALANCE, a learning-based index advisor designed for dynamic
 {{< figure_video src="projects/ai4db/balance.png" width="600" library="1" >}}
 
 ---
-**3.3) GenIA: Generative Index Advisor for Dynamic Workloads and Data [TKDE'25]**
+**3.3) GenIA: Generative Index Advisor for Dynamic Workloads and Data (TKDE'25)**
 
 This work presents an index advisor for dynamic workloads and data, GenIA, which learns to generate a sequence of the recommended index configuration based on historical experience. The generative framework of GenIA avoids erroneous trials to explore bad actions and reliance on high-quality positive and negative examples: (1) GenIA is empowered with novel attention mechanisms to capture implicit relationships between indexable columns. (2) GenIA combines comprehensive features extracted from workloads, data manipulation statements, and underlying data to effectively capture workload shifts and subtle data shifts. (3) GenIA adopts a novel perturbation-based training strategy to enhance the diversity of training samples and to improve the model parameters' robustness.
 
@@ -116,7 +116,7 @@ PLARQ is a practical learned optimizer designed for parameterized query optimiza
 
 ---
 
-**4.2) Towards Industrial-Scale Parametric Query Optimization [VLDB'26, Industry Track] ([Code](https://github.com/songsong945/RankPQO-industry))**
+**4.2) Towards Industrial-Scale Parametric Query Optimization (VLDB'26, Industry Track) ([Code](https://github.com/songsong945/RankPQO-industry))**
 
 This work addresses two key challenges overlooked by existing PQO techniques: large-scale template generalization and online adaptability. For large-scale workloads, we propose a representation-based clustering strategy coupled with hierarchical model training, which significantly reduces model cost while preserving accuracy. For online adaptability, we introduce a KL-divergence-driven model fine-tuning and plan updating strategy that dynamically adapts to workload changes. Our approach, deployed in OceanBase, is extensively evaluated on four benchmarks. Results show that it achieves up to 1.62× acceleration over the OceanBase optimizer and outperforms RankPQO, a state-of-the-art PQO method, by up to 1.23×, demonstrating improved scalability and robustness for industrial-scale PQO.
 
