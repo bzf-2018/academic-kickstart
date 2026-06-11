@@ -67,9 +67,9 @@ This paper studies cardinality estimation for similarity search on high-dimensio
 
 ---
 
-**2.2) LEARNT: A Practical Estimator for Cardinality of LIKE Queries with Formal Accuracy Guarantees (*under review*) ([Code](https://github.com/DataAutonomyLab/ce4str))**
+**2.2) Cardinality Estimation of LIKE Queries with Formal Accuracy Guarantees ([Code](https://github.com/DataAutonomyLab/ce4str))**
 
-This paper proposes LEARNT, a practical and theoretically grounded estimator for cardinality estimation of LIKE queries on string data, including prefix, suffix, and substring patterns. It reformulates estimation as a bucket classification problem, enabling formal Q-error bounds when queries are correctly classified. LEARNT introduces a memory-efficient bucketed layered filter architecture using Bloom filters and lookup tables, along with dedicated strategies for handling empty-answer queries and long patterns. Experiments on real datasets show that LEARNT achieves 1.3–1.7× lower estimation error and up to 70× faster construction compared to state-of-the-art methods, while maintaining low storage overhead.
+This work proposes a practical and theoretically grounded estimator for cardinality estimation of LIKE queries on string data, including prefix, suffix, and substring patterns. It reformulates estimation as a bucket classification problem, enabling formal Q-error bounds when queries are correctly classified. Our method introduces a memory-efficient bucketed layered filter architecture using Bloom filters and lookup tables, along with dedicated strategies for handling empty-answer queries and long patterns. Experiments on real datasets show that our method achieves 1.3–1.7× lower estimation error and up to 70× faster construction compared to state-of-the-art methods, while maintaining low storage overhead.
 
 {{< figure_video src="projects/ai4db/learnt.png" width="600" library="1" >}}
 
@@ -81,19 +81,24 @@ We develop learning-based index advisors that recommend effective index configur
 
 ---
 
-**3.1) Leveraging Dynamic and Heterogeneous Workload Knowledge to Boost the Performance of Index Advisors ([VLDB'24](https://www.vldb.org/pvldb/vol17/p1642-lin.pdf)) ([Code](https://github.com/XMUDM/BALANCE))**
+**3.1) An Index Advisor Using Deep Reinforcement Learning ([CIKM'20](https://dl.acm.org/doi/pdf/10.1145/3340531.3412106)) ([Code](https://github.com/rmitbggroup/IndexAdvisor))**
+
+This paper studies the index selection problem, which aims to choose the best set of indexes to minimize workload execution cost under storage or number constraints, a known NP-hard problem. It proposes a deep reinforcement learning–based index advisor that integrates heuristic candidate generation with a Deep Q Network (DQN) to recommend both single-attribute and multi-attribute indexes while modeling their interactions. The approach enables more effective exploration of index combinations and supports multiple-index access to tables. Experiments show that the proposed method achieves better workload performance than traditional greedy and optimization-based index advisors.
+
+{{< figure_video src="projects/ai4db/index_advisor_static.png" width="600" library="1" >}}
+
+---
+
+**3.2) Leveraging Dynamic and Heterogeneous Workload Knowledge to Boost the Performance of Index Advisors ([VLDB'24](https://www.vldb.org/pvldb/vol17/p1642-lin.pdf)) ([Code](https://github.com/XMUDM/BALANCE))**
 
 This paper proposes BALANCE, a learning-based index advisor designed for dynamic and heterogeneous workloads where query patterns evolve over time. BALANCE builds lightweight index advisors on sequential workload chunks, transfers learned policies from historical workloads to reduce retraining cost, and uses contrastive learning to generate effective workload representations. This enables accurate and efficient index recommendations while adapting to workload shifts. Experiments show that BALANCE improves index performance by about 10% over prior methods (e.g., SWIRL) while reducing training overhead by 35% on average.
 
 {{< figure_video src="projects/ai4db/balance.png" width="600" library="1" >}}
 
 ---
+**3.3) GenIA: Generative Index Advisor for Dynamic Workloads and Data [TKDE'25]**
 
-**3.2) An Index Advisor Using Deep Reinforcement Learning ([CIKM'22](https://dl.acm.org/doi/pdf/10.1145/3340531.3412106)) ([Code](https://github.com/rmitbggroup/IndexAdvisor))**
-
-This paper studies the index selection problem, which aims to choose the best set of indexes to minimize workload execution cost under storage or number constraints, a known NP-hard problem. It proposes a deep reinforcement learning–based index advisor that integrates heuristic candidate generation with a Deep Q Network (DQN) to recommend both single-attribute and multi-attribute indexes while modeling their interactions. The approach enables more effective exploration of index combinations and supports multiple-index access to tables. Experiments show that the proposed method achieves better workload performance than traditional greedy and optimization-based index advisors.
-
-{{< figure_video src="projects/ai4db/index_advisor_static.png" width="600" library="1" >}}
+This work presents an index advisor for dynamic workloads and data, GenIA, which learns to generate a sequence of the recommended index configuration based on historical experience. The generative framework of GenIA avoids erroneous trials to explore bad actions and reliance on high-quality positive and negative examples: (1) GenIA is empowered with novel attention mechanisms to capture implicit relationships between indexable columns. (2) GenIA combines comprehensive features extracted from workloads, data manipulation statements, and underlying data to effectively capture workload shifts and subtle data shifts. (3) GenIA adopts a novel perturbation-based training strategy to enhance the diversity of training samples and to improve the model parameters' robustness.
 
 ---
 
@@ -111,7 +116,13 @@ PLARQ is a practical learned optimizer designed for parameterized query optimiza
 
 ---
 
-**4.2) RankPQO: Learning-to-Rank for Parametric Query Optimization ([VLDB'25](https://www.vldb.org/pvldb/vol18/p863-mo.pdf)) ([Code](https://github.com/songsong945/RankPQO))**
+**4.2) Towards Industrial-Scale Parametric Query Optimization [VLDB'26, Industry Track] ([Code](https://github.com/songsong945/RankPQO-industry))**
+
+This work addresses two key challenges overlooked by existing PQO techniques: large-scale template generalization and online adaptability. For large-scale workloads, we propose a representation-based clustering strategy coupled with hierarchical model training, which significantly reduces model cost while preserving accuracy. For online adaptability, we introduce a KL-divergence-driven model fine-tuning and plan updating strategy that dynamically adapts to workload changes. Our approach, deployed in OceanBase, is extensively evaluated on four benchmarks. Results show that it achieves up to 1.62× acceleration over the OceanBase optimizer and outperforms RankPQO, a state-of-the-art PQO method, by up to 1.23×, demonstrating improved scalability and robustness for industrial-scale PQO.
+
+---
+
+**4.3) RankPQO: Learning-to-Rank for Parametric Query Optimization ([VLDB'25](https://www.vldb.org/pvldb/vol18/p863-mo.pdf)) ([Code](https://github.com/songsong945/RankPQO))**
 
 RankPQO is a learning-to-rank framework for parametric query optimization that generates diverse candidate plans and selects the best one based on parameter values. Instead of predicting absolute cost, it ranks plans using relative performance, improving robustness and accuracy. It achieves up to 2.57× speedup over PostgreSQL and outperforms prior PQO methods.
 
@@ -119,7 +130,7 @@ RankPQO is a learning-to-rank framework for parametric query optimization that g
 
 ---
 
-**4.3) Lemo: A cache-enhanced learned optimizer for concurrent queries ([SIGMOD'24](https://dl.acm.org/doi/pdf/10.1145/3626734))**
+**4.4) Lemo: A cache-enhanced learned optimizer for concurrent queries ([SIGMOD'24](https://dl.acm.org/doi/pdf/10.1145/3626734))**
 
 Lemo is a learned query optimizer designed for concurrent query execution, where multiple queries run simultaneously and may share common subqueries. It uses a Transformer-based value network to predict query latency and guide plan generation, and a shared buffer manager to cache and reuse intermediate results, reducing redundant computation. By jointly optimizing plan selection and subquery reuse under concurrency, Lemo significantly improves query performance compared to traditional optimizers.
 
@@ -127,7 +138,7 @@ Lemo is a learned query optimizer designed for concurrent query execution, where
 
 ---
 
-**4.4) A Survey on Advancing the DBMS Query Optimizer: Cardinality Estimation, Cost Model, and Plan Enumeration ([Data Science and Engineering'21](https://link.springer.com/article/10.1007/s41019-020-00149-7))**
+**4.5) A Survey on Advancing the DBMS Query Optimizer: Cardinality Estimation, Cost Model, and Plan Enumeration ([Data Science and Engineering'21](https://link.springer.com/article/10.1007/s41019-020-00149-7))**
 
 This paper surveys techniques for improving cost-based database query optimizers, focusing on three core components: cardinality estimation, cost models, and plan enumeration. It explains that inaccuracies in cardinality estimation are the main cause of suboptimal query plans, and reviews traditional methods (e.g., histograms and sampling) as well as modern learning-based approaches. The paper also highlights key limitations of existing optimizers and outlines future directions, especially integrating machine learning to build more accurate and robust optimization frameworks.
 
