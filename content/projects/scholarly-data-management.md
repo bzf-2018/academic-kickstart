@@ -4,7 +4,7 @@ linktitle: Scholarly Data Management
 toc: true
 type: docs
 draft: false
-lastmod: "2026-05-18T00:00:00Z"
+lastmod: "2026-07-11T00:00:00Z"
 weight: 25
 
 menu:
@@ -17,7 +17,7 @@ menu:
 
 ## Topic 1: Conference Program Management
 
-**TaxoConf: A Taxonomy-Driven System for Conference Program Management ([System Prototype](https://taxoconf.com))**
+**1.1) TaxoConf: A Taxonomy-Driven System for Conference Program Management ([System Prototype](https://taxoconf.com))**
 
 TaxoConf is a system that automates the construction of coherent technical programs for large academic conferences. Given a set of accepted papers, it induces a topic taxonomy from paper abstracts and uses it to organize papers into thematically coherent oral and poster sessions, while jointly minimizing author scheduling conflicts and respecting capacity constraints on session sizes, parallel rooms, and time slots.
 
@@ -26,6 +26,16 @@ The system offers four key features: (1) accurate and coherent grouping of paper
 TaxoConf has been adopted to help organize the programs of top computer science conferences, including [SIGIR 2026](https://sigir2026.org/en-AU) and [IJCNN 2026](https://sites.google.com/view/ijcnn2026-emergent-gpais), and is deployed as a live web application at [taxoconf.com](https://taxoconf.com/).
 
 {{< figure_video src="projects/scholarly-data-management/taxoconf.png" library="1" >}}
+
+---
+
+**1.2) Who Should Review—and Who Is Missing? Toward Accurate Reviewer Assignment and Scalable Expert Discovery**
+
+Accurate paper–reviewer assignment is essential to the quality and integrity of scientific peer review, yet existing systems face two fundamental pain points. 1) **Inaccurate assignment due to coarse expertise modeling**. Most existing methods represent each submission and reviewer using a flat, single-vector embedding. By compressing multi-faceted research topics into coarse semantic centroids, these representations cannot reliably distinguish fine-grained technical expertise from broad or superficial topical overlap. Consequently, partially relevant reviewers may receive high affinity scores, while genuinely suitable experts may be overlooked. 2) **Inability to discover experts beyond a fixed reviewer panel**. Existing conference-management platforms typically assume that the reviewer panel is fixed. When the available panel lacks sufficient expertise in emerging, interdisciplinary, or highly specialized topics, program chairs must manually recruit additional reviewers through personal networks, ad hoc searches, or inspection of related publications. This process is time-consuming, difficult to scale, and potentially biased toward familiar research communities.
+
+This project develops **ReviewAtlas**, a scholarly data management system that jointly supports accurate reviewer assignment and scalable expert discovery. For reviewer assignment, ReviewAtlas constructs a conference-specific weighted taxonomy and represents submissions and reviewers as distributions over fine-grained topics. It measures their alignment using tree–Wasserstein distance, thereby preserving multi-faceted expertise and distinguishing genuine technical depth from high-level topical similarity. For expert discovery, ReviewAtlas organizes a large, continuously updated expert lake using a persistent global expertise taxonomy. A global–local alignment mechanism calibrates external expert retrieval against the conference-specific expertise structure, enabling the system to identify qualified and promising experts who can address uncovered submission topics. Together, these capabilities provide a unified and scalable foundation for improving both reviewer-assignment fidelity and reviewer-panel coverage.
+
+{{< figure_video src="projects/scholarly-data-management/reviewatlas.pdf" library="1" >}}
 
 ---
 
