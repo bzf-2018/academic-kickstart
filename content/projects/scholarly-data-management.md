@@ -35,7 +35,7 @@ Accurate paper–reviewer assignment is essential to the quality and integrity o
 
 This project develops **ReviewAtlas**, a scholarly data management system that jointly supports accurate reviewer assignment and scalable expert discovery. For reviewer assignment, ReviewAtlas constructs a conference-specific weighted taxonomy and represents submissions and reviewers as distributions over fine-grained topics. It measures their alignment using tree–Wasserstein distance, thereby preserving multi-faceted expertise and distinguishing genuine technical depth from high-level topical similarity. For expert discovery, ReviewAtlas organizes a large, continuously updated expert lake using a persistent global expertise taxonomy. A global–local alignment mechanism calibrates external expert retrieval against the conference-specific expertise structure, enabling the system to identify qualified and promising experts who can address uncovered submission topics. Together, these capabilities provide a unified and scalable foundation for improving both reviewer-assignment fidelity and reviewer-panel coverage.
 
-{{< figure_video src="projects/scholarly-data-management/reviewatlas.pdf" library="1" >}}
+{{< figure_video src="projects/scholarly-data-management/reviewatlas.png" library="1" >}}
 
 ---
 
