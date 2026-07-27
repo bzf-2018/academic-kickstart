@@ -15,7 +15,7 @@ menu:
 
 <center> <h2>Completed Projects</h2> </center>
 
-I proposed the topic of [**Civil Computing**](http://civilcomputing.co/) and has made significant contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone for optimal decision making** and **facilitate people's everyday life**. These civil computing problems of my focus involve three domains: (1) [Site Selection](http://civilcomputing.co/sub-facility.html), (2) [House Seeking](http://civilcomputing.co/sub-houseseeking.html) (Point of Interest and Area of Interest), and (3) [Intelligent Transport](http://civilcomputing.co/sub-transport.html). 
+I proposed the topic of [**Civil Computing**](http://civilcomputing.net/) and has made significant contributions in developing interactive visualized data exploration frameworks to bring big data back to a human scale, to **make big data empower everyone for optimal decision making** and **facilitate people's everyday life**. These civil computing problems of my focus involve three domains: (1) [Site Selection](http://civilcomputing.net/sub-facility.html), (2) [House Seeking](http://civilcomputing.net/sub-houseseeking.html) (Point of Interest and Area of Interest), and (3) [Intelligent Transport](http://civilcomputing.net/sub-transport.html). 
 
 * **House Seeking**
 	- Map-based Visual exploration on location-centred multi-dimensional data (WSDM'19, EuroVIS'18, JVLC'18)
