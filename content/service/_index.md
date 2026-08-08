@@ -1,12 +1,14 @@
 #### Chair
+	* General Chair: DASFAA 2028
 	* PhD Symposium Chair: ICDE 2027
 	* PC Co-Chair: EDBT 2027 (Demo Track)
+	* Flow Chair: DASFAA 2027
 	* PC Co-Chair: ACM CIKM 2024 (Full Research Paper Track)
 	* PC Co-Chair: APWEB/WAIM 2024 (Industry Track)
 	* PC Co-Chair: ACM WSDM 2023 (Demo Track)
 	* PC Co-Chair: 34th Australasian Database Conference 2023
 	* Technical Program Committee Co-Chair: [VLDB 2022 PhD Workshop](https://vldb.org/2022/?call-for-phd-workshop)
-	* Round Table Chair: VLDB 2021 ([17 round tables  organized on trending Database topics](http://vldb.org/2021/?program-schedule-roundtable))
+	* Inaugural Round Table Chair: VLDB 2021 ([17 round tables  organized on trending Database topics](http://vldb.org/2021/?program-schedule-roundtable))
 	* Technical Program Committee Co-Chair: ACM CIKM 2021 (Demo Track)
 	* Registration Chair: ACM SIGMOD 2021
 	* Curated Session Chair: ACM SIGMOD 2021 (Theme: Graph Data Management)
@@ -20,7 +22,7 @@
 
 #### Associate Editor
    * Proceedings of the VLDB Endowment (PVLDB) (2025-2026, 2022-2023, 2020-2021) 
-   * EDBT (2027, 2026, 2024)
+   * EDBT (2026, 2024)
    * ACM SIGMOD 2023
    * ACM Transactions on Spatial Algorithms and Systems (2022-)
    * Data Science and Engineering Journal (2023-)
