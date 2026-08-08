@@ -23,10 +23,10 @@ date_format = "Jan 2006"
 [[item]]
 organization = ""
 organization_url = ""
-title = "[ADC 2023](https://adc2023.github.io/) will be held in Melbourne. We have introduced several new tracks such as Encore Track (for students to learn from peers) and Shepherding Track (for student research training)."
+title = "We have developed [TaxoConf](https://www.taxoconf.com/), a comprehensive platform that automates the end-to-end conference management workflow, addressing the diverse and interconnected challenges faced by conference organizers. TaxoConf enables topic-coherent, constraint-aware, and human-centric program planning at scale. TaxoConf has been deployed in flagship Computer Science venues such as [VLDB 2026](https://vldb.org/2026/program.html) and [ACM SIGIR 2026](https://sigir2026.org/program.html), which typically attract 1000+ attendees and feature around 150 sessions. It has been adopted by more upcoming conferences, including ICDE 2027 and SIGIR 2027. Are you a conference organizer looking to make your life easier? Interested in using TaxoConf for your next conference? Get in touch with us. We would love to work with you!"
 url = ""
 certificate_url = ""
-date_start = "2023-03-28"
+date_start = "2026-08-08"
 date_end = ""
 description = ""
 
