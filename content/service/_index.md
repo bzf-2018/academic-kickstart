@@ -22,6 +22,7 @@
 
 #### Associate Editor
    * Proceedings of the VLDB Endowment (PVLDB) (2025-2026, 2022-2023, 2020-2021) 
+   * ACM Transactions on Data Science (2026-)
    * EDBT (2026, 2024)
    * ACM SIGMOD 2023
    * ACM Transactions on Spatial Algorithms and Systems (2022-)
