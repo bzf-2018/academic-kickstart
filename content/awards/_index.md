@@ -23,6 +23,7 @@
 
 #### Professional Service Award
 
+* Distinguished Associate Editor Award, PVLDB 2026
 * [Distinguished Senior PC Award, EDBT 2024](https://dastlab.github.io/edbticdt2024/?contents=awards_SPC_PC_edbt.html)
 * Distinguished Associate Editor Award, ACM SIGMOD 2023
 * Distinguished Associate Editor Award, PVLDB 2023
@@ -36,18 +37,17 @@
 * **2011 National Research Gold Medal and Prize**
 
   * awarded by Infocomm Development Authority of Singapore
-    #(https://www.comp.nus.edu.sg/programmes/pg/awards/)
+#(https://www.comp.nus.edu.sg/programmes/pg/awards/)
 
 #### University-level Award
 
 * **Best PhD Thesis Award** of School of Computing, National University of Singapore
 
   * the only winner out of the 35 PhD graduates of the whole school in the Class of 2011
-
 * **Best HDR Supervision Award 2017** (School of Science, RMIT)
 
   * among 200+ faculty members in the School
-
 * **Teaching Excellence Recognition Award**, AY2016, College of Science, Engineering and Health, RMIT (course title: Big Data Infrastructures)
 * **Top Course Award**, AY2017, College of Science, Engineering and Health, RMIT (course title: Programming 1)
 * **Top Course Award**, AY2018, College of Science, Engineering and Health, RMIT (course title: Big Data Management)
+
