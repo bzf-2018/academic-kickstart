@@ -17,7 +17,7 @@ menu:
 
 ## Topic 1: Conference Program Management
 
-**1.1) TaxoConf: A Taxonomy-Driven System for Conference Program Management ([System Prototype](https://taxoconf.com))**
+**TaxoConf: A Taxonomy-Driven System for Conference Program Management ([System Prototype](https://taxoconf.com))**
 
 TaxoConf is a system that automates the construction of coherent technical programs for large academic conferences. Given a set of accepted papers, it induces a topic taxonomy from paper abstracts and uses it to organize papers into thematically coherent oral and poster sessions, while jointly minimizing author scheduling conflicts and respecting capacity constraints on session sizes, parallel rooms, and time slots.
 
@@ -27,15 +27,6 @@ TaxoConf has been adopted to help organize the programs of top computer science 
 
 {{< figure_video src="projects/scholarly-data-management/taxoconf.png" library="1" >}}
 
----
-
-**1.2) Who Should Review—and Who Is Missing? Toward Accurate Reviewer Assignment and Scalable Expert Discovery**
-
-Accurate paper–reviewer assignment is essential to the quality and integrity of scientific peer review, yet existing systems face two fundamental pain points. 1) **Inaccurate assignment due to coarse expertise modeling**. Most existing methods represent each submission and reviewer using a flat, single-vector embedding. By compressing multi-faceted research topics into coarse semantic centroids, these representations cannot reliably distinguish fine-grained technical expertise from broad or superficial topical overlap. Consequently, partially relevant reviewers may receive high affinity scores, while genuinely suitable experts may be overlooked. 2) **Inability to discover experts beyond a fixed reviewer panel**. Existing conference-management platforms typically assume that the reviewer panel is fixed. When the available panel lacks sufficient expertise in emerging, interdisciplinary, or highly specialized topics, program chairs must manually recruit additional reviewers through personal networks, ad hoc searches, or inspection of related publications. This process is time-consuming, difficult to scale, and potentially biased toward familiar research communities.
-
-This project develops **ReviewAtlas**, a scholarly data management system that jointly supports accurate reviewer assignment and scalable expert discovery. For reviewer assignment, ReviewAtlas constructs a conference-specific weighted taxonomy and represents submissions and reviewers as distributions over fine-grained topics. It measures their alignment using tree–Wasserstein distance, thereby preserving multi-faceted expertise and distinguishing genuine technical depth from high-level topical similarity. For expert discovery, ReviewAtlas organizes a large, continuously updated expert lake using a persistent global expertise taxonomy. A global–local alignment mechanism calibrates external expert retrieval against the conference-specific expertise structure, enabling the system to identify qualified and promising experts who can address uncovered submission topics. Together, these capabilities provide a unified and scalable foundation for improving both reviewer-assignment fidelity and reviewer-panel coverage.
-
-{{< figure_video src="projects/scholarly-data-management/reviewatlas.png" library="1" >}}
 
 ---
 
@@ -49,3 +40,23 @@ Taxonomy is a structured “topic map” that organizes concepts into a hierarch
 
 {{< figure_video src="projects/data-orchestration-for-ai/gist.png" width="600" library="1" >}}
 
+---
+
+## Topic 3: Conference and Journal Review Management
+**TaxoReview: Who Should Review—and Who Is Missing? Toward Accurate Reviewer Assignment and Scalable Expert Discovery [SIGMOD 2027]**
+
+Accurate paper–reviewer assignment is essential to the quality and integrity of scientific peer review, yet existing systems face two fundamental pain points. 1) **Inaccurate assignment due to coarse expertise modeling**. Most existing methods represent each submission and reviewer using a flat, single-vector embedding. By compressing multi-faceted research topics into coarse semantic centroids, these representations cannot reliably distinguish fine-grained technical expertise from broad or superficial topical overlap. Consequently, partially relevant reviewers may receive high affinity scores, while genuinely suitable experts may be overlooked. 2) **Inability to discover experts beyond a fixed reviewer panel**. Existing conference-management platforms typically assume that the reviewer panel is fixed. When the available panel lacks sufficient expertise in emerging, interdisciplinary, or highly specialized topics, program chairs must manually recruit additional reviewers through personal networks, ad hoc searches, or inspection of related publications. This process is time-consuming, difficult to scale, and potentially biased toward familiar research communities.
+
+This project develops **TaxoReview**, a scholarly data management system that jointly supports accurate reviewer assignment and scalable expert discovery. For reviewer assignment, TaxoReview constructs a conference-specific weighted taxonomy and represents submissions and reviewers as distributions over fine-grained topics. It measures their alignment using tree–Wasserstein distance, thereby preserving multi-faceted expertise and distinguishing genuine technical depth from high-level topical similarity. For expert discovery, TaxoReview organizes a large, continuously updated expert lake using a persistent global expertise taxonomy. A global–local alignment mechanism calibrates external expert retrieval against the conference-specific expertise structure, enabling the system to identify qualified and promising experts who can address uncovered submission topics. Together, these capabilities provide a unified and scalable foundation for improving both reviewer-assignment fidelity and reviewer-panel coverage.
+
+{{< figure_video src="projects/scholarly-data-management/reviewatlas.png" library="1" >}}
+
+---
+
+## Topic 4: AgenticScholar: Agentic Data Management with Pipeline Orchestration for Scholarly Corpora ([SIGMOD'26](https://arxiv.org/pdf/2603.13774)) ([System Prototype](https://agenticscholar.github.io))**
+
+{{< modality_badges "text" "table" "image" >}}
+
+AgenticScholar addresses the growing friction in scholarly analysis, where evidence is distributed across modalities such as text, tables, figures, code snippets, and citation and bibliographic context, and where questions naturally evolve from retrieval into multi-step synthesis, comparison, trend tracing, and idea exploration. It treats this interaction as compiling natural-language requests into evidence-grounded analysis workflows represented as explicit executable DAG plans, rather than isolated invocations of a retriever or summarizer. In practice, it supports a spectrum of scholarly queries, including constraint-based paper retrieval; single-paper extraction and structured summarization of problem, method, and experimental details; cross-paper synthesis with ranking and inconsistency checking; and higher-level knowledge discovery such as research trend analysis, milestone paper selection, and uncovering under-explored problem–method combinations. Its agentic core unifies a structure-aware, multi-modal scholarly knowledge base with hybrid planning and operator-based execution, while keeping the process inspectable via materialized plans, intermediate results, and data lineage, and supporting new workflows by composing and extending a library of reusable operators.
+
+{{< figure_video src="projects/data-orchestration-for-ai/agenticscholar.png" youtube_id="rRzr36fhqHQ" library="1" >}}
