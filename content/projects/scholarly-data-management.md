@@ -23,7 +23,7 @@ TaxoConf is a system that automates the construction of coherent technical progr
 
 The system offers four key features: (1) accurate and coherent grouping of papers into sessions through taxonomy-guided topical clustering; (2) a unified, high-level schedule that consistently organizes sessions across multiple tracks; (3) flexible and convenient human-in-the-loop modification, allowing organizers to refine automatically generated programs with ease; and (4) diverse and practical data exports, enabling users to produce CSV or Excel files that can be readily imported into conference apps, as well as a rich, detailed HTML program page for attendee navigation.
 
-TaxoConf has been adopted to help organize the programs of top computer science conferences, including [SIGIR 2026](https://sigir2026.org/en-AU) and [IJCNN 2026](https://sites.google.com/view/ijcnn2026-emergent-gpais), and is deployed as a live web application at [taxoconf.com](https://taxoconf.com/).
+TaxoConf has been adopted to help organize the programs of top computer science conferences, including [VLDB 2026](https://vldb.org/2026/program.html), [SIGIR 2026](https://sigir2026.org/program.html) and [IJCNN 2026](https://sites.google.com/view/ijcnn2026-emergent-gpais).
 
 {{< figure_video src="projects/scholarly-data-management/taxoconf.png" library="1" >}}
 
@@ -42,18 +42,19 @@ Taxonomy is a structured “topic map” that organizes concepts into a hierarch
 
 ---
 
-## Topic 3: Conference and Journal Review Management
+## Topic 3: Publication/Research Grant Assessment Management
 **TaxoReview: Who Should Review—and Who Is Missing? Toward Accurate Reviewer Assignment and Scalable Expert Discovery [SIGMOD 2027]**
 
 Accurate paper–reviewer assignment is essential to the quality and integrity of scientific peer review, yet existing systems face two fundamental pain points. 1) **Inaccurate assignment due to coarse expertise modeling**. Most existing methods represent each submission and reviewer using a flat, single-vector embedding. By compressing multi-faceted research topics into coarse semantic centroids, these representations cannot reliably distinguish fine-grained technical expertise from broad or superficial topical overlap. Consequently, partially relevant reviewers may receive high affinity scores, while genuinely suitable experts may be overlooked. 2) **Inability to discover experts beyond a fixed reviewer panel**. Existing conference-management platforms typically assume that the reviewer panel is fixed. When the available panel lacks sufficient expertise in emerging, interdisciplinary, or highly specialized topics, program chairs must manually recruit additional reviewers through personal networks, ad hoc searches, or inspection of related publications. This process is time-consuming, difficult to scale, and potentially biased toward familiar research communities.
 
-This project develops **TaxoReview**, a scholarly data management system that jointly supports accurate reviewer assignment and scalable expert discovery. For reviewer assignment, TaxoReview constructs a conference-specific weighted taxonomy and represents submissions and reviewers as distributions over fine-grained topics. It measures their alignment using tree–Wasserstein distance, thereby preserving multi-faceted expertise and distinguishing genuine technical depth from high-level topical similarity. For expert discovery, TaxoReview organizes a large, continuously updated expert lake using a persistent global expertise taxonomy. A global–local alignment mechanism calibrates external expert retrieval against the conference-specific expertise structure, enabling the system to identify qualified and promising experts who can address uncovered submission topics. Together, these capabilities provide a unified and scalable foundation for improving both reviewer-assignment fidelity and reviewer-panel coverage.
+This project develops **TaxoReview**, a system that jointly supports accurate reviewer assignment and scalable expert discovery. For reviewer assignment, TaxoReview constructs a conference-specific weighted taxonomy and represents submissions and reviewers as distributions over fine-grained topics. It measures their alignment using tree–Wasserstein distance, thereby preserving multi-faceted expertise and distinguishing genuine technical depth from high-level topical similarity. For expert discovery, TaxoReview organizes a large, continuously updated expert lake using a persistent global expertise taxonomy. A global–local alignment mechanism calibrates external expert retrieval against the conference-specific expertise structure, enabling the system to identify qualified and promising experts who can address uncovered submission topics. Together, these capabilities provide a unified and scalable foundation for improving both reviewer-assignment fidelity and reviewer-panel coverage.
 
 {{< figure_video src="projects/scholarly-data-management/reviewatlas.png" library="1" >}}
 
 ---
 
-## Topic 4: AgenticScholar: Agentic Data Management with Pipeline Orchestration for Scholarly Corpora ([SIGMOD'26](https://arxiv.org/pdf/2603.13774)) ([System Prototype](https://agenticscholar.github.io))**
+## Topic 4: Scholarly Data Management and QA
+**AgenticScholar: Agentic Data Management with Pipeline Orchestration for Scholarly Corpora ([SIGMOD'26](https://arxiv.org/pdf/2603.13774)) ([System Prototype](https://agenticscholar.github.io))**
 
 {{< modality_badges "text" "table" "image" >}}
 
